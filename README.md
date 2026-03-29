@@ -104,4 +104,16 @@ By combining them, the project can:
 
 This provides a more complete and reliable understanding of how AI is shaping early career opportunities.
 
+---
+
+## Project Timeline
+
+| Date              | Task                                                   |
+|------------------|--------------------------------------------------------|
+| 17 March, 22:00  | Create a GitHub repository and submit the URL          |
+| 31 March, 22:00  | Submit the project proposal                            |
+| 14 April, 22:00  | Data collection, EDA, and hypothesis testing           |
+| 5 May, 22:00     | Apply machine learning methods                         |
+| 18 May, 22:00    | Final report and code submission                       |
+
 
