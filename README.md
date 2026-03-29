@@ -47,7 +47,10 @@ This project investigates how artificial intelligence is reshaping entry-level j
 
 ## Datasets
 
-This project uses two complementary datasets to analyze how artificial intelligence is affecting entry-level job opportunities.
+This project uses two complementary datasets to analyze how artificial intelligence is affecting entry-level job opportunities. 
+The datasets are obtained from Kaggle:
+Dataset 1: https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries
+Dataset 2: https://www.kaggle.com/datasets/abhishekjaiswal4896/ai-job-market-trends
 
 ---
 
