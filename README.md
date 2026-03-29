@@ -116,4 +116,38 @@ This provides a more complete and reliable understanding of how AI is shaping ea
 | 5 May, 22:00     | Apply machine learning methods                         |
 | 18 May, 22:00    | Final report and code submission                       |
 
+---
+
+## Methodology
+
+### 1. Data Preparation
+- Selected relevant columns related to demand, salary, experience, and education  
+- Cleaned missing and inconsistent values  
+- Standardized categorical variables (e.g., experience_level, education_required)  
+
+### 2. Exploratory Data Analysis (EDA)
+- Analyzed distribution of experience levels across jobs  
+- Examined salary trends and AI salary premiums  
+- Explored education and skill requirements  
+- Used visualizations (bar charts, boxplots) to identify patterns  
+
+### 3. Hypothesis Testing
+- Compared experience levels across different demand_score ranges  
+- Analyzed salary differences using ai_salary_premium_pct  
+- Examined relationship between education_required and experience_level  
+- Applied statistical tests and group comparisons  
+
+### 4. Interpretation
+- Interpreted results to evaluate accessibility of entry-level jobs  
+- Assessed whether AI creates barriers for recent graduates  
+- Connected findings to broader job market trends  
+
+### 5. Machine Learning 
+- Apply classification/regression models to predict:
+  - experience_level  
+  - salary trends  
+- Evaluate model performance and feature importance
+
+---
+
 
