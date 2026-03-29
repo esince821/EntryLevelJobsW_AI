@@ -12,10 +12,8 @@ This project investigates how artificial intelligence is reshaping entry-level j
 Research Question:
 Do jobs with higher demand scores tend to offer fewer entry-level opportunities?
 
-H0 (Null Hypothesis):
-Demand score is not related to the distribution of experience levels across jobs.
-H1 (Alternative Hypothesis):
-Jobs with higher demand scores are less likely to be entry-level and more likely to require mid or senior experience.
+H0 (Null Hypothesis): Demand score is not related to the distribution of experience levels across jobs.
+H1 (Alternative Hypothesis): Jobs with higher demand scores are less likely to be entry-level and more likely to require mid or senior experience.
 
 ### Hypothesis 2: AI Salary Premium and Experience Inequality
 Research Question:
