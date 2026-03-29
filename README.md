@@ -36,9 +36,11 @@ H1 (Alternative Hypothesis):
 Entry-level AI jobs still require formal degrees despite increasing emphasis on skills.
 
 ### Columns Used
-Hypothesis	Columns
-H1: Demand vs Entry-Level	demand_score, experience_level
-H2: Salary Premium Inequality	ai_salary_premium_pct, experience_level, annual_salary_usd
-H3: Education Requirements	education_required, experience_level, required_skills
+
+| Hypothesis                                      | Columns                                                                 |
+|------------------------------------------------|-------------------------------------------------------------------------|
+| H1: Demand vs Entry-Level Accessibility         | demand_score, experience_level                                          |
+| H2: Salary Premium Inequality                  | ai_salary_premium_pct, experience_level, annual_salary_usd              |
+| H3: Education Requirements                     | education_required, experience_level, required_skills                   |
 
 
