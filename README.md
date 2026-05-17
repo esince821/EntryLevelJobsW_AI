@@ -45,14 +45,22 @@ This project investigates how artificial intelligence is reshaping entry-level j
 
 ---
 
-## Datasets
+## Dataset
 
-This project uses two complementary datasets to analyze how artificial intelligence is affecting entry-level job opportunities. 
-The datasets are obtained from **Kaggle:**
+This project uses a cleaned AI job market dataset stored in the `data` folder.
 
-**Dataset 1:** https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries
+The original data was collected from Kaggle and cleaned for this project. After preprocessing and selecting relevant variables, the final analysis uses one cleaned dataset:
 
-**Dataset 2:** https://www.kaggle.com/datasets/abhishekjaiswal4896/ai-job-market-trends
+- `data/ai_jobs_market_cleaned.csv`
+
+The main columns used in the analysis are:
+
+- `demand_score`
+- `experience_level`
+- `annual_salary_usd`
+- `ai_salary_premium_pct`
+- `education_required`
+- `required_skills`
 
 ---
 
@@ -70,39 +78,6 @@ This dataset focuses on the **AI job market**, including salary trends, demand, 
 
 **Purpose:**  
 Used to analyze how AI demand and salary dynamics vary across experience levels.
-
----
-
-### Dataset 2: AI Job Listings
-
-This dataset provides detailed information about **job postings and hiring requirements**.
-
-**Key features used:**
-- experience_level → entry-level vs experienced roles  
-- education_required → degree vs non-degree jobs  
-- years_experience → hiring expectations  
-- required_skills → skill requirements  
-- salary_usd → salary comparison  
-- industry → sector-based analysis  
-
-**Purpose:**  
-Used to evaluate job accessibility, hiring expectations, and skill requirements for recent graduates.
-
----
-
-### Why Two Datasets?
-
-Each dataset captures a different perspective:
-
-- Dataset 1 → **market trends** (demand, salary, AI premium)  
-- Dataset 2 → **job-level details** (requirements, experience, skills)  
-
-By combining them, the project can:
-- compare **high-demand vs entry-level accessibility**  
-- analyze **salary differences across experience levels**  
-- examine whether **education is still required in AI jobs**  
-
-This provides a more complete and reliable understanding of how AI is shaping early career opportunities.
 
 ---
 
