@@ -1,0 +1,2001 @@
+industry,job_title,skills_required,experience_level,salary_min_usd,salary_max_usd,salary_avg_usd
+Healthcare,Data Analyst,"NumPy, Reinforcement Learning, PyTorch, Scikit-learn, GCP, FastAPI",Mid,92860,109598,101229.0
+Tech,Computer Vision Engineer,"Scikit-learn, CUDA, SQL, Pandas",Senior,78523,144875,111699.0
+Tech,Quant Researcher,"MLflow, FastAPI, Azure, PyTorch, SQL, GCP",Entry,124496,217204,170850.0
+Tech,AI Product Manager,"Scikit-learn, C++, Pandas, LangChain, AWS, R",Mid,50908,123743,87325.5
+Finance,Data Scientist,"Excel, Keras, SQL, Hugging Face",Senior,98694,135413,117053.5
+E-commerce,AI Product Manager,"GCP, Excel, Scikit-learn, MLflow",Senior,92632,180718,136675.0
+Automotive,Data Analyst,"Python, Flask, Scikit-learn, GCP",Mid,70575,88594,79584.5
+Education,Data Scientist,"Excel, SQL, Flask",Entry,63032,82144,72588.0
+Healthcare,ML Engineer,"Pandas, LangChain, GCP, Azure",Entry,134239,188504,161371.5
+Automotive,Computer Vision Engineer,"Excel, Reinforcement Learning, TensorFlow",Senior,79361,165029,122195.0
+Tech,Data Scientist,"Keras, MLflow, Reinforcement Learning",Entry,99964,125971,112967.5
+Finance,ML Engineer,"Excel, Reinforcement Learning, Keras, Scikit-learn",Entry,63583,132670,98126.5
+E-commerce,NLP Engineer,"C++, Hugging Face, Python, FastAPI",Entry,102770,117026,109898.0
+Retail,Quant Researcher,"Excel, MLflow, NumPy, Hugging Face, LangChain, FastAPI",Senior,137004,193975,165489.5
+Education,NLP Engineer,"Pandas, CUDA, NumPy, FastAPI",Mid,129842,216741,173291.5
+Automotive,NLP Engineer,"Hugging Face, Scikit-learn, Reinforcement Learning",Senior,124669,217866,171267.5
+E-commerce,ML Engineer,"MLflow, R, C++",Entry,137523,180097,158810.0
+Automotive,AI Product Manager,"Excel, MLflow, Hugging Face, Flask, Power BI",Entry,138184,192857,165520.5
+Healthcare,Data Scientist,"AWS, Azure, Power BI, CUDA, Reinforcement Learning, Hugging Face",Senior,100845,159745,130295.0
+E-commerce,ML Engineer,"R, CUDA, Power BI, AWS",Mid,115578,207180,161379.0
+Retail,Quant Researcher,"C++, Power BI, R, SQL, Keras, Azure",Entry,122521,175168,148844.5
+Retail,Quant Researcher,"LangChain, NumPy, CUDA, C++, MLflow, R",Entry,62483,105216,83849.5
+E-commerce,NLP Engineer,"CUDA, FastAPI, Scikit-learn, MLflow, Hugging Face",Mid,74317,148899,111608.0
+Tech,NLP Engineer,"PyTorch, CUDA, Hugging Face, Flask, C++",Senior,68115,125323,96719.0
+Healthcare,NLP Engineer,"Python, Reinforcement Learning, MLflow",Mid,89840,109693,99766.5
+Finance,NLP Engineer,"PyTorch, Reinforcement Learning, FastAPI, Power BI, Python, R",Mid,107786,126713,117249.5
+Education,Quant Researcher,"Azure, Flask, FastAPI, Hugging Face, Power BI, Python",Senior,44309,77284,60796.5
+Healthcare,Data Analyst,"R, Python, Pandas",Entry,124616,172767,148691.5
+Finance,Data Analyst,"Flask, Hugging Face, Pandas, Python, Scikit-learn, Keras",Mid,142616,216391,179503.5
+Finance,Data Analyst,"Scikit-learn, SQL, Azure",Entry,70932,161568,116250.0
+Tech,Quant Researcher,"Keras, Excel, TensorFlow",Senior,54565,94461,74513.0
+Healthcare,Data Scientist,"Hugging Face, Scikit-learn, C++, Excel, Azure",Entry,112660,179478,146069.0
+Tech,AI Product Manager,"Keras, PyTorch, AWS, FastAPI, CUDA",Mid,55330,104941,80135.5
+Finance,NLP Engineer,"MLflow, Keras, SQL, GCP, Power BI",Senior,110439,183071,146755.0
+Automotive,Computer Vision Engineer,"GCP, C++, Excel",Entry,97714,134140,115927.0
+Finance,Computer Vision Engineer,"PyTorch, LangChain, R",Mid,87250,156869,122059.5
+Retail,AI Researcher,"Excel, SQL, Python",Entry,77074,163272,120173.0
+E-commerce,ML Engineer,"SQL, Hugging Face, TensorFlow",Mid,116061,159814,137937.5
+Retail,Data Scientist,"PyTorch, Power BI, AWS, FastAPI",Senior,87411,136106,111758.5
+Automotive,Data Analyst,"Power BI, PyTorch, GCP, CUDA, Keras, Scikit-learn",Entry,88562,159008,123785.0
+E-commerce,Quant Researcher,"NumPy, AWS, Excel, SQL, Keras",Senior,41935,95608,68771.5
+E-commerce,NLP Engineer,"R, Power BI, CUDA, MLflow",Mid,126443,145937,136190.0
+Healthcare,AI Product Manager,"NumPy, SQL, Python, Reinforcement Learning, LangChain",Entry,99978,189975,144976.5
+Education,Quant Researcher,"Hugging Face, Flask, TensorFlow, Excel, SQL",Entry,65214,151832,108523.0
+Automotive,Quant Researcher,"Hugging Face, Pandas, CUDA, LangChain, FastAPI",Mid,71101,158421,114761.0
+Healthcare,ML Engineer,"LangChain, AWS, GCP",Entry,119200,129563,124381.5
+Finance,Data Scientist,"Scikit-learn, PyTorch, Flask, Azure",Mid,122083,203812,162947.5
+Automotive,Computer Vision Engineer,"GCP, TensorFlow, Power BI",Entry,144773,159408,152090.5
+Education,NLP Engineer,"TensorFlow, LangChain, PyTorch, Power BI, R",Entry,78317,161397,119857.0
+Finance,NLP Engineer,"Power BI, CUDA, C++, Pandas, SQL, AWS",Mid,75575,120477,98026.0
+E-commerce,AI Product Manager,"TensorFlow, Keras, PyTorch, AWS, Scikit-learn",Entry,133185,231638,182411.5
+E-commerce,Computer Vision Engineer,"Azure, Keras, Scikit-learn, Hugging Face, Excel, R",Entry,73140,164506,118823.0
+Finance,Data Scientist,"Keras, Pandas, Python, FastAPI, CUDA, Scikit-learn",Mid,69031,115150,92090.5
+Tech,Quant Researcher,"R, SQL, Python, PyTorch",Mid,49382,141727,95554.5
+Healthcare,Quant Researcher,"Keras, Excel, FastAPI, Azure, R, PyTorch",Senior,135916,233596,184756.0
+Tech,ML Engineer,"Power BI, LangChain, Flask, Excel, SQL, CUDA",Senior,149271,215582,182426.5
+Education,Data Analyst,"AWS, Excel, Azure",Entry,56348,123497,89922.5
+Retail,ML Engineer,"Excel, AWS, Keras, Azure, FastAPI, R",Senior,69159,139847,104503.0
+Tech,AI Researcher,"FastAPI, C++, Excel, Flask, Pandas",Senior,78305,162525,120415.0
+Finance,AI Product Manager,"TensorFlow, C++, SQL, Hugging Face, Flask, Power BI",Mid,64238,115477,89857.5
+Finance,Data Analyst,"Power BI, Excel, GCP",Senior,53583,148644,101113.5
+Retail,AI Product Manager,"Python, FastAPI, Scikit-learn, Hugging Face, Power BI, Flask",Entry,50457,126635,88546.0
+Retail,Computer Vision Engineer,"Hugging Face, Keras, Scikit-learn",Mid,97883,172449,135166.0
+E-commerce,AI Product Manager,"Reinforcement Learning, LangChain, Python",Entry,94965,141198,118081.5
+E-commerce,AI Researcher,"Azure, Pandas, Power BI, MLflow",Entry,81202,154117,117659.5
+Retail,AI Researcher,"C++, Reinforcement Learning, NumPy, Azure, MLflow, Flask",Mid,106117,199125,152621.0
+Automotive,AI Product Manager,"LangChain, FastAPI, SQL",Senior,137229,193525,165377.0
+Retail,Data Analyst,"NumPy, Python, Azure, GCP, C++, Scikit-learn",Senior,40995,54162,47578.5
+Healthcare,Data Analyst,"Power BI, AWS, NumPy, CUDA, MLflow",Mid,129140,193460,161300.0
+Education,Data Analyst,"LangChain, PyTorch, Flask",Mid,86690,120765,103727.5
+Retail,ML Engineer,"Flask, Scikit-learn, NumPy",Entry,85816,149983,117899.5
+Healthcare,Quant Researcher,"SQL, FastAPI, LangChain, Scikit-learn, NumPy, TensorFlow",Senior,60805,99890,80347.5
+Education,Data Analyst,"Azure, Excel, TensorFlow",Senior,118377,137651,128014.0
+Automotive,NLP Engineer,"C++, MLflow, CUDA, Hugging Face",Mid,81382,175328,128355.0
+Automotive,ML Engineer,"MLflow, NumPy, R, C++, PyTorch",Senior,132555,209536,171045.5
+Automotive,AI Researcher,"R, Python, Flask",Mid,54185,86768,70476.5
+E-commerce,AI Researcher,"FastAPI, Hugging Face, PyTorch",Mid,101020,182230,141625.0
+E-commerce,NLP Engineer,"Pandas, Flask, FastAPI, Reinforcement Learning",Mid,49529,68621,59075.0
+Tech,Quant Researcher,"Reinforcement Learning, Flask, NumPy, LangChain",Entry,88756,103530,96143.0
+Healthcare,ML Engineer,"AWS, TensorFlow, Flask, Power BI",Senior,108574,194850,151712.0
+Education,AI Researcher,"Reinforcement Learning, Python, Pandas, TensorFlow",Mid,111184,166588,138886.0
+Finance,Data Analyst,"R, C++, GCP, Hugging Face, LangChain, TensorFlow",Entry,120456,210505,165480.5
+Finance,AI Product Manager,"Flask, Azure, C++, Excel",Entry,86740,124608,105674.0
+Education,Data Analyst,"MLflow, Hugging Face, Python, Scikit-learn",Entry,78116,122008,100062.0
+E-commerce,Computer Vision Engineer,"FastAPI, SQL, Flask, CUDA, C++, Scikit-learn",Mid,42962,75277,59119.5
+Tech,Data Analyst,"LangChain, FastAPI, PyTorch, CUDA, AWS",Senior,51640,64834,58237.0
+Education,Quant Researcher,"C++, Power BI, NumPy",Mid,98118,167073,132595.5
+Finance,Quant Researcher,"FastAPI, Scikit-learn, LangChain",Mid,140819,222611,181715.0
+Finance,AI Researcher,"Flask, Python, Power BI, CUDA",Entry,82496,127505,105000.5
+Finance,AI Researcher,"Python, SQL, C++, FastAPI",Entry,124249,174855,149552.0
+Automotive,NLP Engineer,"TensorFlow, Power BI, FastAPI, LangChain, Scikit-learn, Python",Mid,81426,145890,113658.0
+Tech,Data Scientist,"GCP, LangChain, Keras",Entry,51104,130405,90754.5
+Finance,NLP Engineer,"Excel, TensorFlow, Pandas, CUDA",Entry,143177,155682,149429.5
+Education,NLP Engineer,"FastAPI, PyTorch, CUDA, Flask, Scikit-learn",Mid,139393,162837,151115.0
+Healthcare,ML Engineer,"Hugging Face, Python, FastAPI, CUDA, GCP",Entry,111746,137892,124819.0
+Healthcare,Computer Vision Engineer,"PyTorch, MLflow, Scikit-learn, Excel, Pandas",Senior,107083,124486,115784.5
+Education,AI Researcher,"Pandas, R, FastAPI, AWS, MLflow, Python",Senior,126865,190621,158743.0
+Finance,Computer Vision Engineer,"Python, SQL, Power BI, Scikit-learn, FastAPI",Mid,127896,227744,177820.0
+Healthcare,Data Analyst,"Keras, NumPy, Excel, C++, Pandas",Entry,133789,170501,152145.0
+Retail,Computer Vision Engineer,"Keras, Power BI, MLflow, AWS",Mid,126422,179630,153026.0
+Healthcare,ML Engineer,"Pandas, MLflow, Hugging Face, SQL",Entry,53156,131761,92458.5
+Retail,Data Scientist,"Hugging Face, LangChain, Azure, Scikit-learn, Flask",Senior,76985,169306,123145.5
+Education,Quant Researcher,"Python, Pandas, NumPy, MLflow",Entry,129308,160166,144737.0
+Finance,Data Scientist,"Power BI, GCP, Scikit-learn",Senior,112263,190554,151408.5
+E-commerce,NLP Engineer,"FastAPI, TensorFlow, NumPy, AWS, Azure",Entry,147332,158887,153109.5
+Automotive,Computer Vision Engineer,"CUDA, Pandas, GCP, LangChain, Azure, TensorFlow",Mid,54559,121736,88147.5
+Healthcare,Computer Vision Engineer,"Keras, GCP, SQL",Senior,91427,154726,123076.5
+Tech,AI Product Manager,"Power BI, FastAPI, Reinforcement Learning, SQL, Keras, AWS",Senior,120983,167455,144219.0
+Education,ML Engineer,"AWS, Hugging Face, Flask, CUDA",Mid,108083,168433,138258.0
+Healthcare,Quant Researcher,"Azure, MLflow, Excel, CUDA",Mid,43248,86711,64979.5
+Education,AI Researcher,"SQL, Flask, NumPy, Power BI, Excel",Entry,73459,87186,80322.5
+Healthcare,AI Researcher,"GCP, Azure, Reinforcement Learning, TensorFlow, CUDA, FastAPI",Mid,94345,157493,125919.0
+Healthcare,NLP Engineer,"Python, FastAPI, R",Mid,113621,179602,146611.5
+Finance,Data Scientist,"Scikit-learn, Pandas, GCP, Python, R",Entry,43828,137950,90889.0
+Tech,Quant Researcher,"AWS, Python, GCP, R, C++, FastAPI",Senior,118046,186961,152503.5
+Education,NLP Engineer,"NumPy, LangChain, Excel, Keras",Entry,143236,210339,176787.5
+Automotive,Data Analyst,"NumPy, Scikit-learn, Keras, TensorFlow, Hugging Face, Excel",Entry,70478,154317,112397.5
+E-commerce,Data Analyst,"TensorFlow, R, Hugging Face",Mid,69403,123368,96385.5
+Automotive,NLP Engineer,"Python, Power BI, Pandas, MLflow, Keras, Scikit-learn",Mid,143437,196807,170122.0
+Retail,NLP Engineer,"PyTorch, GCP, NumPy, Python, Pandas, Keras",Entry,59290,84926,72108.0
+Retail,AI Researcher,"SQL, Excel, Python",Mid,124112,141184,132648.0
+Finance,AI Researcher,"GCP, Keras, Azure, SQL, Scikit-learn, NumPy",Entry,93411,137526,115468.5
+Finance,Computer Vision Engineer,"Azure, TensorFlow, PyTorch, AWS, Flask",Senior,98592,132404,115498.0
+E-commerce,Quant Researcher,"Hugging Face, Power BI, SQL, FastAPI, C++, Reinforcement Learning",Mid,109693,136678,123185.5
+E-commerce,NLP Engineer,"Keras, CUDA, TensorFlow",Mid,128381,173902,151141.5
+Tech,Computer Vision Engineer,"SQL, AWS, Power BI",Mid,114132,129565,121848.5
+Finance,Quant Researcher,"NumPy, CUDA, Scikit-learn, Keras, Excel, Pandas",Mid,117985,188287,153136.0
+Finance,AI Product Manager,"NumPy, PyTorch, FastAPI, CUDA, Azure",Entry,98649,172840,135744.5
+Retail,NLP Engineer,"Keras, Pandas, MLflow, Scikit-learn",Mid,132259,223631,177945.0
+Education,Data Analyst,"MLflow, NumPy, Scikit-learn, Azure, Keras",Senior,92116,122876,107496.0
+E-commerce,NLP Engineer,"AWS, Hugging Face, Python, Reinforcement Learning, Scikit-learn, LangChain",Entry,111421,135658,123539.5
+Healthcare,NLP Engineer,"Keras, Pandas, TensorFlow, CUDA",Mid,64185,77841,71013.0
+Automotive,AI Researcher,"Power BI, CUDA, Scikit-learn",Senior,114287,213324,163805.5
+Automotive,AI Researcher,"CUDA, Reinforcement Learning, TensorFlow, Power BI, FastAPI, LangChain",Senior,67967,136114,102040.5
+Healthcare,Data Analyst,"C++, MLflow, TensorFlow, NumPy, Excel, R",Entry,119699,195649,157674.0
+Finance,NLP Engineer,"Excel, CUDA, GCP, Scikit-learn, Python",Senior,105893,197119,151506.0
+Education,Computer Vision Engineer,"NumPy, MLflow, R, C++",Mid,144509,185639,165074.0
+Finance,AI Product Manager,"AWS, GCP, R, Power BI",Senior,125979,196585,161282.0
+Healthcare,AI Product Manager,"Azure, Hugging Face, C++, Scikit-learn, Flask, Pandas",Mid,96804,161412,129108.0
+Retail,Data Analyst,"SQL, AWS, Pandas, PyTorch, LangChain, C++",Senior,145387,192153,168770.0
+Automotive,Quant Researcher,"AWS, Pandas, NumPy, LangChain, GCP, Flask",Entry,44646,126597,85621.5
+Healthcare,ML Engineer,"C++, PyTorch, NumPy, LangChain, AWS, Keras",Mid,61799,124735,93267.0
+Healthcare,AI Product Manager,"MLflow, LangChain, Power BI, Scikit-learn, Pandas",Entry,142495,193478,167986.5
+Education,Data Scientist,"NumPy, TensorFlow, GCP, LangChain",Mid,52111,123116,87613.5
+Retail,Data Analyst,"Scikit-learn, PyTorch, Python, GCP",Entry,68548,93154,80851.0
+Education,ML Engineer,"LangChain, Keras, Hugging Face, Scikit-learn, Reinforcement Learning",Entry,82795,123262,103028.5
+E-commerce,AI Researcher,"FastAPI, Python, Pandas, Azure",Entry,94239,122634,108436.5
+Retail,NLP Engineer,"Power BI, Flask, GCP, CUDA",Mid,64790,95818,80304.0
+E-commerce,Data Analyst,"PyTorch, AWS, SQL",Senior,133389,145372,139380.5
+Automotive,Computer Vision Engineer,"CUDA, Python, Keras, SQL",Senior,112241,126511,119376.0
+Education,AI Researcher,"NumPy, AWS, Azure, TensorFlow, CUDA",Mid,66955,108050,87502.5
+E-commerce,ML Engineer,"Python, Keras, PyTorch",Mid,84480,167599,126039.5
+Finance,AI Product Manager,"TensorFlow, FastAPI, AWS",Mid,74795,159585,117190.0
+Education,AI Researcher,"CUDA, MLflow, LangChain",Mid,128089,227314,177701.5
+Healthcare,NLP Engineer,"Flask, GCP, Azure, Reinforcement Learning, PyTorch",Mid,59563,117049,88306.0
+Automotive,Data Analyst,"PyTorch, Power BI, TensorFlow, Keras",Senior,124014,215657,169835.5
+Education,Computer Vision Engineer,"Python, LangChain, Hugging Face, Excel, Flask, Reinforcement Learning",Senior,82670,112083,97376.5
+Education,NLP Engineer,"Flask, Keras, Hugging Face, Azure, C++, SQL",Senior,99523,190227,144875.0
+Finance,Quant Researcher,"R, NumPy, Keras, TensorFlow, Python, GCP",Mid,63560,115745,89652.5
+Education,Data Analyst,"Power BI, Flask, LangChain, Excel, MLflow",Mid,96246,127172,111709.0
+Education,Quant Researcher,"FastAPI, Azure, Power BI, CUDA, Flask",Mid,133411,230008,181709.5
+Healthcare,NLP Engineer,"MLflow, Excel, LangChain",Senior,44241,67386,55813.5
+Education,ML Engineer,"NumPy, Scikit-learn, AWS, Power BI, SQL",Mid,42621,93559,68090.0
+Finance,NLP Engineer,"R, Keras, NumPy, FastAPI",Entry,75069,172405,123737.0
+Healthcare,AI Product Manager,"Keras, GCP, NumPy, AWS",Mid,110005,156652,133328.5
+Healthcare,Computer Vision Engineer,"Hugging Face, Reinforcement Learning, LangChain",Senior,127733,156796,142264.5
+Tech,Computer Vision Engineer,"LangChain, TensorFlow, AWS, Reinforcement Learning",Senior,81580,132667,107123.5
+Automotive,Data Analyst,"FastAPI, Reinforcement Learning, Hugging Face, GCP, R",Entry,46318,73935,60126.5
+Finance,Data Analyst,"Power BI, Excel, SQL, AWS, Azure",Entry,83360,173396,128378.0
+E-commerce,ML Engineer,"FastAPI, AWS, PyTorch",Mid,50841,149011,99926.0
+E-commerce,AI Product Manager,"CUDA, Python, Keras",Senior,84196,183723,133959.5
+Tech,AI Researcher,"Flask, Azure, Hugging Face, FastAPI, Excel",Mid,92704,181511,137107.5
+Tech,Data Scientist,"TensorFlow, CUDA, Reinforcement Learning, Flask, R",Entry,61245,133612,97428.5
+Retail,AI Product Manager,"NumPy, MLflow, Python, C++, Azure",Mid,91839,153147,122493.0
+Tech,AI Product Manager,"NumPy, PyTorch, C++, MLflow, TensorFlow",Entry,65330,149814,107572.0
+Automotive,NLP Engineer,"Power BI, Azure, FastAPI, LangChain, NumPy",Mid,142316,210339,176327.5
+Finance,Quant Researcher,"Excel, Azure, Python, R, Hugging Face",Mid,86369,153860,120114.5
+Healthcare,AI Product Manager,"Power BI, MLflow, NumPy, Pandas",Senior,123834,203953,163893.5
+Automotive,AI Product Manager,"LangChain, R, Hugging Face, Scikit-learn",Mid,86874,127959,107416.5
+Retail,AI Researcher,"Power BI, TensorFlow, Azure, CUDA, GCP, Pandas",Entry,91853,143054,117453.5
+E-commerce,Data Analyst,"Reinforcement Learning, SQL, Scikit-learn, AWS",Senior,115282,183026,149154.0
+Finance,NLP Engineer,"Scikit-learn, LangChain, Hugging Face, Python",Mid,100075,181375,140725.0
+Healthcare,AI Researcher,"Python, NumPy, Flask, LangChain, R",Entry,84286,155592,119939.0
+Automotive,Quant Researcher,"PyTorch, Python, GCP, MLflow",Senior,81464,148211,114837.5
+Education,Computer Vision Engineer,"Python, MLflow, Azure, TensorFlow, Power BI",Entry,142464,186808,164636.0
+E-commerce,Data Analyst,"NumPy, R, MLflow, C++, FastAPI",Entry,121357,161420,141388.5
+Healthcare,AI Researcher,"Excel, CUDA, Pandas",Mid,126266,151205,138735.5
+Retail,Computer Vision Engineer,"Scikit-learn, SQL, Keras, GCP, AWS, NumPy",Mid,43986,115213,79599.5
+Automotive,Data Scientist,"PyTorch, SQL, Reinforcement Learning, MLflow, AWS",Entry,62157,96230,79193.5
+Retail,AI Product Manager,"FastAPI, GCP, LangChain, MLflow",Entry,102546,120953,111749.5
+Tech,Data Analyst,"NumPy, R, Power BI, CUDA",Mid,79611,163781,121696.0
+Education,AI Researcher,"Pandas, CUDA, PyTorch",Senior,142867,168105,155486.0
+Retail,ML Engineer,"Azure, Python, Hugging Face, SQL",Mid,63520,101934,82727.0
+Retail,Data Scientist,"MLflow, PyTorch, Scikit-learn",Senior,116202,179210,147706.0
+Healthcare,Quant Researcher,"Pandas, Reinforcement Learning, FastAPI",Mid,137620,173474,155547.0
+Retail,NLP Engineer,"TensorFlow, SQL, NumPy",Entry,131485,218283,174884.0
+Tech,AI Product Manager,"Flask, C++, TensorFlow, Reinforcement Learning, R",Entry,117341,158797,138069.0
+Automotive,Data Analyst,"LangChain, Python, SQL",Entry,123706,167631,145668.5
+Tech,Quant Researcher,"Azure, Scikit-learn, Keras, R, Hugging Face",Mid,43828,96329,70078.5
+Education,AI Product Manager,"NumPy, AWS, LangChain",Entry,130984,170051,150517.5
+E-commerce,Data Scientist,"C++, Scikit-learn, CUDA, LangChain",Entry,125831,194965,160398.0
+Finance,AI Product Manager,"NumPy, Excel, Azure, AWS",Entry,96628,121086,108857.0
+Finance,NLP Engineer,"Power BI, GCP, FastAPI, C++, Pandas, SQL",Entry,85788,132802,109295.0
+Automotive,Quant Researcher,"MLflow, Flask, Azure, CUDA, FastAPI",Mid,147975,247578,197776.5
+Automotive,Data Analyst,"Pandas, AWS, R, TensorFlow, FastAPI, MLflow",Entry,48226,90071,69148.5
+Healthcare,Data Scientist,"Python, Power BI, PyTorch",Senior,62447,129068,95757.5
+Retail,Computer Vision Engineer,"TensorFlow, Python, AWS, Reinforcement Learning, NumPy, CUDA",Senior,110876,127413,119144.5
+Education,AI Product Manager,"SQL, MLflow, R",Senior,85915,109356,97635.5
+Finance,AI Product Manager,"NumPy, Reinforcement Learning, Azure, C++, R",Entry,143326,161834,152580.0
+Healthcare,Data Scientist,"Power BI, Azure, SQL, C++, Hugging Face",Senior,89991,179017,134504.0
+E-commerce,Computer Vision Engineer,"Python, Pandas, AWS, TensorFlow, SQL",Senior,67897,156557,112227.0
+Finance,AI Product Manager,"LangChain, Flask, PyTorch, Python",Entry,44318,101581,72949.5
+Tech,Data Analyst,"Keras, Azure, Excel, TensorFlow",Mid,67657,112933,90295.0
+Finance,Quant Researcher,"Keras, CUDA, PyTorch, Power BI",Entry,97752,152521,125136.5
+Automotive,Data Scientist,"Scikit-learn, Power BI, PyTorch, SQL, Excel, AWS",Entry,93403,169785,131594.0
+Automotive,NLP Engineer,"Azure, NumPy, LangChain, FastAPI, Hugging Face, Keras",Senior,143054,182950,163002.0
+E-commerce,Computer Vision Engineer,"AWS, Python, Flask, Pandas, Azure, LangChain",Entry,123977,182190,153083.5
+Finance,AI Researcher,"Hugging Face, R, C++",Mid,108708,183957,146332.5
+Tech,Quant Researcher,"Python, NumPy, Excel, Azure, Scikit-learn",Entry,42431,121809,82120.0
+Automotive,AI Researcher,"Power BI, GCP, MLflow, CUDA, Flask",Entry,129721,169068,149394.5
+Automotive,ML Engineer,"PyTorch, Reinforcement Learning, Azure, Python, AWS, Hugging Face",Mid,51999,114433,83216.0
+E-commerce,Data Scientist,"Pandas, MLflow, Azure, Reinforcement Learning, FastAPI, R",Senior,133703,230141,181922.0
+Education,Quant Researcher,"Pandas, AWS, R, PyTorch, Power BI, NumPy",Senior,75109,126693,100901.0
+Automotive,Data Analyst,"C++, NumPy, Power BI, MLflow, CUDA",Senior,102227,124205,113216.0
+Education,AI Researcher,"Power BI, Azure, R",Mid,77125,136585,106855.0
+Finance,Computer Vision Engineer,"NumPy, C++, AWS, SQL, MLflow",Senior,114539,151150,132844.5
+Retail,Quant Researcher,"Azure, C++, Reinforcement Learning",Entry,42773,105072,73922.5
+Finance,AI Researcher,"Power BI, Hugging Face, Keras, Reinforcement Learning, TensorFlow, Excel",Entry,122640,208762,165701.0
+Education,AI Product Manager,"MLflow, LangChain, Hugging Face, Azure, Flask",Mid,90611,152714,121662.5
+Tech,AI Product Manager,"SQL, Keras, Scikit-learn, NumPy",Senior,61529,88876,75202.5
+Tech,AI Product Manager,"NumPy, Pandas, Hugging Face",Mid,62907,140660,101783.5
+Finance,AI Product Manager,"Scikit-learn, Keras, C++",Mid,87618,184731,136174.5
+Retail,Computer Vision Engineer,"MLflow, GCP, TensorFlow, AWS",Senior,129185,169420,149302.5
+Education,Data Analyst,"Flask, Excel, Keras, PyTorch, Python",Entry,127161,187759,157460.0
+Education,NLP Engineer,"SQL, Python, MLflow",Senior,91557,109518,100537.5
+Tech,AI Product Manager,"PyTorch, Excel, Reinforcement Learning, Scikit-learn, Azure",Entry,85776,173610,129693.0
+Automotive,AI Researcher,"Excel, Hugging Face, PyTorch, R, SQL, Flask",Senior,95255,160292,127773.5
+Automotive,AI Researcher,"Scikit-learn, Hugging Face, Pandas, Keras, TensorFlow",Senior,70536,137707,104121.5
+Finance,AI Product Manager,"FastAPI, MLflow, LangChain, Hugging Face, Power BI",Entry,56526,149136,102831.0
+Finance,Quant Researcher,"Pandas, Keras, Python, NumPy, GCP",Senior,40077,124906,82491.5
+Finance,Data Analyst,"Power BI, Azure, SQL, Flask, NumPy, CUDA",Entry,136304,175873,156088.5
+Automotive,Computer Vision Engineer,"Keras, SQL, FastAPI, GCP, Flask",Mid,45264,63508,54386.0
+E-commerce,Computer Vision Engineer,"Excel, Keras, Pandas, CUDA, SQL, Hugging Face",Senior,70448,88238,79343.0
+Retail,Data Analyst,"CUDA, PyTorch, Excel",Senior,132241,182322,157281.5
+Finance,Data Scientist,"Flask, Scikit-learn, FastAPI, Power BI",Senior,97077,144023,120550.0
+E-commerce,Data Scientist,"Flask, C++, CUDA, R",Senior,93070,155510,124290.0
+Education,Quant Researcher,"R, Pandas, TensorFlow",Senior,110751,196979,153865.0
+Education,Data Scientist,"MLflow, Hugging Face, FastAPI, Azure",Entry,57928,153531,105729.5
+Education,AI Product Manager,"NumPy, MLflow, PyTorch, Pandas, FastAPI",Entry,139669,235176,187422.5
+Education,Data Scientist,"FastAPI, TensorFlow, Keras, Excel, Pandas",Mid,76192,110813,93502.5
+Healthcare,AI Researcher,"Power BI, C++, Flask, Keras, Reinforcement Learning, SQL",Mid,86522,144139,115330.5
+Finance,NLP Engineer,"FastAPI, MLflow, Pandas, R, TensorFlow",Mid,40634,94055,67344.5
+Education,Computer Vision Engineer,"R, Keras, PyTorch",Entry,50432,62117,56274.5
+Retail,Data Scientist,"Pandas, GCP, C++, Reinforcement Learning",Senior,92187,143257,117722.0
+Education,AI Product Manager,"Azure, LangChain, Reinforcement Learning",Mid,139231,220256,179743.5
+Education,AI Product Manager,"Keras, Excel, SQL, Python, Scikit-learn",Entry,116281,126487,121384.0
+Healthcare,AI Product Manager,"Power BI, C++, NumPy",Senior,66964,130664,98814.0
+Automotive,ML Engineer,"Excel, FastAPI, Hugging Face, C++, GCP, R",Senior,72900,93392,83146.0
+Retail,AI Researcher,"Reinforcement Learning, MLflow, Hugging Face, CUDA, Flask",Senior,122910,218807,170858.5
+E-commerce,NLP Engineer,"AWS, Power BI, GCP, NumPy, Flask",Senior,60661,137033,98847.0
+Finance,Data Analyst,"Azure, Flask, CUDA, TensorFlow",Entry,51191,106210,78700.5
+Education,Data Scientist,"FastAPI, Pandas, Scikit-learn",Entry,67972,161749,114860.5
+Healthcare,Computer Vision Engineer,"FastAPI, Keras, TensorFlow, SQL, C++, GCP",Mid,43847,66742,55294.5
+Automotive,Data Scientist,"Excel, CUDA, Reinforcement Learning, R, FastAPI, Keras",Mid,66723,83982,75352.5
+E-commerce,Data Analyst,"Excel, GCP, CUDA, Azure",Entry,149030,200926,174978.0
+Retail,Quant Researcher,"Python, PyTorch, LangChain, Hugging Face, Power BI, Scikit-learn",Mid,42247,66979,54613.0
+Education,Data Analyst,"Scikit-learn, Excel, GCP, Python",Senior,57957,133868,95912.5
+Retail,AI Product Manager,"FastAPI, MLflow, Pandas, Hugging Face, GCP, C++",Mid,91662,156759,124210.5
+Healthcare,AI Researcher,"MLflow, Scikit-learn, R",Entry,123795,160363,142079.0
+Finance,AI Product Manager,"SQL, Flask, Reinforcement Learning, C++",Entry,92753,165745,129249.0
+E-commerce,AI Researcher,"LangChain, Excel, TensorFlow, Scikit-learn",Mid,94406,130758,112582.0
+E-commerce,Computer Vision Engineer,"AWS, FastAPI, MLflow",Mid,105919,193927,149923.0
+Education,Data Scientist,"Azure, Hugging Face, Python",Entry,129469,211237,170353.0
+Automotive,ML Engineer,"R, AWS, Azure",Entry,68792,82411,75601.5
+Education,AI Researcher,"CUDA, Power BI, SQL, Pandas",Mid,92739,133823,113281.0
+E-commerce,Computer Vision Engineer,"Reinforcement Learning, Scikit-learn, Excel, SQL",Senior,85651,149208,117429.5
+Tech,Data Scientist,"MLflow, Keras, LangChain",Senior,51635,124521,88078.0
+Tech,AI Product Manager,"C++, Scikit-learn, PyTorch, Pandas, Flask",Mid,87231,97496,92363.5
+Tech,NLP Engineer,"AWS, SQL, Excel",Entry,103271,157584,130427.5
+Automotive,Quant Researcher,"Reinforcement Learning, MLflow, TensorFlow, PyTorch, Keras",Mid,43405,107147,75276.0
+Tech,Data Analyst,"Azure, TensorFlow, NumPy",Mid,55825,93053,74439.0
+Automotive,Data Analyst,"FastAPI, NumPy, C++, LangChain",Senior,96220,194055,145137.5
+Retail,Computer Vision Engineer,"Flask, Excel, PyTorch, Scikit-learn, FastAPI, Keras",Entry,123561,166771,145166.0
+Finance,Data Scientist,"Keras, MLflow, Excel",Senior,91175,121911,106543.0
+E-commerce,ML Engineer,"Azure, PyTorch, CUDA",Entry,84664,173228,128946.0
+Automotive,Data Analyst,"CUDA, R, Hugging Face, PyTorch, AWS",Senior,109743,171570,140656.5
+E-commerce,AI Researcher,"Pandas, C++, R, MLflow",Senior,55502,113844,84673.0
+Healthcare,Data Analyst,"Python, Pandas, R, Flask",Entry,47355,136323,91839.0
+Retail,Quant Researcher,"PyTorch, TensorFlow, Hugging Face",Senior,143690,196277,169983.5
+Tech,ML Engineer,"Python, AWS, R, Azure, Scikit-learn",Mid,56560,97606,77083.0
+Tech,AI Researcher,"Excel, NumPy, AWS, PyTorch, Pandas, CUDA",Mid,149782,235152,192467.0
+Automotive,AI Product Manager,"LangChain, Hugging Face, NumPy, Excel",Entry,127612,155925,141768.5
+Education,AI Researcher,"FastAPI, LangChain, Pandas, NumPy, TensorFlow",Entry,78409,151342,114875.5
+Education,Data Analyst,"AWS, MLflow, PyTorch",Mid,149023,169526,159274.5
+Healthcare,Quant Researcher,"PyTorch, Flask, Scikit-learn, AWS",Senior,64779,145970,105374.5
+Education,Data Analyst,"SQL, TensorFlow, AWS, Reinforcement Learning, GCP, NumPy",Senior,69887,112524,91205.5
+Retail,Data Scientist,"Excel, Hugging Face, FastAPI, CUDA, MLflow, Flask",Entry,119337,178013,148675.0
+Tech,Data Analyst,"FastAPI, Pandas, Scikit-learn, PyTorch",Entry,139462,194245,166853.5
+Automotive,ML Engineer,"NumPy, MLflow, CUDA, Azure, C++, GCP",Entry,68689,117329,93009.0
+Automotive,AI Researcher,"C++, Python, TensorFlow, Keras, Excel",Mid,87545,175294,131419.5
+Finance,Data Scientist,"Keras, FastAPI, AWS, SQL, Excel, C++",Mid,96034,114094,105064.0
+Retail,Quant Researcher,"Reinforcement Learning, TensorFlow, Azure, CUDA, GCP, Hugging Face",Mid,71002,108691,89846.5
+Healthcare,Data Analyst,"Pandas, TensorFlow, PyTorch, Power BI, GCP",Mid,48576,127886,88231.0
+Retail,NLP Engineer,"Hugging Face, FastAPI, Python, NumPy",Senior,133128,151676,142402.0
+Retail,AI Product Manager,"Azure, SQL, Hugging Face, R, LangChain",Mid,72195,154714,113454.5
+E-commerce,AI Researcher,"PyTorch, AWS, Python, Scikit-learn",Entry,70554,81212,75883.0
+E-commerce,Data Scientist,"Azure, AWS, Keras, R, FastAPI",Entry,72299,109340,90819.5
+Tech,Computer Vision Engineer,"Keras, Azure, Hugging Face, CUDA, MLflow",Mid,80922,120813,100867.5
+Education,Data Analyst,"Reinforcement Learning, SQL, AWS, FastAPI, TensorFlow, PyTorch",Senior,115164,135686,125425.0
+Healthcare,Computer Vision Engineer,"Pandas, Scikit-learn, Excel, TensorFlow, GCP",Entry,100207,146233,123220.0
+Tech,Computer Vision Engineer,"FastAPI, Keras, PyTorch, GCP, Excel",Senior,121180,193454,157317.0
+Automotive,Data Scientist,"GCP, Excel, CUDA",Mid,71373,133244,102308.5
+E-commerce,Data Scientist,"SQL, Flask, AWS, Reinforcement Learning, FastAPI, LangChain",Mid,41433,118102,79767.5
+Healthcare,ML Engineer,"FastAPI, Scikit-learn, Pandas, Azure, Reinforcement Learning",Entry,134278,152472,143375.0
+Finance,AI Researcher,"LangChain, Hugging Face, Keras, Azure, Excel, FastAPI",Mid,52404,71046,61725.0
+Automotive,NLP Engineer,"R, MLflow, Azure, Scikit-learn",Entry,98266,145572,121919.0
+Finance,Data Analyst,"NumPy, R, MLflow, Flask, TensorFlow",Mid,134179,212706,173442.5
+Retail,ML Engineer,"Scikit-learn, R, TensorFlow, Power BI, Azure",Mid,66368,81382,73875.0
+Retail,AI Product Manager,"Keras, Python, Reinforcement Learning, Scikit-learn",Mid,115773,215403,165588.0
+E-commerce,NLP Engineer,"Flask, NumPy, Keras, AWS, SQL",Entry,130032,174733,152382.5
+Automotive,AI Researcher,"Hugging Face, Azure, NumPy, Scikit-learn, Pandas",Senior,105292,172671,138981.5
+Automotive,NLP Engineer,"Azure, R, CUDA",Senior,98122,119896,109009.0
+Retail,AI Product Manager,"Excel, Keras, GCP, MLflow",Senior,122419,186888,154653.5
+Education,AI Researcher,"Pandas, Excel, NumPy, LangChain",Senior,73317,167850,120583.5
+Healthcare,Data Scientist,"Pandas, FastAPI, Scikit-learn, AWS",Mid,52740,129282,91011.0
+Finance,AI Product Manager,"MLflow, Scikit-learn, Python, Reinforcement Learning, C++",Mid,130522,169280,149901.0
+Tech,NLP Engineer,"FastAPI, Azure, LangChain, GCP",Entry,146948,163508,155228.0
+Tech,Quant Researcher,"Reinforcement Learning, Hugging Face, Scikit-learn, C++",Senior,63681,156946,110313.5
+Tech,Quant Researcher,"Azure, PyTorch, Keras",Mid,102993,176878,139935.5
+Tech,ML Engineer,"Pandas, FastAPI, TensorFlow, SQL",Senior,146286,228405,187345.5
+Retail,Data Scientist,"AWS, Power BI, R, NumPy, Scikit-learn, LangChain",Senior,55546,105329,80437.5
+E-commerce,Data Scientist,"C++, AWS, MLflow",Senior,84124,96081,90102.5
+Tech,NLP Engineer,"Flask, PyTorch, C++, Pandas, TensorFlow",Entry,105170,188370,146770.0
+Healthcare,Computer Vision Engineer,"Azure, PyTorch, R, Reinforcement Learning, Flask, Keras",Mid,55923,98036,76979.5
+E-commerce,AI Researcher,"Scikit-learn, R, TensorFlow, PyTorch",Senior,120230,164622,142426.0
+Education,Data Analyst,"MLflow, Keras, C++, GCP, NumPy",Mid,126208,174920,150564.0
+Education,Quant Researcher,"GCP, Power BI, Python, Azure, Hugging Face, CUDA",Senior,123659,207607,165633.0
+Tech,Data Scientist,"C++, Excel, MLflow, Pandas, R, NumPy",Mid,78431,154672,116551.5
+E-commerce,Computer Vision Engineer,"Keras, FastAPI, Power BI, MLflow",Mid,60552,139539,100045.5
+Healthcare,Data Scientist,"Excel, PyTorch, R, Power BI, Flask, Pandas",Senior,131559,209584,170571.5
+Tech,Computer Vision Engineer,"Power BI, R, Scikit-learn",Mid,122855,194503,158679.0
+Healthcare,ML Engineer,"Excel, PyTorch, LangChain, Flask, GCP",Entry,58087,119465,88776.0
+Tech,AI Product Manager,"Power BI, Scikit-learn, R, Pandas",Entry,60085,116808,88446.5
+Education,Computer Vision Engineer,"Reinforcement Learning, Python, NumPy, LangChain",Entry,146409,165202,155805.5
+E-commerce,Data Analyst,"TensorFlow, Keras, PyTorch, Reinforcement Learning",Senior,120234,139093,129663.5
+Education,AI Researcher,"NumPy, GCP, AWS, Python, Keras",Senior,104105,197396,150750.5
+Finance,NLP Engineer,"MLflow, Power BI, Keras",Entry,148487,177884,163185.5
+Automotive,Quant Researcher,"TensorFlow, Power BI, Python, Keras, AWS",Senior,80455,100773,90614.0
+Automotive,NLP Engineer,"SQL, MLflow, Power BI, FastAPI, NumPy",Senior,115657,181953,148805.0
+Tech,AI Product Manager,"FastAPI, NumPy, C++, MLflow, GCP",Senior,97381,144492,120936.5
+Retail,AI Researcher,"SQL, Pandas, Power BI, FastAPI",Entry,55751,133772,94761.5
+Retail,Computer Vision Engineer,"FastAPI, Power BI, Azure, Python",Entry,90552,188412,139482.0
+Education,ML Engineer,"Python, PyTorch, Excel",Entry,69230,128642,98936.0
+Automotive,Data Analyst,"LangChain, GCP, R, MLflow, Scikit-learn",Entry,71489,149503,110496.0
+E-commerce,Quant Researcher,"C++, LangChain, Power BI, Pandas, CUDA, TensorFlow",Senior,57739,75267,66503.0
+Education,Quant Researcher,"Excel, Power BI, Reinforcement Learning, SQL, NumPy",Senior,149192,228942,189067.0
+E-commerce,ML Engineer,"Flask, FastAPI, CUDA",Mid,91346,160302,125824.0
+Tech,Data Analyst,"Power BI, MLflow, TensorFlow, AWS, Hugging Face",Senior,56886,146884,101885.0
+Tech,Quant Researcher,"Python, Power BI, Scikit-learn, FastAPI, Excel, SQL",Entry,56258,108983,82620.5
+Tech,AI Product Manager,"Reinforcement Learning, CUDA, NumPy",Senior,139096,176960,158028.0
+Automotive,NLP Engineer,"Power BI, Keras, TensorFlow, FastAPI",Entry,120316,133437,126876.5
+Finance,AI Product Manager,"Hugging Face, R, LangChain",Mid,48868,94542,71705.0
+Finance,NLP Engineer,"Pandas, CUDA, AWS, TensorFlow, Python",Entry,108994,183026,146010.0
+Healthcare,AI Product Manager,"Hugging Face, GCP, Excel, NumPy",Senior,118921,192736,155828.5
+E-commerce,AI Product Manager,"LangChain, Reinforcement Learning, FastAPI, Power BI, AWS",Entry,57113,75630,66371.5
+Tech,AI Product Manager,"CUDA, FastAPI, Python",Mid,70702,164914,117808.0
+E-commerce,Data Analyst,"Flask, TensorFlow, Scikit-learn, MLflow",Entry,114639,183492,149065.5
+Healthcare,AI Product Manager,"Scikit-learn, SQL, GCP, Hugging Face",Senior,110697,201149,155923.0
+Retail,Data Analyst,"Reinforcement Learning, MLflow, PyTorch, LangChain, Hugging Face, AWS",Senior,68664,136603,102633.5
+Education,NLP Engineer,"R, Python, PyTorch, CUDA",Entry,64445,150617,107531.0
+Education,Quant Researcher,"MLflow, Keras, TensorFlow, CUDA, Flask",Entry,74954,114010,94482.0
+Retail,AI Researcher,"CUDA, Power BI, Hugging Face, Pandas, MLflow",Senior,83014,110116,96565.0
+Automotive,ML Engineer,"Flask, PyTorch, Reinforcement Learning, MLflow",Senior,146097,192440,169268.5
+Healthcare,Data Analyst,"C++, NumPy, CUDA, GCP, TensorFlow, Hugging Face",Entry,50137,121449,85793.0
+Tech,NLP Engineer,"Flask, CUDA, AWS",Senior,96091,176352,136221.5
+Finance,AI Product Manager,"R, Python, PyTorch, GCP, Power BI",Senior,118753,156568,137660.5
+Tech,Quant Researcher,"Hugging Face, MLflow, CUDA",Entry,56022,87385,71703.5
+Education,NLP Engineer,"FastAPI, TensorFlow, PyTorch",Senior,65449,93935,79692.0
+E-commerce,Quant Researcher,"Excel, CUDA, Keras",Entry,53432,134809,94120.5
+Finance,Quant Researcher,"Power BI, FastAPI, Azure, MLflow, CUDA",Entry,91250,117518,104384.0
+E-commerce,Data Scientist,"Reinforcement Learning, Hugging Face, GCP, Excel, MLflow, CUDA",Senior,56274,130011,93142.5
+Retail,Computer Vision Engineer,"Keras, Excel, Power BI, SQL, GCP",Mid,100532,123437,111984.5
+E-commerce,AI Product Manager,"LangChain, Scikit-learn, Keras, Power BI, Excel",Senior,133743,144254,138998.5
+Tech,AI Product Manager,"SQL, CUDA, AWS",Entry,44510,92759,68634.5
+Automotive,NLP Engineer,"SQL, C++, CUDA, GCP, Flask, Reinforcement Learning",Entry,88577,147284,117930.5
+Healthcare,NLP Engineer,"C++, Excel, Scikit-learn, FastAPI, Power BI",Mid,129724,218042,173883.0
+Retail,Quant Researcher,"C++, CUDA, Power BI, Azure, AWS, PyTorch",Entry,41023,80713,60868.0
+Retail,ML Engineer,"LangChain, Pandas, Scikit-learn, CUDA, Reinforcement Learning, TensorFlow",Entry,106371,127550,116960.5
+Retail,AI Researcher,"Keras, PyTorch, AWS, SQL",Mid,56530,75014,65772.0
+Retail,NLP Engineer,"Power BI, GCP, TensorFlow, CUDA, MLflow",Entry,119266,200044,159655.0
+Automotive,AI Product Manager,"FastAPI, NumPy, R",Senior,131807,227051,179429.0
+Tech,ML Engineer,"FastAPI, NumPy, R",Senior,50349,109003,79676.0
+Healthcare,Quant Researcher,"Flask, PyTorch, GCP",Senior,56567,116937,86752.0
+Retail,Data Analyst,"Azure, PyTorch, Pandas, R, GCP",Entry,137094,205303,171198.5
+Healthcare,ML Engineer,"PyTorch, Azure, LangChain, Python",Senior,123710,203362,163536.0
+Healthcare,Data Scientist,"Reinforcement Learning, Scikit-learn, TensorFlow, PyTorch, Hugging Face, Flask",Mid,120259,184163,152211.0
+Finance,Quant Researcher,"LangChain, Pandas, Power BI",Entry,131912,166499,149205.5
+Retail,NLP Engineer,"PyTorch, MLflow, LangChain",Entry,74468,85718,80093.0
+Finance,Data Analyst,"SQL, GCP, PyTorch",Entry,43013,128940,85976.5
+Education,Data Scientist,"C++, GCP, Reinforcement Learning, R, Python, Power BI",Entry,55605,70305,62955.0
+E-commerce,NLP Engineer,"Reinforcement Learning, Pandas, NumPy, FastAPI",Entry,99742,185700,142721.0
+Automotive,AI Product Manager,"Pandas, Keras, Scikit-learn, TensorFlow",Mid,103675,173394,138534.5
+Education,Computer Vision Engineer,"FastAPI, AWS, Hugging Face, R",Mid,126438,181388,153913.0
+Healthcare,NLP Engineer,"C++, PyTorch, Flask",Mid,45855,71005,58430.0
+Tech,AI Researcher,"LangChain, Pandas, AWS",Mid,77831,145508,111669.5
+Finance,Quant Researcher,"AWS, GCP, Azure, Scikit-learn, Python",Mid,91591,110529,101060.0
+Finance,AI Researcher,"FastAPI, NumPy, Excel",Entry,115140,139207,127173.5
+Healthcare,ML Engineer,"Reinforcement Learning, GCP, PyTorch",Senior,52749,82725,67737.0
+Retail,Quant Researcher,"GCP, SQL, R, AWS",Mid,59860,82154,71007.0
+Healthcare,AI Researcher,"CUDA, SQL, AWS, Azure, Python",Senior,134954,197152,166053.0
+Tech,Data Analyst,"Excel, Scikit-learn, Flask, Power BI",Senior,89200,180591,134895.5
+Automotive,AI Researcher,"FastAPI, Azure, Pandas, NumPy",Entry,54169,136576,95372.5
+Healthcare,Data Scientist,"PyTorch, Power BI, Scikit-learn",Entry,77375,151774,114574.5
+Healthcare,AI Product Manager,"Hugging Face, PyTorch, Reinforcement Learning, MLflow, Scikit-learn",Mid,44125,73147,58636.0
+Education,Data Analyst,"LangChain, Python, MLflow, TensorFlow, FastAPI",Entry,68767,93624,81195.5
+Retail,ML Engineer,"Keras, Python, SQL",Mid,43289,102091,72690.0
+Finance,AI Product Manager,"SQL, R, TensorFlow, Flask",Entry,99708,126007,112857.5
+Finance,ML Engineer,"Reinforcement Learning, Keras, NumPy, Pandas, Hugging Face, R",Entry,57692,81756,69724.0
+Finance,AI Researcher,"Python, LangChain, CUDA, C++",Mid,54082,149736,101909.0
+E-commerce,Data Analyst,"Keras, R, NumPy, Reinforcement Learning",Mid,101456,135672,118564.0
+Education,AI Researcher,"TensorFlow, Keras, Python, FastAPI",Mid,77948,107734,92841.0
+Retail,AI Researcher,"Pandas, C++, PyTorch, TensorFlow",Mid,143838,191740,167789.0
+Education,Quant Researcher,"FastAPI, CUDA, R, Scikit-learn",Entry,64090,112937,88513.5
+Finance,ML Engineer,"LangChain, MLflow, Flask, AWS",Entry,67555,113613,90584.0
+Finance,Computer Vision Engineer,"Excel, FastAPI, Hugging Face, LangChain, Flask",Senior,73755,149397,111576.0
+Automotive,Data Analyst,"NumPy, MLflow, TensorFlow",Entry,147219,223596,185407.5
+E-commerce,NLP Engineer,"TensorFlow, Power BI, GCP, Flask, Keras, Pandas",Entry,120574,164253,142413.5
+Education,Quant Researcher,"TensorFlow, GCP, Reinforcement Learning, Hugging Face",Senior,76450,162635,119542.5
+Automotive,ML Engineer,"MLflow, Keras, Reinforcement Learning, Flask, TensorFlow, R",Entry,105179,161042,133110.5
+Automotive,Computer Vision Engineer,"FastAPI, R, Scikit-learn, SQL",Mid,100296,111823,106059.5
+E-commerce,AI Product Manager,"PyTorch, CUDA, Reinforcement Learning, C++",Entry,53381,103735,78558.0
+E-commerce,AI Researcher,"FastAPI, C++, MLflow, Reinforcement Learning",Senior,116301,214253,165277.0
+Tech,AI Researcher,"LangChain, Python, AWS, R, Azure, Pandas",Entry,140443,182231,161337.0
+Retail,NLP Engineer,"FastAPI, NumPy, C++, Azure",Entry,92799,159163,125981.0
+Tech,AI Product Manager,"Keras, PyTorch, R, Hugging Face, CUDA",Entry,48181,75949,62065.0
+Retail,Quant Researcher,"Reinforcement Learning, AWS, Azure, Pandas, Keras, Power BI",Entry,72489,167549,120019.0
+E-commerce,Computer Vision Engineer,"TensorFlow, CUDA, MLflow",Senior,140658,230833,185745.5
+Finance,Data Scientist,"R, MLflow, Reinforcement Learning, Azure",Entry,130536,167334,148935.0
+Finance,Quant Researcher,"Scikit-learn, Excel, Azure, Flask, Hugging Face, Pandas",Senior,81950,133686,107818.0
+Education,Quant Researcher,"Power BI, Hugging Face, GCP",Senior,134169,173479,153824.0
+Automotive,ML Engineer,"NumPy, LangChain, R, Scikit-learn",Senior,40824,92636,66730.0
+Tech,Quant Researcher,"SQL, Hugging Face, Keras, AWS, MLflow, R",Mid,94799,136985,115892.0
+Automotive,Computer Vision Engineer,"Pandas, Hugging Face, Keras",Mid,83771,94234,89002.5
+E-commerce,ML Engineer,"Excel, Hugging Face, SQL, Azure",Entry,115058,174712,144885.0
+E-commerce,Computer Vision Engineer,"FastAPI, Scikit-learn, Pandas, NumPy, Excel, CUDA",Mid,119046,198687,158866.5
+Retail,Computer Vision Engineer,"Python, PyTorch, Keras, Power BI, Reinforcement Learning",Senior,76496,169636,123066.0
+E-commerce,Computer Vision Engineer,"LangChain, TensorFlow, Pandas, Flask",Senior,114726,166530,140628.0
+Education,NLP Engineer,"MLflow, CUDA, Power BI, FastAPI",Mid,87007,185082,136044.5
+Finance,Data Analyst,"Pandas, Azure, Keras, PyTorch, AWS, Hugging Face",Mid,101003,168211,134607.0
+Automotive,ML Engineer,"Hugging Face, SQL, TensorFlow",Entry,123063,188735,155899.0
+Healthcare,ML Engineer,"TensorFlow, PyTorch, FastAPI, Hugging Face, LangChain, AWS",Senior,43723,55609,49666.0
+Tech,Quant Researcher,"Excel, LangChain, MLflow, CUDA, Reinforcement Learning",Entry,62280,142270,102275.0
+Retail,Quant Researcher,"TensorFlow, AWS, Azure",Senior,122800,196570,159685.0
+Finance,AI Product Manager,"R, TensorFlow, C++, Hugging Face, SQL, Flask",Entry,109750,192019,150884.5
+Healthcare,AI Product Manager,"C++, Reinforcement Learning, NumPy, LangChain",Mid,92256,151389,121822.5
+Healthcare,ML Engineer,"Flask, SQL, PyTorch, C++, TensorFlow",Mid,62733,72920,67826.5
+Healthcare,NLP Engineer,"Python, AWS, NumPy, Power BI, Hugging Face",Senior,44536,65243,54889.5
+Retail,ML Engineer,"CUDA, Keras, TensorFlow, Scikit-learn",Senior,117848,182284,150066.0
+E-commerce,Data Scientist,"LangChain, AWS, Scikit-learn, Flask",Entry,126486,160422,143454.0
+Finance,Quant Researcher,"R, SQL, Hugging Face, Keras, Pandas",Mid,47182,68293,57737.5
+Finance,Data Scientist,"Hugging Face, Pandas, PyTorch, SQL, R, Excel",Senior,61782,111016,86399.0
+Finance,Data Scientist,"Power BI, Hugging Face, TensorFlow",Mid,80727,158409,119568.0
+Tech,AI Researcher,"Power BI, R, GCP",Entry,114829,163954,139391.5
+Retail,Quant Researcher,"Reinforcement Learning, Excel, TensorFlow, AWS, C++",Mid,144070,166802,155436.0
+Education,AI Researcher,"Hugging Face, Power BI, SQL, Pandas, Reinforcement Learning",Senior,52942,108682,80812.0
+Automotive,NLP Engineer,"PyTorch, Reinforcement Learning, R, NumPy",Mid,113035,170507,141771.0
+Automotive,Data Scientist,"MLflow, C++, SQL",Mid,132860,175653,154256.5
+Tech,Data Scientist,"MLflow, Azure, GCP, Flask, AWS",Mid,117504,216279,166891.5
+E-commerce,Computer Vision Engineer,"Python, PyTorch, R, LangChain",Mid,119974,214225,167099.5
+Healthcare,NLP Engineer,"TensorFlow, Python, CUDA",Senior,89679,162956,126317.5
+Education,Computer Vision Engineer,"C++, Pandas, Hugging Face, SQL, LangChain, Python",Senior,92350,190209,141279.5
+Automotive,ML Engineer,"NumPy, AWS, Excel",Mid,100745,156193,128469.0
+Tech,ML Engineer,"PyTorch, Reinforcement Learning, FastAPI, R, C++",Entry,144980,238642,191811.0
+Automotive,Data Analyst,"Keras, LangChain, CUDA",Mid,43750,143665,93707.5
+Healthcare,AI Researcher,"GCP, PyTorch, Flask",Entry,123991,140802,132396.5
+Automotive,AI Researcher,"AWS, Excel, R",Entry,82447,99125,90786.0
+Healthcare,Computer Vision Engineer,"FastAPI, LangChain, SQL, TensorFlow, R",Mid,40493,78657,59575.0
+Automotive,Data Analyst,"Keras, LangChain, R, MLflow, Azure, TensorFlow",Senior,123525,145590,134557.5
+Retail,Quant Researcher,"SQL, R, Keras",Mid,48593,83543,66068.0
+Education,AI Product Manager,"Power BI, CUDA, Scikit-learn",Entry,84439,138226,111332.5
+Finance,AI Researcher,"AWS, CUDA, GCP, Scikit-learn, Azure",Mid,132748,206860,169804.0
+Education,Quant Researcher,"SQL, Hugging Face, Azure, C++, Keras, Flask",Senior,127247,153167,140207.0
+Automotive,Quant Researcher,"Excel, Power BI, GCP, CUDA, PyTorch, Keras",Mid,72261,141735,106998.0
+Tech,Data Analyst,"Keras, C++, Scikit-learn, Flask, PyTorch, Pandas",Mid,129504,207322,168413.0
+E-commerce,AI Product Manager,"TensorFlow, Power BI, Reinforcement Learning, NumPy, CUDA, Excel",Mid,116697,174967,145832.0
+Retail,Computer Vision Engineer,"Python, Azure, R, TensorFlow, GCP",Entry,46832,131794,89313.0
+Healthcare,Data Scientist,"Hugging Face, C++, PyTorch, Reinforcement Learning, TensorFlow",Mid,135983,151535,143759.0
+Education,AI Product Manager,"Reinforcement Learning, GCP, NumPy",Senior,86380,119826,103103.0
+Finance,AI Product Manager,"Reinforcement Learning, NumPy, Scikit-learn",Entry,97354,192951,145152.5
+E-commerce,Quant Researcher,"PyTorch, Hugging Face, GCP, Flask",Mid,130041,148947,139494.0
+Finance,Data Scientist,"R, FastAPI, AWS",Mid,98664,190980,144822.0
+Automotive,Data Analyst,"MLflow, CUDA, C++",Entry,112236,163663,137949.5
+Education,Data Scientist,"CUDA, AWS, NumPy, Azure, Power BI",Entry,89452,161968,125710.0
+Finance,AI Researcher,"Keras, NumPy, Python, AWS, Flask, Azure",Mid,41836,115821,78828.5
+Healthcare,Quant Researcher,"Azure, Flask, MLflow, GCP",Senior,80778,94197,87487.5
+Tech,AI Product Manager,"FastAPI, CUDA, R",Entry,68580,87181,77880.5
+Education,Data Scientist,"AWS, CUDA, MLflow, Python",Senior,41323,86336,63829.5
+Education,AI Product Manager,"Flask, SQL, PyTorch, Azure, AWS",Senior,127995,170331,149163.0
+Retail,Computer Vision Engineer,"C++, SQL, Python, MLflow, Power BI, FastAPI",Mid,91343,143899,117621.0
+E-commerce,Computer Vision Engineer,"CUDA, SQL, Keras, C++",Mid,58872,121321,90096.5
+Automotive,AI Product Manager,"MLflow, TensorFlow, NumPy, Pandas",Mid,59652,117331,88491.5
+Healthcare,Computer Vision Engineer,"TensorFlow, NumPy, Pandas, PyTorch, Azure",Senior,64588,93067,78827.5
+Automotive,Computer Vision Engineer,"FastAPI, Keras, CUDA, PyTorch, LangChain",Senior,62963,73964,68463.5
+Tech,NLP Engineer,"PyTorch, Azure, Reinforcement Learning, TensorFlow, Pandas, FastAPI",Mid,147083,198629,172856.0
+Automotive,AI Researcher,"GCP, MLflow, PyTorch",Entry,124727,213590,169158.5
+Retail,NLP Engineer,"Python, Flask, LangChain, AWS, Keras",Senior,103756,181213,142484.5
+Finance,Data Scientist,"Azure, TensorFlow, C++",Mid,97542,184959,141250.5
+Automotive,ML Engineer,"Scikit-learn, Hugging Face, TensorFlow",Entry,80381,97901,89141.0
+Education,Data Scientist,"Python, Azure, Reinforcement Learning, LangChain, AWS, Hugging Face",Senior,147604,186982,167293.0
+Healthcare,Data Analyst,"MLflow, Python, TensorFlow, LangChain",Entry,56981,90644,73812.5
+Retail,Data Analyst,"GCP, Scikit-learn, Flask, AWS, Excel, Power BI",Entry,116148,184483,150315.5
+Healthcare,AI Researcher,"TensorFlow, R, FastAPI, Pandas, Power BI",Mid,49163,80743,64953.0
+Healthcare,AI Product Manager,"Python, Hugging Face, Scikit-learn, GCP",Entry,51721,118914,85317.5
+Education,Quant Researcher,"Azure, Pandas, TensorFlow, AWS",Mid,143486,177073,160279.5
+Automotive,Data Analyst,"R, Reinforcement Learning, Scikit-learn, PyTorch, GCP",Entry,141494,226122,183808.0
+Tech,NLP Engineer,"Excel, Hugging Face, AWS, TensorFlow, R, Power BI",Entry,40667,138793,89730.0
+E-commerce,Computer Vision Engineer,"Python, Pandas, Excel, TensorFlow, Azure",Entry,45587,114965,80276.0
+Automotive,Data Analyst,"PyTorch, Pandas, Reinforcement Learning",Mid,50145,64920,57532.5
+E-commerce,Data Analyst,"NumPy, Keras, PyTorch, TensorFlow, Flask, Excel",Senior,125963,141117,133540.0
+E-commerce,AI Researcher,"R, TensorFlow, AWS",Mid,117682,149820,133751.0
+E-commerce,ML Engineer,"SQL, NumPy, Scikit-learn",Entry,108359,163658,136008.5
+Finance,AI Product Manager,"MLflow, Flask, Keras, Scikit-learn, LangChain",Entry,46169,74675,60422.0
+Healthcare,Data Analyst,"FastAPI, Excel, PyTorch, Flask, Reinforcement Learning",Mid,109531,131253,120392.0
+Retail,ML Engineer,"Hugging Face, GCP, Scikit-learn",Entry,146291,220807,183549.0
+Tech,AI Product Manager,"SQL, Python, Excel, Flask",Entry,60309,116090,88199.5
+Automotive,Data Scientist,"SQL, Keras, Pandas, GCP",Senior,135243,196909,166076.0
+E-commerce,ML Engineer,"CUDA, Power BI, AWS, FastAPI, C++",Senior,141909,166648,154278.5
+Education,ML Engineer,"C++, CUDA, Azure",Entry,110795,199925,155360.0
+Retail,NLP Engineer,"LangChain, GCP, Reinforcement Learning, Excel, FastAPI, Power BI",Mid,97755,118149,107952.0
+Healthcare,Data Analyst,"Excel, Power BI, PyTorch, Hugging Face, R",Senior,141037,189383,165210.0
+Healthcare,AI Product Manager,"GCP, Reinforcement Learning, Keras, Pandas",Mid,128537,188005,158271.0
+Healthcare,AI Product Manager,"Keras, FastAPI, C++, Hugging Face",Senior,56606,106301,81453.5
+Tech,ML Engineer,"Python, PyTorch, SQL, FastAPI",Mid,54795,115927,85361.0
+Finance,Data Analyst,"Keras, Python, Hugging Face, Flask",Senior,68706,105919,87312.5
+Finance,NLP Engineer,"Hugging Face, Azure, PyTorch, GCP",Senior,107190,142210,124700.0
+Healthcare,ML Engineer,"TensorFlow, LangChain, Keras, Scikit-learn, Excel, C++",Entry,65172,119584,92378.0
+Healthcare,AI Researcher,"Scikit-learn, Azure, GCP",Mid,58475,150927,104701.0
+Finance,AI Product Manager,"FastAPI, TensorFlow, Keras",Entry,89065,169950,129507.5
+Finance,NLP Engineer,"R, NumPy, Scikit-learn",Mid,140046,166454,153250.0
+Automotive,AI Researcher,"Python, MLflow, SQL",Mid,50054,60639,55346.5
+E-commerce,ML Engineer,"R, Scikit-learn, Power BI",Senior,84367,161104,122735.5
+E-commerce,ML Engineer,"Pandas, LangChain, Python, Keras",Senior,106747,192008,149377.5
+Education,NLP Engineer,"Hugging Face, R, Azure, Power BI, Excel",Senior,134658,192987,163822.5
+Automotive,Quant Researcher,"Pandas, FastAPI, Hugging Face, PyTorch, Power BI",Senior,67982,80867,74424.5
+Tech,Data Analyst,"GCP, Pandas, FastAPI, C++, Excel",Mid,66502,125569,96035.5
+E-commerce,ML Engineer,"Excel, Pandas, CUDA",Mid,129492,154474,141983.0
+E-commerce,Data Scientist,"Reinforcement Learning, Hugging Face, Pandas, Excel",Mid,46778,126259,86518.5
+Education,Data Scientist,"Reinforcement Learning, LangChain, C++",Entry,139140,205348,172244.0
+Education,AI Product Manager,"FastAPI, Excel, AWS, LangChain, Python",Entry,81090,99269,90179.5
+Tech,NLP Engineer,"Power BI, C++, R",Senior,134343,205844,170093.5
+Education,Computer Vision Engineer,"C++, Hugging Face, Flask, Python, NumPy, Scikit-learn",Senior,72912,155169,114040.5
+Education,Data Scientist,"FastAPI, Azure, TensorFlow",Mid,123639,216071,169855.0
+Healthcare,NLP Engineer,"MLflow, Reinforcement Learning, Python",Mid,71107,88278,79692.5
+Tech,ML Engineer,"CUDA, R, Reinforcement Learning",Entry,139426,167189,153307.5
+Finance,Data Analyst,"Python, AWS, FastAPI",Entry,41327,101270,71298.5
+Tech,AI Researcher,"MLflow, AWS, SQL, Python",Mid,132842,146986,139914.0
+Education,Data Scientist,"MLflow, Azure, Python",Senior,61018,136143,98580.5
+E-commerce,Quant Researcher,"Excel, Flask, Power BI, PyTorch, SQL, CUDA",Senior,129013,194851,161932.0
+Tech,ML Engineer,"Scikit-learn, AWS, CUDA, Azure, Hugging Face",Senior,53336,98757,76046.5
+E-commerce,NLP Engineer,"LangChain, Python, AWS, R, Keras",Entry,60072,132524,96298.0
+Tech,AI Product Manager,"Excel, Azure, Pandas, PyTorch, SQL",Mid,95822,165764,130793.0
+Automotive,Data Scientist,"NumPy, Excel, LangChain",Entry,123940,205534,164737.0
+Tech,Quant Researcher,"TensorFlow, Flask, NumPy, GCP",Mid,93765,164272,129018.5
+Healthcare,AI Researcher,"Hugging Face, Flask, Pandas, Scikit-learn",Senior,107143,125166,116154.5
+Healthcare,AI Researcher,"Python, Pandas, R, Scikit-learn",Entry,78028,167608,122818.0
+Tech,Computer Vision Engineer,"Excel, TensorFlow, Azure, Reinforcement Learning",Entry,65169,83971,74570.0
+E-commerce,Data Analyst,"Hugging Face, Keras, FastAPI, Power BI",Senior,70715,133242,101978.5
+Education,Data Analyst,"Reinforcement Learning, Pandas, AWS",Senior,119460,194399,156929.5
+Education,NLP Engineer,"Keras, Python, PyTorch, GCP, C++",Mid,91699,163503,127601.0
+Tech,ML Engineer,"PyTorch, Flask, CUDA, NumPy, AWS, SQL",Senior,67161,112365,89763.0
+Healthcare,NLP Engineer,"LangChain, TensorFlow, Azure",Mid,106546,185690,146118.0
+Tech,Quant Researcher,"TensorFlow, FastAPI, PyTorch, Hugging Face, Pandas",Mid,137451,171220,154335.5
+Education,AI Product Manager,"Keras, NumPy, R, LangChain, Reinforcement Learning",Senior,109614,173616,141615.0
+Education,Data Analyst,"SQL, LangChain, MLflow, AWS, Reinforcement Learning",Mid,123263,202960,163111.5
+Retail,Data Analyst,"Flask, LangChain, FastAPI",Senior,40293,110748,75520.5
+Education,Quant Researcher,"LangChain, SQL, Reinforcement Learning",Senior,127698,166887,147292.5
+E-commerce,NLP Engineer,"Power BI, AWS, TensorFlow, Keras, CUDA, Pandas",Mid,136999,162930,149964.5
+Finance,AI Researcher,"Power BI, Pandas, CUDA",Mid,140731,235582,188156.5
+Finance,ML Engineer,"Pandas, GCP, Hugging Face",Entry,108142,206901,157521.5
+Automotive,Quant Researcher,"AWS, Power BI, MLflow, Python, GCP",Entry,92863,113996,103429.5
+Education,Data Analyst,"Pandas, R, AWS, PyTorch",Senior,49202,142011,95606.5
+Education,ML Engineer,"Hugging Face, Python, Pandas",Entry,117905,154963,136434.0
+Automotive,AI Researcher,"Power BI, Python, GCP, C++",Mid,69967,88953,79460.0
+Tech,Data Analyst,"CUDA, AWS, Scikit-learn",Mid,117659,216166,166912.5
+Retail,Quant Researcher,"Python, LangChain, Pandas, TensorFlow",Mid,59894,135142,97518.0
+Automotive,AI Researcher,"Hugging Face, Azure, NumPy",Senior,137561,211332,174446.5
+E-commerce,ML Engineer,"R, Scikit-learn, SQL, LangChain",Entry,116335,171155,143745.0
+Retail,NLP Engineer,"FastAPI, SQL, Scikit-learn, NumPy, Excel, PyTorch",Senior,96083,149737,122910.0
+E-commerce,NLP Engineer,"Power BI, Scikit-learn, R, Python, Keras",Senior,143953,177085,160519.0
+Education,Data Scientist,"C++, Reinforcement Learning, Azure, CUDA, MLflow",Entry,75110,92187,83648.5
+Healthcare,Data Scientist,"Keras, AWS, NumPy, MLflow, TensorFlow, Flask",Mid,121197,140025,130611.0
+Tech,NLP Engineer,"Flask, Power BI, LangChain, Excel, MLflow, R",Senior,54151,79891,67021.0
+Automotive,Quant Researcher,"Hugging Face, MLflow, CUDA, Python, Keras, SQL",Senior,149692,200124,174908.0
+Finance,Computer Vision Engineer,"Pandas, MLflow, TensorFlow, Power BI",Mid,59190,136850,98020.0
+Finance,ML Engineer,"R, CUDA, TensorFlow",Senior,109704,209632,159668.0
+Education,NLP Engineer,"Azure, Excel, Power BI, SQL",Entry,56774,69344,63059.0
+Finance,ML Engineer,"LangChain, Reinforcement Learning, CUDA, R, SQL, Excel",Senior,48914,60214,54564.0
+Tech,Data Analyst,"Flask, Reinforcement Learning, Pandas, CUDA, Azure",Mid,47206,107566,77386.0
+Tech,AI Researcher,"TensorFlow, Power BI, PyTorch",Mid,49463,142153,95808.0
+Tech,Computer Vision Engineer,"C++, Hugging Face, PyTorch, SQL",Mid,77762,138650,108206.0
+E-commerce,AI Researcher,"LangChain, AWS, Hugging Face, Flask, R",Entry,67646,146965,107305.5
+Retail,AI Researcher,"Python, TensorFlow, GCP, R",Senior,66539,114691,90615.0
+Education,NLP Engineer,"C++, GCP, Keras, AWS, TensorFlow, LangChain",Mid,79160,172160,125660.0
+Automotive,AI Researcher,"Python, PyTorch, Hugging Face, CUDA, Azure, MLflow",Mid,147705,216954,182329.5
+E-commerce,AI Product Manager,"GCP, Power BI, Azure, Python",Senior,59811,106563,83187.0
+Retail,ML Engineer,"C++, FastAPI, Scikit-learn",Senior,61213,148219,104716.0
+Education,NLP Engineer,"FastAPI, AWS, Power BI, Flask, SQL, MLflow",Senior,127524,148571,138047.5
+Healthcare,Quant Researcher,"Python, AWS, R, Pandas, Power BI, TensorFlow",Senior,53455,142848,98151.5
+Finance,ML Engineer,"Pandas, R, LangChain",Mid,84521,130961,107741.0
+Retail,Data Scientist,"Flask, C++, NumPy, Python, GCP",Entry,68321,135101,101711.0
+Tech,ML Engineer,"Hugging Face, Flask, MLflow",Mid,73192,103993,88592.5
+Education,Data Analyst,"Excel, Reinforcement Learning, Pandas, GCP, FastAPI",Entry,43069,99172,71120.5
+Finance,Data Analyst,"SQL, GCP, Scikit-learn",Senior,103638,163765,133701.5
+Tech,Computer Vision Engineer,"C++, Python, GCP",Entry,148791,234027,191409.0
+Finance,Computer Vision Engineer,"NumPy, Pandas, Reinforcement Learning",Entry,81873,126955,104414.0
+Retail,AI Product Manager,"Reinforcement Learning, Python, MLflow, Flask",Mid,107701,182399,145050.0
+Retail,Computer Vision Engineer,"Scikit-learn, LangChain, MLflow, FastAPI",Entry,44261,132348,88304.5
+Tech,Data Analyst,"Azure, MLflow, Pandas, PyTorch",Mid,144418,178671,161544.5
+E-commerce,AI Product Manager,"AWS, Keras, Flask, R, PyTorch, Python",Senior,59575,125556,92565.5
+E-commerce,Data Scientist,"GCP, Keras, LangChain",Mid,133037,191935,162486.0
+Automotive,ML Engineer,"R, Pandas, TensorFlow, Hugging Face, Python",Entry,125183,172905,149044.0
+Finance,Quant Researcher,"SQL, Excel, Azure, PyTorch, Scikit-learn",Mid,98205,195671,146938.0
+Education,ML Engineer,"SQL, NumPy, Python, Power BI, Scikit-learn",Senior,83577,159592,121584.5
+Tech,NLP Engineer,"Pandas, CUDA, R, Python, FastAPI, SQL",Entry,126480,181097,153788.5
+Tech,Data Scientist,"LangChain, Pandas, Flask, AWS",Senior,95492,152604,124048.0
+E-commerce,Data Analyst,"Power BI, NumPy, LangChain, CUDA, Reinforcement Learning, Excel",Senior,102113,144608,123360.5
+E-commerce,Data Analyst,"Keras, Scikit-learn, MLflow, Python, SQL, Excel",Senior,143450,184908,164179.0
+Education,ML Engineer,"GCP, SQL, TensorFlow, Keras, Reinforcement Learning",Entry,72389,120591,96490.0
+Automotive,AI Product Manager,"Power BI, R, C++, TensorFlow, Python",Mid,45843,74772,60307.5
+Automotive,Data Analyst,"PyTorch, FastAPI, MLflow, C++, Pandas, NumPy",Entry,132168,172436,152302.0
+Healthcare,Quant Researcher,"AWS, Pandas, FastAPI, R",Mid,140975,223314,182144.5
+Finance,Quant Researcher,"Pandas, Hugging Face, LangChain, Reinforcement Learning",Senior,72912,124424,98668.0
+Education,Data Scientist,"Excel, Power BI, Azure, NumPy, Hugging Face, LangChain",Mid,92203,179621,135912.0
+Healthcare,ML Engineer,"Power BI, TensorFlow, Python, Azure, C++, SQL",Mid,132423,178710,155566.5
+Healthcare,Quant Researcher,"MLflow, PyTorch, Azure, R, Python, GCP",Mid,43526,142128,92827.0
+Retail,Data Analyst,"Pandas, AWS, MLflow, TensorFlow",Mid,100197,176071,138134.0
+Automotive,Data Analyst,"Keras, FastAPI, Python, Excel, AWS",Senior,104596,158369,131482.5
+Education,AI Product Manager,"Power BI, MLflow, FastAPI, R, TensorFlow, NumPy",Mid,128933,143658,136295.5
+Automotive,NLP Engineer,"GCP, FastAPI, Excel",Senior,111144,184492,147818.0
+Healthcare,NLP Engineer,"AWS, C++, MLflow",Entry,147850,183922,165886.0
+Automotive,AI Researcher,"Keras, TensorFlow, R, Azure",Mid,140539,204807,172673.0
+Finance,ML Engineer,"AWS, Azure, Flask, Reinforcement Learning, TensorFlow, Excel",Senior,60724,86033,73378.5
+E-commerce,NLP Engineer,"Excel, Flask, Hugging Face, TensorFlow",Entry,71064,107425,89244.5
+Education,AI Researcher,"CUDA, TensorFlow, FastAPI, Power BI, LangChain, MLflow",Entry,41074,139585,90329.5
+Tech,ML Engineer,"R, AWS, Python, MLflow",Entry,88875,140496,114685.5
+Tech,AI Researcher,"Python, FastAPI, MLflow, LangChain",Mid,42720,114323,78521.5
+Education,ML Engineer,"LangChain, Python, AWS",Entry,48928,97457,73192.5
+E-commerce,Quant Researcher,"LangChain, R, Azure, CUDA",Entry,62352,118360,90356.0
+Retail,Data Scientist,"Hugging Face, Scikit-learn, Excel, SQL",Entry,71987,127174,99580.5
+Tech,Quant Researcher,"Reinforcement Learning, LangChain, CUDA",Senior,96588,159646,128117.0
+E-commerce,NLP Engineer,"Keras, C++, Azure, FastAPI, CUDA, Scikit-learn",Entry,112609,189278,150943.5
+Automotive,AI Product Manager,"CUDA, C++, Excel",Senior,63732,99367,81549.5
+Healthcare,AI Product Manager,"R, Hugging Face, Excel, Keras",Entry,139447,224946,182196.5
+Education,ML Engineer,"LangChain, TensorFlow, C++, Power BI, MLflow, AWS",Mid,130455,143201,136828.0
+Healthcare,Computer Vision Engineer,"Python, Keras, CUDA, PyTorch, MLflow, NumPy",Mid,69015,94367,81691.0
+Tech,Quant Researcher,"C++, Power BI, Pandas",Mid,70351,86518,78434.5
+Education,NLP Engineer,"Scikit-learn, PyTorch, R, FastAPI, Excel, NumPy",Mid,49069,65157,57113.0
+Education,NLP Engineer,"Hugging Face, FastAPI, C++, CUDA",Mid,74463,103688,89075.5
+Healthcare,Quant Researcher,"Reinforcement Learning, TensorFlow, SQL, Flask, C++, Keras",Entry,137479,173706,155592.5
+Finance,AI Product Manager,"Pandas, NumPy, TensorFlow, R",Entry,51735,71615,61675.0
+Education,ML Engineer,"Azure, PyTorch, R, Scikit-learn, AWS, Excel",Mid,105183,136608,120895.5
+Finance,ML Engineer,"Excel, SQL, GCP, Hugging Face, R",Entry,80869,128578,104723.5
+Healthcare,Computer Vision Engineer,"Excel, CUDA, GCP, Reinforcement Learning, TensorFlow",Senior,94999,167994,131496.5
+Automotive,AI Researcher,"Keras, Hugging Face, R",Senior,98295,166881,132588.0
+Automotive,AI Researcher,"Azure, Scikit-learn, Python, AWS, LangChain, C++",Entry,84355,154595,119475.0
+Healthcare,NLP Engineer,"PyTorch, Excel, Scikit-learn, TensorFlow",Entry,108703,131026,119864.5
+Retail,Data Scientist,"Scikit-learn, GCP, AWS, FastAPI, Excel, Pandas",Entry,45561,84324,64942.5
+Finance,NLP Engineer,"CUDA, R, GCP",Senior,50662,146281,98471.5
+Education,Data Analyst,"FastAPI, C++, Azure, Reinforcement Learning, CUDA",Senior,75939,118168,97053.5
+Automotive,ML Engineer,"LangChain, Azure, CUDA, GCP",Entry,75976,154691,115333.5
+Automotive,Data Scientist,"Azure, PyTorch, Excel, R, NumPy",Entry,58623,100250,79436.5
+E-commerce,Computer Vision Engineer,"R, MLflow, AWS, Flask, C++",Senior,95737,120978,108357.5
+E-commerce,Quant Researcher,"AWS, Reinforcement Learning, TensorFlow, FastAPI, SQL, Power BI",Senior,86038,117214,101626.0
+Tech,NLP Engineer,"CUDA, NumPy, Power BI, Azure, C++",Entry,52929,148174,100551.5
+Retail,Computer Vision Engineer,"SQL, Flask, FastAPI, Pandas, Power BI",Senior,94926,180475,137700.5
+Education,NLP Engineer,"GCP, Excel, NumPy, Azure, R, Pandas",Mid,80350,124373,102361.5
+Retail,ML Engineer,"Python, MLflow, Reinforcement Learning, Power BI, Flask",Mid,141317,189797,165557.0
+Tech,Data Scientist,"Flask, GCP, MLflow, Keras, CUDA, AWS",Mid,144921,242601,193761.0
+Automotive,AI Researcher,"TensorFlow, C++, AWS, GCP",Entry,78021,138369,108195.0
+Education,AI Product Manager,"Azure, LangChain, C++, NumPy, MLflow",Senior,69902,164688,117295.0
+Retail,Computer Vision Engineer,"Scikit-learn, C++, LangChain, CUDA, Excel, Flask",Entry,149757,220531,185144.0
+Healthcare,AI Researcher,"Excel, AWS, Flask, NumPy",Entry,115186,147382,131284.0
+Healthcare,AI Product Manager,"FastAPI, Keras, MLflow",Mid,48248,92417,70332.5
+Healthcare,Computer Vision Engineer,"Keras, PyTorch, TensorFlow, Scikit-learn, Azure",Mid,111819,139639,125729.0
+Retail,Quant Researcher,"Excel, CUDA, Reinforcement Learning",Mid,129844,163112,146478.0
+Automotive,AI Researcher,"Hugging Face, GCP, Azure",Entry,121208,201513,161360.5
+Healthcare,Quant Researcher,"LangChain, AWS, NumPy, Flask, GCP, Excel",Senior,107216,196778,151997.0
+Retail,AI Researcher,"SQL, NumPy, Excel, Pandas, Python",Mid,41764,136739,89251.5
+Tech,Data Analyst,"Reinforcement Learning, Flask, CUDA",Senior,147895,196134,172014.5
+Retail,NLP Engineer,"C++, GCP, Pandas, MLflow, TensorFlow",Senior,47192,145078,96135.0
+Automotive,AI Product Manager,"Reinforcement Learning, C++, PyTorch, AWS, Azure",Mid,48979,87015,67997.0
+Automotive,Computer Vision Engineer,"LangChain, PyTorch, GCP, AWS, C++, Azure",Mid,70473,136805,103639.0
+Retail,Computer Vision Engineer,"Hugging Face, Flask, LangChain, TensorFlow, Pandas, FastAPI",Entry,101941,151649,126795.0
+Tech,Computer Vision Engineer,"PyTorch, C++, Python, TensorFlow, Power BI",Mid,79422,131027,105224.5
+Automotive,NLP Engineer,"FastAPI, Excel, TensorFlow",Senior,104607,198261,151434.0
+Education,Data Analyst,"Power BI, TensorFlow, Keras",Entry,142297,230635,186466.0
+Healthcare,Data Analyst,"Pandas, TensorFlow, Keras, Python, Excel",Mid,129959,183290,156624.5
+Automotive,NLP Engineer,"MLflow, C++, Excel",Senior,78350,92888,85619.0
+Education,AI Product Manager,"Azure, Flask, Keras, Scikit-learn, Reinforcement Learning, GCP",Mid,76271,164679,120475.0
+Tech,Quant Researcher,"NumPy, PyTorch, R, Flask, Python, Keras",Senior,55587,97947,76767.0
+Healthcare,Quant Researcher,"CUDA, Excel, Azure, NumPy",Senior,127145,147633,137389.0
+Tech,Data Analyst,"NumPy, Pandas, Excel",Mid,143724,226912,185318.0
+E-commerce,NLP Engineer,"NumPy, AWS, Reinforcement Learning, Scikit-learn, MLflow",Entry,89162,143952,116557.0
+Education,Quant Researcher,"Flask, Keras, FastAPI, Azure, TensorFlow",Mid,91063,117193,104128.0
+Automotive,Quant Researcher,"SQL, Excel, GCP, Keras, FastAPI, MLflow",Mid,141577,165447,153512.0
+Healthcare,Quant Researcher,"Hugging Face, MLflow, Reinforcement Learning",Entry,54193,88474,71333.5
+Tech,ML Engineer,"FastAPI, Reinforcement Learning, PyTorch",Senior,112652,183753,148202.5
+Tech,Quant Researcher,"CUDA, NumPy, Flask, LangChain, Power BI, Azure",Senior,92645,120926,106785.5
+E-commerce,Data Analyst,"Power BI, Pandas, CUDA",Mid,64523,119477,92000.0
+Education,Computer Vision Engineer,"Hugging Face, Flask, Power BI, Pandas, Excel",Senior,118063,139054,128558.5
+Automotive,Computer Vision Engineer,"R, PyTorch, Flask, GCP, Hugging Face",Senior,136125,171741,153933.0
+Retail,NLP Engineer,"PyTorch, Scikit-learn, C++, Azure",Senior,89832,168332,129082.0
+Automotive,Quant Researcher,"PyTorch, MLflow, Scikit-learn",Entry,58051,72433,65242.0
+Education,AI Researcher,"Azure, Reinforcement Learning, SQL, LangChain",Entry,118098,180405,149251.5
+E-commerce,NLP Engineer,"R, C++, Keras",Mid,130644,162308,146476.0
+Finance,NLP Engineer,"C++, Pandas, FastAPI, MLflow, Excel",Entry,44826,136391,90608.5
+Retail,Data Scientist,"AWS, Flask, Keras, Hugging Face, NumPy, Scikit-learn",Senior,143864,189293,166578.5
+Retail,AI Researcher,"AWS, Hugging Face, GCP, Power BI, Keras",Mid,119984,170149,145066.5
+E-commerce,Data Analyst,"GCP, R, Reinforcement Learning, PyTorch, Hugging Face, Excel",Senior,84432,151643,118037.5
+Tech,NLP Engineer,"PyTorch, GCP, Keras, NumPy, Flask",Entry,78737,137073,107905.0
+Automotive,Data Analyst,"TensorFlow, MLflow, C++, Flask, SQL, GCP",Entry,125708,211610,168659.0
+Healthcare,ML Engineer,"C++, Pandas, Flask, Hugging Face, Excel",Mid,66588,150410,108499.0
+Education,Data Analyst,"R, CUDA, Pandas, TensorFlow, Azure, PyTorch",Senior,54873,128753,91813.0
+Automotive,Computer Vision Engineer,"Scikit-learn, TensorFlow, PyTorch, Python",Senior,148303,168698,158500.5
+Tech,AI Researcher,"TensorFlow, GCP, Python",Mid,41869,122449,82159.0
+Retail,Data Analyst,"FastAPI, Hugging Face, R, Keras, NumPy, PyTorch",Entry,108841,170869,139855.0
+Healthcare,ML Engineer,"Keras, Scikit-learn, R, Flask, Python, FastAPI",Mid,114726,168511,141618.5
+Healthcare,Quant Researcher,"Azure, PyTorch, CUDA, TensorFlow, Flask",Senior,80878,167444,124161.0
+Automotive,NLP Engineer,"Pandas, Azure, Power BI",Mid,58935,111154,85044.5
+E-commerce,ML Engineer,"Reinforcement Learning, NumPy, LangChain, GCP",Entry,122431,210032,166231.5
+Education,Quant Researcher,"Excel, Hugging Face, TensorFlow",Mid,102648,115973,109310.5
+Retail,AI Product Manager,"AWS, MLflow, CUDA, FastAPI, Keras, Reinforcement Learning",Senior,61585,79010,70297.5
+Education,AI Product Manager,"Pandas, TensorFlow, NumPy",Entry,53822,122124,87973.0
+E-commerce,ML Engineer,"NumPy, SQL, Flask, Power BI, GCP",Senior,107790,178747,143268.5
+Healthcare,Data Scientist,"PyTorch, AWS, Flask, Scikit-learn",Entry,138168,154475,146321.5
+Finance,Computer Vision Engineer,"Excel, Power BI, C++, R, Hugging Face, SQL",Entry,129072,155706,142389.0
+Finance,Computer Vision Engineer,"Python, R, Flask",Mid,117435,157783,137609.0
+Education,Data Scientist,"PyTorch, SQL, CUDA, Excel",Mid,104274,137730,121002.0
+Retail,ML Engineer,"Python, Excel, MLflow",Senior,72786,95785,84285.5
+E-commerce,AI Product Manager,"NumPy, R, Reinforcement Learning, Pandas, AWS, SQL",Mid,108949,171824,140386.5
+Finance,AI Researcher,"CUDA, GCP, Flask, Excel",Senior,89875,110549,100212.0
+Finance,ML Engineer,"TensorFlow, C++, Excel, LangChain, Power BI, Azure",Senior,146648,220198,183423.0
+Automotive,Computer Vision Engineer,"PyTorch, Power BI, LangChain, Keras",Senior,55334,92646,73990.0
+Healthcare,AI Researcher,"FastAPI, Pandas, CUDA, C++, AWS, Hugging Face",Entry,121991,217004,169497.5
+Healthcare,AI Product Manager,"Excel, NumPy, C++, Pandas",Entry,137005,199493,168249.0
+Retail,ML Engineer,"TensorFlow, Hugging Face, R",Mid,137915,213509,175712.0
+Education,Data Scientist,"GCP, SQL, NumPy, Python, Azure",Mid,93505,184085,138795.0
+Finance,NLP Engineer,"Hugging Face, SQL, Azure, LangChain, AWS, NumPy",Senior,146642,193936,170289.0
+Retail,AI Researcher,"C++, Keras, SQL, R, AWS",Senior,53382,107955,80668.5
+Education,AI Product Manager,"Pandas, GCP, Azure, LangChain, CUDA",Mid,111712,179464,145588.0
+Retail,NLP Engineer,"R, Azure, Hugging Face, C++, PyTorch, AWS",Mid,45412,84249,64830.5
+Retail,Computer Vision Engineer,"NumPy, Azure, PyTorch, Python, Pandas, R",Entry,96319,193004,144661.5
+Tech,Computer Vision Engineer,"Power BI, R, NumPy",Entry,132679,198491,165585.0
+Tech,ML Engineer,"Azure, MLflow, Scikit-learn, TensorFlow",Mid,108752,184389,146570.5
+Retail,ML Engineer,"TensorFlow, LangChain, Hugging Face",Senior,146465,217937,182201.0
+E-commerce,Computer Vision Engineer,"Scikit-learn, LangChain, Power BI, TensorFlow",Entry,148789,213319,181054.0
+Education,ML Engineer,"TensorFlow, CUDA, Excel, C++, Pandas",Entry,115045,199831,157438.0
+Automotive,Data Analyst,"GCP, Keras, Hugging Face, TensorFlow, SQL",Senior,135301,224073,179687.0
+Education,NLP Engineer,"LangChain, Hugging Face, NumPy",Entry,77322,156137,116729.5
+Healthcare,ML Engineer,"Excel, PyTorch, TensorFlow",Senior,87528,177503,132515.5
+E-commerce,Computer Vision Engineer,"Python, LangChain, SQL, TensorFlow, Excel",Mid,100842,113216,107029.0
+Tech,AI Product Manager,"SQL, CUDA, Flask, MLflow, TensorFlow",Mid,95461,161157,128309.0
+E-commerce,Data Scientist,"Excel, Azure, FastAPI, LangChain, GCP",Entry,40926,133520,87223.0
+Automotive,AI Researcher,"PyTorch, Excel, CUDA, Keras",Mid,145229,207174,176201.5
+Tech,NLP Engineer,"MLflow, AWS, CUDA, Hugging Face, FastAPI, NumPy",Mid,56261,138738,97499.5
+Finance,AI Product Manager,"PyTorch, Hugging Face, MLflow, R, Keras, Reinforcement Learning",Entry,123318,209284,166301.0
+Finance,ML Engineer,"Pandas, CUDA, GCP, TensorFlow",Entry,48577,77587,63082.0
+E-commerce,Data Analyst,"MLflow, Power BI, Pandas, SQL",Senior,45866,83992,64929.0
+Automotive,Quant Researcher,"PyTorch, AWS, SQL",Senior,82486,107941,95213.5
+Tech,Data Analyst,"Excel, NumPy, R, TensorFlow",Senior,97109,162991,130050.0
+Finance,Data Analyst,"Excel, Pandas, AWS, MLflow",Senior,68376,111383,89879.5
+Automotive,AI Researcher,"Keras, Flask, NumPy",Senior,112752,194703,153727.5
+Automotive,Quant Researcher,"Reinforcement Learning, Power BI, SQL, MLflow, Excel, Scikit-learn",Entry,126011,222919,174465.0
+Tech,AI Product Manager,"SQL, AWS, Python",Mid,143118,197899,170508.5
+Finance,ML Engineer,"AWS, GCP, Reinforcement Learning, Pandas, C++, NumPy",Entry,80005,164440,122222.5
+Tech,ML Engineer,"R, Azure, Python",Senior,65236,112321,88778.5
+Retail,Quant Researcher,"Scikit-learn, Reinforcement Learning, Pandas, LangChain, Python, CUDA",Senior,106312,133726,120019.0
+Healthcare,Quant Researcher,"Hugging Face, LangChain, Keras, NumPy",Mid,70970,130168,100569.0
+Tech,AI Researcher,"NumPy, LangChain, MLflow, CUDA, TensorFlow",Mid,79563,160638,120100.5
+E-commerce,Data Analyst,"NumPy, Python, Pandas",Entry,142504,235377,188940.5
+Retail,Computer Vision Engineer,"MLflow, Keras, Hugging Face, Scikit-learn, R",Mid,134914,192870,163892.0
+Automotive,NLP Engineer,"MLflow, Scikit-learn, SQL",Senior,110442,136014,123228.0
+Tech,Data Scientist,"TensorFlow, Reinforcement Learning, Python, AWS, Pandas, Power BI",Mid,108092,149127,128609.5
+Automotive,Data Analyst,"NumPy, FastAPI, PyTorch",Entry,130779,223455,177117.0
+Automotive,AI Researcher,"TensorFlow, MLflow, SQL, Flask, CUDA, C++",Mid,91255,112451,101853.0
+Retail,Data Scientist,"LangChain, Hugging Face, Excel, Reinforcement Learning, Python",Entry,90879,135247,113063.0
+Finance,Quant Researcher,"Excel, Pandas, NumPy, Azure",Mid,115822,145532,130677.0
+Retail,AI Researcher,"Power BI, C++, Excel, PyTorch, Pandas",Mid,83481,125210,104345.5
+Education,ML Engineer,"LangChain, Flask, Pandas",Senior,99587,178090,138838.5
+E-commerce,AI Product Manager,"NumPy, MLflow, TensorFlow, GCP, Reinforcement Learning, R",Mid,58111,109668,83889.5
+Tech,ML Engineer,"Hugging Face, PyTorch, CUDA, MLflow",Senior,43453,96389,69921.0
+E-commerce,Computer Vision Engineer,"MLflow, Pandas, GCP",Entry,118748,154255,136501.5
+Retail,AI Product Manager,"Python, C++, CUDA, Excel, SQL, TensorFlow",Entry,78422,107540,92981.0
+Education,AI Researcher,"NumPy, C++, Flask, AWS, Power BI",Entry,112925,176100,144512.5
+Retail,Data Analyst,"AWS, Excel, NumPy, Flask, TensorFlow, Keras",Entry,117216,164983,141099.5
+Retail,Data Scientist,"Scikit-learn, NumPy, Reinforcement Learning, C++, LangChain",Mid,108484,157131,132807.5
+Tech,Quant Researcher,"TensorFlow, R, Python",Senior,77543,158349,117946.0
+Finance,AI Researcher,"NumPy, TensorFlow, CUDA",Entry,41105,131816,86460.5
+Retail,ML Engineer,"Reinforcement Learning, Flask, TensorFlow",Entry,119337,197693,158515.0
+Automotive,Quant Researcher,"SQL, TensorFlow, CUDA",Mid,110827,196005,153416.0
+Education,NLP Engineer,"Flask, C++, LangChain, AWS, Keras, GCP",Mid,68942,151892,110417.0
+Automotive,Data Analyst,"Reinforcement Learning, C++, MLflow",Mid,132080,194071,163075.5
+Retail,Data Scientist,"GCP, C++, CUDA, LangChain",Entry,78884,141741,110312.5
+Automotive,Computer Vision Engineer,"Keras, R, CUDA, NumPy",Entry,109567,153916,131741.5
+Healthcare,AI Researcher,"NumPy, Reinforcement Learning, FastAPI, GCP, AWS",Entry,48357,117638,82997.5
+Tech,Computer Vision Engineer,"R, Pandas, Flask",Mid,99903,116196,108049.5
+Automotive,Computer Vision Engineer,"SQL, GCP, Reinforcement Learning, Python, Power BI, R",Mid,84022,154182,119102.0
+Healthcare,NLP Engineer,"TensorFlow, Reinforcement Learning, Python, C++, CUDA",Entry,90182,127387,108784.5
+Retail,ML Engineer,"PyTorch, Azure, GCP, Python, AWS, Power BI",Senior,63292,75056,69174.0
+Automotive,AI Product Manager,"Keras, Reinforcement Learning, MLflow",Entry,55596,70304,62950.0
+E-commerce,ML Engineer,"PyTorch, Keras, R, Excel",Entry,98886,175351,137118.5
+Tech,Quant Researcher,"Excel, C++, Hugging Face, R",Senior,95671,135465,115568.0
+E-commerce,AI Product Manager,"LangChain, Azure, Python",Senior,54859,114121,84490.0
+Tech,Computer Vision Engineer,"SQL, FastAPI, Excel, Keras",Entry,84637,101116,92876.5
+Automotive,Quant Researcher,"Keras, C++, Pandas, CUDA, LangChain",Senior,68935,104191,86563.0
+Healthcare,Computer Vision Engineer,"Flask, TensorFlow, SQL, Pandas",Mid,65508,132502,99005.0
+Retail,AI Product Manager,"Pandas, NumPy, Excel",Mid,56129,112048,84088.5
+Finance,ML Engineer,"SQL, Power BI, Reinforcement Learning, Keras",Mid,85447,134543,109995.0
+Retail,AI Researcher,"MLflow, SQL, Excel",Mid,130152,188601,159376.5
+Retail,Data Analyst,"Excel, GCP, Reinforcement Learning, Hugging Face, CUDA, Python",Entry,141832,204974,173403.0
+E-commerce,Data Analyst,"Power BI, MLflow, Reinforcement Learning",Entry,146129,175662,160895.5
+Retail,ML Engineer,"R, Pandas, NumPy",Senior,96885,106999,101942.0
+Finance,Quant Researcher,"NumPy, Excel, Reinforcement Learning, Python, SQL",Entry,104902,195443,150172.5
+Healthcare,AI Researcher,"NumPy, Flask, C++",Entry,90748,177223,133985.5
+Retail,AI Researcher,"MLflow, Power BI, Keras, Flask, CUDA",Mid,88375,109142,98758.5
+Healthcare,AI Product Manager,"Scikit-learn, TensorFlow, Excel, CUDA",Mid,70090,136849,103469.5
+E-commerce,AI Product Manager,"LangChain, NumPy, C++",Entry,95361,189634,142497.5
+Finance,NLP Engineer,"GCP, CUDA, NumPy, Azure",Mid,41043,121192,81117.5
+Automotive,AI Researcher,"Reinforcement Learning, NumPy, Power BI",Senior,51739,81068,66403.5
+Education,Computer Vision Engineer,"FastAPI, NumPy, Excel, Flask",Mid,136245,158942,147593.5
+Education,Data Scientist,"FastAPI, NumPy, Reinforcement Learning, Pandas, R",Mid,94816,180325,137570.5
+Retail,AI Product Manager,"LangChain, PyTorch, Scikit-learn, NumPy, SQL, Flask",Entry,139236,202150,170693.0
+Retail,AI Researcher,"Keras, Scikit-learn, Pandas",Mid,67231,93957,80594.0
+E-commerce,ML Engineer,"Pandas, LangChain, AWS, Hugging Face",Entry,137964,170457,154210.5
+Education,Data Scientist,"Azure, CUDA, GCP, TensorFlow, C++",Mid,95174,127901,111537.5
+Education,ML Engineer,"Python, Excel, Azure, PyTorch",Senior,139025,163828,151426.5
+Finance,AI Researcher,"GCP, Flask, PyTorch",Senior,80064,166540,123302.0
+Retail,AI Product Manager,"SQL, Hugging Face, R, Python, Azure, LangChain",Mid,123917,215224,169570.5
+Tech,Data Scientist,"MLflow, Azure, Hugging Face",Entry,112129,134693,123411.0
+E-commerce,Quant Researcher,"Power BI, Hugging Face, Flask, Keras, Reinforcement Learning, SQL",Entry,93495,121455,107475.0
+Retail,Data Scientist,"Hugging Face, Scikit-learn, LangChain, TensorFlow, Excel",Mid,93984,115685,104834.5
+Automotive,Data Scientist,"Python, Keras, PyTorch, Reinforcement Learning, SQL, R",Entry,141497,186741,164119.0
+Finance,NLP Engineer,"C++, MLflow, Reinforcement Learning, TensorFlow, GCP, Flask",Senior,108227,170108,139167.5
+Tech,Data Scientist,"SQL, Flask, LangChain, Excel, Python",Senior,46507,95380,70943.5
+Tech,ML Engineer,"MLflow, Python, R, AWS, Hugging Face, Scikit-learn",Senior,144378,182820,163599.0
+E-commerce,AI Researcher,"Excel, AWS, PyTorch, GCP, NumPy, Reinforcement Learning",Senior,116988,142045,129516.5
+Healthcare,Quant Researcher,"GCP, NumPy, Hugging Face",Entry,49343,95151,72247.0
+Retail,AI Product Manager,"NumPy, Azure, AWS, Keras, R",Entry,102358,113016,107687.0
+Retail,Computer Vision Engineer,"LangChain, PyTorch, AWS, Power BI, R",Mid,124228,223625,173926.5
+Finance,AI Researcher,"C++, FastAPI, Power BI, SQL, AWS, Reinforcement Learning",Senior,128700,140403,134551.5
+Retail,Data Analyst,"Keras, SQL, TensorFlow",Entry,53005,135645,94325.0
+Healthcare,AI Researcher,"NumPy, Excel, TensorFlow",Senior,112949,150069,131509.0
+Healthcare,NLP Engineer,"SQL, NumPy, Keras",Mid,53274,85457,69365.5
+Finance,NLP Engineer,"Keras, Pandas, MLflow",Mid,61527,118727,90127.0
+Tech,Data Scientist,"Keras, Flask, Scikit-learn, Reinforcement Learning, Power BI, AWS",Senior,80834,133992,107413.0
+Retail,Data Scientist,"SQL, CUDA, Flask",Entry,143635,176509,160072.0
+Education,AI Product Manager,"Flask, Scikit-learn, GCP, TensorFlow, NumPy",Entry,67463,117748,92605.5
+Education,ML Engineer,"Reinforcement Learning, FastAPI, R, Azure, PyTorch, Scikit-learn",Entry,139626,171708,155667.0
+Healthcare,Data Analyst,"Excel, TensorFlow, SQL, Power BI, LangChain, Scikit-learn",Entry,119828,147857,133842.5
+Retail,ML Engineer,"CUDA, C++, Azure, FastAPI, PyTorch",Entry,76830,109934,93382.0
+Automotive,Computer Vision Engineer,"Python, GCP, NumPy",Entry,94999,172683,133841.0
+Retail,NLP Engineer,"C++, Excel, NumPy, Pandas, TensorFlow",Entry,86971,144409,115690.0
+Automotive,Data Analyst,"SQL, C++, Flask, Scikit-learn, Power BI, R",Senior,104785,143093,123939.0
+Finance,Data Scientist,"NumPy, Python, PyTorch, C++, AWS",Senior,42308,86646,64477.0
+Retail,Computer Vision Engineer,"NumPy, R, AWS, TensorFlow",Mid,91659,186622,139140.5
+Finance,AI Product Manager,"FastAPI, MLflow, Flask",Senior,100619,133109,116864.0
+E-commerce,ML Engineer,"NumPy, FastAPI, LangChain, Python",Entry,99808,170989,135398.5
+Automotive,NLP Engineer,"Excel, AWS, SQL, CUDA",Entry,90343,162855,126599.0
+Finance,NLP Engineer,"Azure, NumPy, Pandas, MLflow",Senior,75703,128358,102030.5
+Education,Computer Vision Engineer,"R, SQL, C++, FastAPI",Entry,83952,144284,114118.0
+Automotive,AI Researcher,"Pandas, GCP, CUDA, NumPy, AWS",Mid,69325,131806,100565.5
+Finance,NLP Engineer,"AWS, SQL, GCP, NumPy, CUDA, Azure",Entry,144735,236116,190425.5
+Finance,Data Analyst,"Power BI, MLflow, Python, PyTorch, Scikit-learn",Entry,101118,138023,119570.5
+Education,Data Analyst,"Power BI, Scikit-learn, R",Mid,147137,193127,170132.0
+E-commerce,ML Engineer,"Keras, MLflow, AWS, SQL, Excel",Senior,52210,134651,93430.5
+Healthcare,ML Engineer,"CUDA, Excel, C++",Senior,65715,150039,107877.0
+E-commerce,Quant Researcher,"LangChain, R, Keras, Python, TensorFlow, Excel",Mid,133828,174215,154021.5
+Automotive,Quant Researcher,"TensorFlow, Reinforcement Learning, LangChain",Entry,70866,151464,111165.0
+Tech,Data Scientist,"Azure, Flask, Scikit-learn, Keras, NumPy, FastAPI",Entry,128320,204308,166314.0
+E-commerce,AI Product Manager,"Flask, LangChain, Power BI, Azure",Mid,58910,129962,94436.0
+Finance,NLP Engineer,"FastAPI, Hugging Face, Pandas, LangChain",Senior,127058,168678,147868.0
+E-commerce,Data Scientist,"NumPy, Pandas, CUDA, AWS",Mid,49767,101227,75497.0
+Finance,Quant Researcher,"Azure, LangChain, GCP, AWS, Flask",Senior,146173,230184,188178.5
+Tech,ML Engineer,"Keras, SQL, Reinforcement Learning, Scikit-learn, GCP",Entry,88607,183164,135885.5
+Retail,ML Engineer,"MLflow, NumPy, Flask, FastAPI, Hugging Face, PyTorch",Senior,147037,178287,162662.0
+Tech,Quant Researcher,"Excel, R, Hugging Face",Senior,71180,170074,120627.0
+Automotive,AI Researcher,"NumPy, PyTorch, C++, R, Azure",Entry,130422,190384,160403.0
+Retail,AI Researcher,"Excel, Keras, GCP, FastAPI, Pandas, NumPy",Mid,50046,107439,78742.5
+Finance,Computer Vision Engineer,"NumPy, Hugging Face, Python",Entry,77419,146607,112013.0
+Healthcare,NLP Engineer,"Azure, GCP, Hugging Face",Entry,111527,151917,131722.0
+Automotive,Data Scientist,"Python, FastAPI, Pandas, LangChain, Hugging Face, Power BI",Mid,70421,88423,79422.0
+E-commerce,ML Engineer,"FastAPI, LangChain, Hugging Face, AWS, Keras",Entry,55816,118975,87395.5
+Retail,NLP Engineer,"Excel, R, NumPy, SQL",Entry,105588,129620,117604.0
+E-commerce,Quant Researcher,"NumPy, PyTorch, Excel, Python, Scikit-learn",Entry,46417,141320,93868.5
+Automotive,Computer Vision Engineer,"SQL, AWS, PyTorch, Scikit-learn",Mid,63705,108066,85885.5
+Tech,AI Researcher,"AWS, Flask, NumPy",Senior,144068,203628,173848.0
+Tech,Quant Researcher,"FastAPI, PyTorch, SQL, Reinforcement Learning, Power BI, TensorFlow",Senior,112549,169557,141053.0
+Healthcare,Quant Researcher,"TensorFlow, FastAPI, SQL, Keras",Senior,129815,228735,179275.0
+Finance,Quant Researcher,"LangChain, Reinforcement Learning, SQL, Flask",Entry,119581,200017,159799.0
+Retail,NLP Engineer,"Python, MLflow, CUDA, Excel, C++",Entry,140552,177621,159086.5
+Automotive,Data Scientist,"Azure, FastAPI, Keras, SQL",Mid,115594,164198,139896.0
+E-commerce,AI Product Manager,"Hugging Face, SQL, MLflow, Scikit-learn, Power BI",Entry,79445,122162,100803.5
+Retail,ML Engineer,"Flask, Power BI, GCP, FastAPI, Hugging Face, AWS",Entry,112049,152307,132178.0
+Tech,ML Engineer,"PyTorch, TensorFlow, FastAPI, C++, SQL, GCP",Senior,142574,189997,166285.5
+Retail,Data Analyst,"Flask, R, TensorFlow, Hugging Face, PyTorch",Entry,104565,186039,145302.0
+Healthcare,Quant Researcher,"MLflow, CUDA, GCP",Mid,90596,113378,101987.0
+E-commerce,NLP Engineer,"LangChain, Power BI, PyTorch, Pandas",Entry,84913,135327,110120.0
+Retail,AI Product Manager,"CUDA, LangChain, PyTorch",Senior,99425,166183,132804.0
+E-commerce,Computer Vision Engineer,"TensorFlow, CUDA, Pandas, Hugging Face, PyTorch, MLflow",Senior,128680,166841,147760.5
+Finance,NLP Engineer,"GCP, Pandas, R, Excel, Azure, PyTorch",Mid,96520,170352,133436.0
+E-commerce,Data Scientist,"GCP, CUDA, NumPy",Senior,120985,185014,152999.5
+Tech,ML Engineer,"LangChain, Excel, Hugging Face",Senior,46096,121946,84021.0
+Education,AI Product Manager,"AWS, Excel, Keras, Scikit-learn",Senior,49743,85665,67704.0
+Retail,ML Engineer,"Flask, MLflow, NumPy, Scikit-learn, CUDA",Entry,60561,83066,71813.5
+Automotive,ML Engineer,"NumPy, Keras, AWS, Python, LangChain, MLflow",Mid,123480,196377,159928.5
+E-commerce,AI Researcher,"Flask, LangChain, MLflow",Entry,49134,62088,55611.0
+Finance,AI Researcher,"TensorFlow, Pandas, Keras, R",Entry,146383,199913,173148.0
+Education,Quant Researcher,"LangChain, Keras, SQL, FastAPI, Azure",Entry,44419,65350,54884.5
+Automotive,AI Product Manager,"SQL, Pandas, FastAPI, C++, Keras, Python",Senior,48848,60982,54915.0
+Healthcare,Computer Vision Engineer,"LangChain, Power BI, MLflow",Mid,93385,188098,140741.5
+Finance,AI Product Manager,"AWS, LangChain, FastAPI, C++, Python, CUDA",Entry,139966,204232,172099.0
+E-commerce,Data Scientist,"PyTorch, C++, CUDA, MLflow, R, NumPy",Senior,97543,186865,142204.0
+Retail,ML Engineer,"Scikit-learn, Keras, Excel, PyTorch",Entry,74682,90118,82400.0
+Retail,AI Product Manager,"Azure, Power BI, GCP, LangChain",Entry,48904,148883,98893.5
+Education,NLP Engineer,"Reinforcement Learning, TensorFlow, Pandas, FastAPI",Senior,77036,123121,100078.5
+E-commerce,Computer Vision Engineer,"Excel, Scikit-learn, GCP",Entry,99727,180257,139992.0
+Retail,Computer Vision Engineer,"MLflow, Pandas, Scikit-learn, AWS, Flask, FastAPI",Senior,100434,145432,122933.0
+Finance,Data Analyst,"AWS, FastAPI, R, C++, Python, Reinforcement Learning",Senior,113410,124488,118949.0
+E-commerce,Data Analyst,"NumPy, Scikit-learn, FastAPI, Power BI, Pandas",Entry,145218,225247,185232.5
+Retail,ML Engineer,"Keras, C++, LangChain, AWS, Python, GCP",Mid,99985,118835,109410.0
+Finance,Data Scientist,"Hugging Face, Pandas, Reinforcement Learning, C++, FastAPI",Entry,56177,123724,89950.5
+Tech,AI Product Manager,"LangChain, AWS, Reinforcement Learning, Hugging Face, FastAPI",Entry,133484,224807,179145.5
+E-commerce,Data Analyst,"Azure, AWS, Reinforcement Learning",Senior,144347,187223,165785.0
+Finance,NLP Engineer,"MLflow, Pandas, Keras",Mid,83798,121933,102865.5
+Automotive,Computer Vision Engineer,"PyTorch, CUDA, Azure, Pandas, Flask",Senior,143575,159996,151785.5
+Retail,Quant Researcher,"TensorFlow, FastAPI, Excel, GCP",Senior,95811,171383,133597.0
+E-commerce,Computer Vision Engineer,"Azure, R, MLflow, TensorFlow",Entry,103575,118168,110871.5
+Finance,NLP Engineer,"NumPy, LangChain, FastAPI, Reinforcement Learning, Flask",Mid,40745,127343,84044.0
+Healthcare,Quant Researcher,"MLflow, PyTorch, NumPy, TensorFlow",Mid,66473,78077,72275.0
+Tech,NLP Engineer,"NumPy, TensorFlow, Keras, MLflow, CUDA, C++",Senior,114324,162850,138587.0
+Retail,AI Product Manager,"CUDA, PyTorch, Reinforcement Learning, NumPy, AWS",Senior,81604,133314,107459.0
+Healthcare,Quant Researcher,"Power BI, Azure, Reinforcement Learning, R",Senior,89096,179857,134476.5
+E-commerce,Computer Vision Engineer,"Python, Reinforcement Learning, PyTorch, TensorFlow, Pandas, Power BI",Mid,56260,87654,71957.0
+E-commerce,AI Researcher,"FastAPI, TensorFlow, Reinforcement Learning, Power BI, C++",Entry,49558,70064,59811.0
+Education,AI Product Manager,"C++, Power BI, LangChain, Azure, Pandas, TensorFlow",Mid,81542,177339,129440.5
+Tech,AI Product Manager,"CUDA, PyTorch, GCP, C++",Entry,102091,163622,132856.5
+E-commerce,NLP Engineer,"R, MLflow, Power BI, SQL, FastAPI",Senior,121879,190776,156327.5
+E-commerce,Quant Researcher,"PyTorch, Keras, Azure, AWS, R, Reinforcement Learning",Senior,100499,194235,147367.0
+Automotive,Data Scientist,"R, CUDA, C++, Excel",Mid,93170,133713,113441.5
+Education,Quant Researcher,"Azure, Python, Flask, Power BI, NumPy, Excel",Senior,93116,182505,137810.5
+Healthcare,Data Analyst,"Reinforcement Learning, Hugging Face, MLflow, CUDA",Senior,134605,155059,144832.0
+Finance,Computer Vision Engineer,"Reinforcement Learning, Azure, Hugging Face, LangChain, Pandas",Entry,135040,211350,173195.0
+Healthcare,Computer Vision Engineer,"Azure, AWS, PyTorch, TensorFlow, GCP",Entry,70699,105545,88122.0
+Retail,Computer Vision Engineer,"R, Hugging Face, Flask",Entry,49914,109366,79640.0
+Healthcare,AI Researcher,"Reinforcement Learning, Power BI, MLflow, PyTorch, R, Pandas",Mid,104664,167187,135925.5
+E-commerce,Data Analyst,"Hugging Face, Flask, SQL, Scikit-learn, C++",Mid,82848,132371,107609.5
+Retail,Data Scientist,"FastAPI, Scikit-learn, SQL",Mid,49582,66937,58259.5
+Automotive,Data Scientist,"Pandas, FastAPI, Hugging Face",Senior,90272,169247,129759.5
+Tech,Data Analyst,"AWS, TensorFlow, Excel, SQL, GCP",Entry,124573,216693,170633.0
+Finance,Quant Researcher,"Excel, TensorFlow, Flask, Scikit-learn",Entry,121683,156490,139086.5
+Automotive,Computer Vision Engineer,"Flask, Azure, SQL",Entry,140647,193727,167187.0
+E-commerce,Data Analyst,"Flask, Excel, AWS, PyTorch, LangChain",Mid,68266,125443,96854.5
+Retail,Data Scientist,"Flask, Reinforcement Learning, Pandas, Hugging Face, Keras",Senior,141644,203839,172741.5
+Tech,AI Product Manager,"NumPy, Pandas, SQL, R, Excel",Senior,110260,191166,150713.0
+E-commerce,Computer Vision Engineer,"GCP, Reinforcement Learning, CUDA, NumPy, SQL",Entry,56178,73901,65039.5
+Tech,Quant Researcher,"TensorFlow, Power BI, Azure, Flask, Reinforcement Learning, R",Senior,148430,222122,185276.0
+E-commerce,Quant Researcher,"GCP, Power BI, FastAPI, Reinforcement Learning, TensorFlow, AWS",Senior,130221,187925,159073.0
+Retail,Computer Vision Engineer,"R, Python, Hugging Face, Excel, Azure",Entry,89082,125755,107418.5
+Retail,NLP Engineer,"LangChain, Python, R, C++, NumPy",Senior,140456,219981,180218.5
+Automotive,Computer Vision Engineer,"MLflow, Excel, CUDA, LangChain, AWS, Azure",Entry,75664,174496,125080.0
+Finance,Computer Vision Engineer,"AWS, Hugging Face, MLflow, Excel, C++",Entry,74698,171496,123097.0
+Education,Data Scientist,"PyTorch, TensorFlow, AWS, C++, GCP",Entry,135994,178112,157053.0
+Healthcare,AI Product Manager,"Flask, Keras, Pandas, CUDA, PyTorch, Reinforcement Learning",Mid,67828,84015,75921.5
+Education,AI Product Manager,"Azure, Reinforcement Learning, Excel, SQL",Mid,134744,214025,174384.5
+Education,Data Scientist,"Power BI, GCP, Reinforcement Learning",Entry,123053,215790,169421.5
+Retail,Data Scientist,"Excel, R, Reinforcement Learning, Python, Power BI, FastAPI",Entry,129888,146706,138297.0
+E-commerce,AI Product Manager,"FastAPI, Python, TensorFlow, AWS",Senior,134151,186280,160215.5
+E-commerce,AI Product Manager,"LangChain, Excel, TensorFlow",Senior,87836,151813,119824.5
+Retail,ML Engineer,"GCP, TensorFlow, Flask, Azure",Mid,98287,153537,125912.0
+Healthcare,NLP Engineer,"Keras, Power BI, Excel, Python",Senior,72000,122709,97354.5
+E-commerce,Computer Vision Engineer,"Excel, Flask, AWS, R",Senior,81871,132251,107061.0
+Retail,Quant Researcher,"Hugging Face, GCP, Keras",Entry,93878,113869,103873.5
+E-commerce,NLP Engineer,"Reinforcement Learning, TensorFlow, CUDA",Entry,41243,77253,59248.0
+Automotive,Data Scientist,"FastAPI, CUDA, Pandas, Python, NumPy, Reinforcement Learning",Entry,47150,124312,85731.0
+Tech,ML Engineer,"Reinforcement Learning, Azure, Flask",Mid,127636,149510,138573.0
+Finance,NLP Engineer,"GCP, PyTorch, FastAPI, LangChain, Pandas",Mid,130749,200032,165390.5
+Education,AI Researcher,"PyTorch, MLflow, LangChain, Python, Azure, Pandas",Mid,58452,155880,107166.0
+Retail,Computer Vision Engineer,"Scikit-learn, TensorFlow, Azure, C++, Flask",Senior,68117,162345,115231.0
+Healthcare,NLP Engineer,"TensorFlow, NumPy, Azure, LangChain, AWS",Senior,112292,131998,122145.0
+Tech,AI Product Manager,"SQL, CUDA, Scikit-learn, Keras, Power BI, R",Senior,139059,151161,145110.0
+Retail,Data Analyst,"GCP, MLflow, FastAPI, TensorFlow, AWS, Reinforcement Learning",Entry,110780,193559,152169.5
+Healthcare,Quant Researcher,"FastAPI, GCP, Keras, Pandas",Senior,44707,105567,75137.0
+Retail,Data Scientist,"Azure, Excel, Keras, SQL, Reinforcement Learning, Power BI",Senior,112616,150479,131547.5
+E-commerce,AI Researcher,"Python, Keras, AWS, CUDA, NumPy, R",Entry,92121,110462,101291.5
+Automotive,Quant Researcher,"C++, Pandas, MLflow, Scikit-learn, AWS, LangChain",Mid,92112,185041,138576.5
+Retail,Data Analyst,"TensorFlow, Hugging Face, Scikit-learn",Mid,115180,140889,128034.5
+Education,ML Engineer,"AWS, NumPy, Excel, CUDA",Mid,95776,159901,127838.5
+Tech,ML Engineer,"Scikit-learn, NumPy, FastAPI",Senior,141251,152764,147007.5
+Finance,Data Analyst,"Reinforcement Learning, SQL, Pandas, NumPy, TensorFlow, Power BI",Mid,136810,231084,183947.0
+Retail,Data Scientist,"MLflow, NumPy, Reinforcement Learning, FastAPI, Pandas",Senior,83889,134261,109075.0
+Automotive,ML Engineer,"Flask, GCP, Hugging Face, FastAPI, Excel, CUDA",Senior,101199,165364,133281.5
+Tech,Data Analyst,"PyTorch, Pandas, Excel",Mid,131457,181221,156339.0
+E-commerce,ML Engineer,"Keras, Pandas, Power BI, Scikit-learn, FastAPI, Azure",Senior,142849,159228,151038.5
+Automotive,Data Scientist,"Hugging Face, LangChain, Flask, PyTorch, TensorFlow",Mid,138773,156637,147705.0
+Healthcare,Data Analyst,"Reinforcement Learning, GCP, Azure, LangChain, MLflow",Mid,52554,88603,70578.5
+Education,Data Analyst,"Pandas, PyTorch, AWS",Senior,42445,87889,65167.0
+Automotive,Quant Researcher,"Power BI, Pandas, Hugging Face, PyTorch",Entry,42100,109275,75687.5
+Retail,Quant Researcher,"AWS, CUDA, GCP, Flask, FastAPI, NumPy",Mid,137547,208492,173019.5
+Retail,ML Engineer,"PyTorch, Reinforcement Learning, Keras, C++, CUDA, SQL",Entry,141946,171941,156943.5
+Education,Quant Researcher,"TensorFlow, Excel, Scikit-learn, Azure, R, Pandas",Mid,131712,178157,154934.5
+Education,ML Engineer,"FastAPI, Azure, AWS, Python",Mid,91126,185060,138093.0
+Automotive,NLP Engineer,"NumPy, GCP, R, Reinforcement Learning, LangChain, AWS",Senior,100471,143502,121986.5
+Finance,ML Engineer,"MLflow, Pandas, PyTorch, C++, LangChain",Senior,47058,78474,62766.0
+Retail,AI Researcher,"Keras, FastAPI, PyTorch, LangChain, Scikit-learn, Hugging Face",Entry,102565,184809,143687.0
+Finance,Data Analyst,"SQL, MLflow, Pandas, CUDA, Scikit-learn",Mid,61954,143718,102836.0
+Tech,Computer Vision Engineer,"Reinforcement Learning, R, C++",Senior,83274,137815,110544.5
+Healthcare,Data Analyst,"Power BI, SQL, Python, TensorFlow",Entry,82652,137577,110114.5
+Tech,NLP Engineer,"Keras, MLflow, FastAPI, Python, Scikit-learn, Reinforcement Learning",Entry,84254,109338,96796.0
+Automotive,Computer Vision Engineer,"R, Keras, Pandas, Reinforcement Learning",Mid,135038,234859,184948.5
+Healthcare,ML Engineer,"LangChain, SQL, Reinforcement Learning, PyTorch",Entry,58091,128175,93133.0
+Tech,Data Analyst,"CUDA, SQL, Flask",Senior,59630,143743,101686.5
+Healthcare,NLP Engineer,"LangChain, AWS, R",Senior,90456,177785,134120.5
+Education,NLP Engineer,"LangChain, AWS, Keras, Hugging Face, Pandas",Entry,130542,204720,167631.0
+Education,AI Product Manager,"C++, Reinforcement Learning, MLflow, Pandas, SQL",Entry,74640,136034,105337.0
+E-commerce,Data Analyst,"AWS, SQL, CUDA, Hugging Face, Power BI",Entry,134678,199022,166850.0
+E-commerce,Data Analyst,"Power BI, Pandas, GCP, Hugging Face, R",Entry,60699,100444,80571.5
+Education,NLP Engineer,"Azure, Power BI, GCP, LangChain",Entry,118562,168256,143409.0
+E-commerce,Data Scientist,"MLflow, CUDA, Reinforcement Learning",Mid,135565,208792,172178.5
+Education,ML Engineer,"Python, GCP, Scikit-learn, Pandas, PyTorch",Senior,102146,133999,118072.5
+Retail,Quant Researcher,"Reinforcement Learning, FastAPI, Power BI",Entry,119302,138298,128800.0
+E-commerce,Data Analyst,"Reinforcement Learning, Scikit-learn, Hugging Face, MLflow",Entry,49324,111133,80228.5
+E-commerce,Computer Vision Engineer,"R, Flask, Keras, Python, CUDA, FastAPI",Entry,138580,231364,184972.0
+Finance,Quant Researcher,"Keras, FastAPI, Reinforcement Learning, Power BI",Mid,74176,137039,105607.5
+Healthcare,ML Engineer,"CUDA, FastAPI, Reinforcement Learning",Mid,131736,200711,166223.5
+E-commerce,Quant Researcher,"Reinforcement Learning, Python, Pandas, Excel, LangChain, Azure",Mid,147838,240312,194075.0
+Education,AI Product Manager,"FastAPI, CUDA, GCP, Keras, MLflow, C++",Senior,73318,132625,102971.5
+Finance,Computer Vision Engineer,"Flask, Pandas, LangChain",Mid,47247,120710,83978.5
+Retail,NLP Engineer,"R, Azure, Power BI, NumPy, Reinforcement Learning",Senior,147851,188241,168046.0
+Tech,Data Analyst,"R, NumPy, SQL, GCP, Python, FastAPI",Senior,83545,139001,111273.0
+E-commerce,Data Scientist,"AWS, Scikit-learn, TensorFlow, CUDA",Senior,113683,150250,131966.5
+Tech,AI Researcher,"Excel, Reinforcement Learning, NumPy, AWS, MLflow",Mid,85570,163706,124638.0
+Retail,Data Analyst,"TensorFlow, SQL, Scikit-learn",Mid,47968,108841,78404.5
+Healthcare,Data Analyst,"Reinforcement Learning, TensorFlow, PyTorch, Excel, FastAPI",Entry,110576,182999,146787.5
+Tech,AI Researcher,"AWS, Python, MLflow, Scikit-learn, Keras, Power BI",Entry,80195,161305,120750.0
+E-commerce,AI Product Manager,"GCP, SQL, LangChain, R",Mid,131293,216683,173988.0
+Finance,AI Researcher,"SQL, Excel, AWS, MLflow, TensorFlow, FastAPI",Mid,113368,178541,145954.5
+Tech,Data Analyst,"MLflow, Reinforcement Learning, Azure, C++, Pandas, NumPy",Mid,86846,98704,92775.0
+Tech,NLP Engineer,"Excel, C++, GCP, SQL, PyTorch",Mid,125414,140740,133077.0
+Automotive,Data Scientist,"CUDA, TensorFlow, Python, Azure, Scikit-learn",Entry,127708,143295,135501.5
+Finance,NLP Engineer,"LangChain, GCP, R, SQL",Senior,136117,208595,172356.0
+Automotive,Data Scientist,"Scikit-learn, Power BI, R, Reinforcement Learning, Excel, Azure",Senior,74834,103941,89387.5
+Automotive,Computer Vision Engineer,"NumPy, Excel, LangChain, Keras",Mid,123956,163525,143740.5
+Finance,NLP Engineer,"SQL, Reinforcement Learning, Python",Mid,138221,219313,178767.0
+E-commerce,Data Scientist,"Flask, NumPy, C++",Senior,46907,84839,65873.0
+Automotive,Data Scientist,"Pandas, SQL, CUDA, Power BI, AWS",Senior,136391,226513,181452.0
+Automotive,Data Analyst,"CUDA, SQL, Power BI, GCP, FastAPI, PyTorch",Mid,113830,133491,123660.5
+E-commerce,Data Analyst,"Excel, GCP, Scikit-learn, PyTorch",Senior,45973,72433,59203.0
+Automotive,Data Analyst,"C++, NumPy, Excel, Keras, TensorFlow",Entry,85501,149518,117509.5
+Retail,Computer Vision Engineer,"C++, SQL, Flask, PyTorch, MLflow, FastAPI",Entry,137862,169321,153591.5
+Tech,AI Product Manager,"Power BI, SQL, Reinforcement Learning, TensorFlow",Mid,104563,140859,122711.0
+Tech,Data Scientist,"TensorFlow, Pandas, Flask, Reinforcement Learning, Azure",Mid,119393,154411,136902.0
+Healthcare,Data Scientist,"Python, NumPy, LangChain, Excel",Senior,52342,65593,58967.5
+Finance,ML Engineer,"SQL, Python, CUDA, FastAPI, TensorFlow",Senior,110675,194128,152401.5
+Finance,Data Scientist,"Reinforcement Learning, Excel, Azure, SQL, FastAPI, Pandas",Entry,93518,182685,138101.5
+Education,NLP Engineer,"Excel, Hugging Face, CUDA, Flask, TensorFlow, C++",Entry,80174,143646,111910.0
+Automotive,Data Analyst,"C++, GCP, Reinforcement Learning",Senior,90229,182531,136380.0
+Education,Quant Researcher,"PyTorch, CUDA, AWS, Reinforcement Learning",Entry,42741,138581,90661.0
+Finance,ML Engineer,"Scikit-learn, Pandas, Keras, Power BI, TensorFlow, LangChain",Mid,141028,211158,176093.0
+E-commerce,ML Engineer,"R, LangChain, MLflow, Power BI, Azure, CUDA",Entry,62711,120957,91834.0
+Healthcare,ML Engineer,"AWS, Excel, C++, Keras",Mid,140092,164804,152448.0
+Tech,AI Product Manager,"AWS, SQL, Scikit-learn, Flask, FastAPI",Mid,72382,84197,78289.5
+Retail,NLP Engineer,"FastAPI, AWS, Pandas, Excel, Reinforcement Learning, Azure",Senior,91789,114759,103274.0
+E-commerce,AI Product Manager,"CUDA, Pandas, Python, PyTorch, Azure, Keras",Entry,112036,153498,132767.0
+Healthcare,NLP Engineer,"R, Flask, Keras, GCP, Hugging Face",Mid,45224,79444,62334.0
+Automotive,Quant Researcher,"LangChain, Keras, Excel",Entry,62949,91600,77274.5
+Automotive,Data Analyst,"Power BI, Scikit-learn, Keras, TensorFlow, MLflow, SQL",Senior,67630,155926,111778.0
+E-commerce,AI Researcher,"SQL, Excel, Flask, NumPy, FastAPI",Entry,92512,136705,114608.5
+Finance,Data Analyst,"GCP, SQL, Keras, AWS, Python",Mid,96374,117586,106980.0
+Retail,NLP Engineer,"Flask, AWS, Reinforcement Learning, LangChain, FastAPI",Mid,72840,136135,104487.5
+Retail,NLP Engineer,"Python, AWS, MLflow, C++, R",Mid,107564,192348,149956.0
+Automotive,AI Product Manager,"Python, MLflow, LangChain, GCP, PyTorch, Keras",Entry,101793,153283,127538.0
+Retail,Data Analyst,"AWS, Excel, Keras, Power BI, CUDA, Flask",Senior,111604,157715,134659.5
+E-commerce,Quant Researcher,"Python, Excel, FastAPI, GCP, C++, PyTorch",Senior,124909,142566,133737.5
+Tech,Data Scientist,"GCP, Azure, CUDA, AWS, PyTorch",Senior,142140,231014,186577.0
+Tech,ML Engineer,"AWS, Excel, SQL, Scikit-learn",Senior,74360,154591,114475.5
+Healthcare,Data Analyst,"Keras, TensorFlow, MLflow, NumPy, Pandas, Scikit-learn",Senior,142266,205665,173965.5
+E-commerce,NLP Engineer,"Flask, Pandas, GCP",Senior,85449,173276,129362.5
+Retail,AI Product Manager,"CUDA, SQL, Azure, MLflow, Python, GCP",Mid,72838,82839,77838.5
+Automotive,Computer Vision Engineer,"Azure, Flask, PyTorch, C++, GCP, Pandas",Entry,58883,94087,76485.0
+E-commerce,Data Analyst,"FastAPI, Excel, AWS, TensorFlow",Entry,137871,236301,187086.0
+Education,Quant Researcher,"Azure, Keras, C++, LangChain",Senior,72807,148336,110571.5
+Finance,AI Product Manager,"CUDA, Excel, FastAPI, MLflow, Azure, Power BI",Senior,121770,181258,151514.0
+Education,Data Analyst,"MLflow, SQL, Pandas",Entry,59736,141312,100524.0
+Automotive,Data Analyst,"CUDA, NumPy, Keras",Mid,54563,120250,87406.5
+Tech,AI Product Manager,"C++, Reinforcement Learning, Flask, AWS, Scikit-learn, NumPy",Senior,59528,141804,100666.0
+Retail,Computer Vision Engineer,"PyTorch, Python, FastAPI, Azure, LangChain",Senior,135458,162633,149045.5
+Retail,NLP Engineer,"GCP, Scikit-learn, CUDA, R, AWS, Pandas",Mid,120849,175578,148213.5
+Automotive,ML Engineer,"Azure, R, Hugging Face, SQL, MLflow, Flask",Entry,114398,162569,138483.5
+Tech,AI Product Manager,"Keras, Azure, C++, Reinforcement Learning, Hugging Face",Entry,102033,129786,115909.5
+E-commerce,AI Product Manager,"NumPy, Hugging Face, CUDA, Flask",Mid,109096,152219,130657.5
+Healthcare,NLP Engineer,"FastAPI, C++, R, Scikit-learn, GCP, Flask",Mid,42116,124383,83249.5
+Finance,Data Scientist,"Power BI, R, Python, C++, SQL",Entry,101352,179549,140450.5
+Retail,AI Researcher,"R, Python, Reinforcement Learning",Senior,66107,154510,110308.5
+Finance,NLP Engineer,"LangChain, Azure, PyTorch, FastAPI",Senior,47058,61355,54206.5
+Finance,AI Researcher,"Hugging Face, GCP, FastAPI",Entry,134451,175964,155207.5
+Tech,Data Analyst,"Power BI, Python, Pandas, AWS",Entry,65526,112033,88779.5
+E-commerce,NLP Engineer,"Hugging Face, Azure, SQL",Mid,98233,144034,121133.5
+Healthcare,Quant Researcher,"R, CUDA, Reinforcement Learning",Senior,63107,93304,78205.5
+Tech,Quant Researcher,"Reinforcement Learning, Hugging Face, CUDA, MLflow, AWS, PyTorch",Mid,111226,163698,137462.0
+Tech,AI Product Manager,"Scikit-learn, Pandas, FastAPI, AWS, Python",Mid,75074,155545,115309.5
+E-commerce,Quant Researcher,"Pandas, Excel, Flask, LangChain, Scikit-learn, TensorFlow",Mid,80973,145159,113066.0
+Education,Quant Researcher,"FastAPI, SQL, Scikit-learn",Mid,93507,119377,106442.0
+Finance,ML Engineer,"Flask, MLflow, Scikit-learn",Senior,50076,79334,64705.0
+Automotive,Data Scientist,"C++, Keras, Pandas",Entry,134300,219809,177054.5
+Tech,NLP Engineer,"Keras, Azure, C++",Entry,97395,189060,143227.5
+Automotive,NLP Engineer,"C++, CUDA, Power BI, TensorFlow",Senior,144238,220052,182145.0
+E-commerce,Data Scientist,"R, C++, SQL, GCP, MLflow, TensorFlow",Mid,149741,230920,190330.5
+Retail,AI Researcher,"LangChain, Reinforcement Learning, Flask",Senior,106079,137034,121556.5
+Automotive,Computer Vision Engineer,"Reinforcement Learning, Excel, Power BI, Hugging Face",Senior,98445,165573,132009.0
+Retail,ML Engineer,"C++, TensorFlow, FastAPI, AWS, Reinforcement Learning",Senior,43140,88722,65931.0
+Education,AI Product Manager,"Scikit-learn, LangChain, MLflow, Flask",Mid,52046,121333,86689.5
+E-commerce,AI Product Manager,"Keras, FastAPI, Scikit-learn, R, Hugging Face, PyTorch",Entry,99858,123912,111885.0
+Finance,Quant Researcher,"Keras, Pandas, R, Excel, SQL",Mid,88347,162648,125497.5
+E-commerce,NLP Engineer,"AWS, GCP, Azure",Entry,111367,142733,127050.0
+Healthcare,Data Analyst,"Power BI, R, LangChain, C++",Entry,78429,144042,111235.5
+Education,Computer Vision Engineer,"C++, Hugging Face, Flask",Senior,134633,217031,175832.0
+Retail,ML Engineer,"CUDA, FastAPI, Power BI",Senior,112953,211579,162266.0
+Education,NLP Engineer,"Flask, GCP, C++",Mid,144779,159980,152379.5
+Finance,Data Scientist,"Flask, Pandas, PyTorch, Excel",Entry,117277,164138,140707.5
+Retail,NLP Engineer,"Reinforcement Learning, LangChain, Excel, Pandas, Python, Flask",Mid,53255,64684,58969.5
+Retail,Data Scientist,"C++, Python, R, Excel",Entry,113739,165657,139698.0
+Retail,Computer Vision Engineer,"LangChain, Pandas, TensorFlow, CUDA",Mid,64726,112277,88501.5
+Education,NLP Engineer,"MLflow, Flask, AWS",Entry,47268,62862,55065.0
+Automotive,Computer Vision Engineer,"SQL, AWS, Power BI, NumPy, Reinforcement Learning",Senior,119846,164604,142225.0
+Automotive,AI Product Manager,"Pandas, SQL, Power BI, Python, Reinforcement Learning",Senior,66099,141841,103970.0
+Tech,AI Product Manager,"NumPy, Power BI, LangChain, GCP, Python",Mid,72050,137819,104934.5
+Education,AI Product Manager,"Azure, Python, FastAPI",Entry,90239,170922,130580.5
+Automotive,Data Analyst,"Scikit-learn, LangChain, Hugging Face, SQL, Azure, MLflow",Senior,94397,178121,136259.0
+Finance,ML Engineer,"CUDA, SQL, NumPy, Python, Flask",Senior,110310,161110,135710.0
+Finance,NLP Engineer,"LangChain, CUDA, Excel, Flask",Entry,55784,143211,99497.5
+Finance,Quant Researcher,"AWS, Flask, MLflow, FastAPI, Azure",Senior,149975,199905,174940.0
+Automotive,Data Analyst,"CUDA, Hugging Face, SQL, GCP, C++, Python",Mid,82338,95759,89048.5
+Finance,Quant Researcher,"SQL, LangChain, Hugging Face, R",Mid,76484,111575,94029.5
+E-commerce,NLP Engineer,"TensorFlow, NumPy, GCP, Power BI, FastAPI",Entry,147639,215331,181485.0
+Education,ML Engineer,"C++, Hugging Face, Excel, GCP, TensorFlow, FastAPI",Mid,63255,108370,85812.5
+E-commerce,ML Engineer,"FastAPI, Azure, MLflow, PyTorch, Excel",Entry,129625,193613,161619.0
+Retail,Data Scientist,"Azure, MLflow, Hugging Face, GCP, Keras",Entry,136317,195529,165923.0
+Retail,AI Product Manager,"Power BI, MLflow, SQL, AWS",Mid,148403,180220,164311.5
+Healthcare,Data Analyst,"NumPy, R, Excel, Scikit-learn, Flask, LangChain",Senior,142640,167377,155008.5
+Automotive,ML Engineer,"C++, Excel, TensorFlow, PyTorch",Entry,143807,217646,180726.5
+Finance,Computer Vision Engineer,"Pandas, C++, Power BI, Hugging Face, Excel",Entry,83586,94806,89196.0
+Automotive,NLP Engineer,"Pandas, Scikit-learn, NumPy",Senior,147570,214641,181105.5
+Healthcare,ML Engineer,"MLflow, AWS, Flask, SQL, Azure",Entry,130398,148438,139418.0
+Retail,Quant Researcher,"Excel, Reinforcement Learning, TensorFlow, SQL",Mid,126850,203760,165305.0
+Tech,AI Researcher,"PyTorch, R, Python, GCP, CUDA, C++",Senior,63340,150275,106807.5
+Tech,Data Analyst,"Flask, LangChain, Reinforcement Learning",Senior,52424,142189,97306.5
+Education,Quant Researcher,"LangChain, GCP, Keras",Mid,41157,118700,79928.5
+Finance,AI Product Manager,"MLflow, PyTorch, SQL, TensorFlow",Mid,134795,155851,145323.0
+Automotive,Data Scientist,"GCP, Pandas, AWS, Azure, Flask, PyTorch",Entry,147660,165793,156726.5
+Healthcare,ML Engineer,"GCP, Pandas, Python",Entry,68918,165624,117271.0
+Healthcare,ML Engineer,"SQL, Pandas, CUDA, LangChain, Excel",Senior,80600,149326,114963.0
+Finance,AI Researcher,"Python, R, Reinforcement Learning, Azure",Mid,60613,118504,89558.5
+Automotive,Computer Vision Engineer,"AWS, TensorFlow, CUDA, MLflow",Senior,91079,126568,108823.5
+Retail,Quant Researcher,"R, SQL, CUDA, Keras, AWS, Power BI",Mid,52422,78293,65357.5
+Education,Data Scientist,"Pandas, NumPy, TensorFlow, SQL",Senior,81248,174992,128120.0
+Automotive,AI Product Manager,"Power BI, SQL, TensorFlow",Senior,67293,82384,74838.5
+Tech,Data Scientist,"Excel, Scikit-learn, PyTorch, C++, GCP",Mid,78872,152783,115827.5
+E-commerce,NLP Engineer,"LangChain, SQL, NumPy, R, Power BI",Entry,122910,136367,129638.5
+Retail,Data Scientist,"Scikit-learn, Reinforcement Learning, TensorFlow",Entry,100828,139590,120209.0
+Automotive,Computer Vision Engineer,"SQL, CUDA, Reinforcement Learning, Excel",Mid,52943,87718,70330.5
+Finance,Data Scientist,"TensorFlow, MLflow, SQL, PyTorch",Mid,84079,116621,100350.0
+Healthcare,Quant Researcher,"Scikit-learn, TensorFlow, Azure, CUDA",Senior,77131,153891,115511.0
+E-commerce,AI Product Manager,"Pandas, AWS, GCP, SQL, Azure, NumPy",Mid,64114,80848,72481.0
+Tech,AI Product Manager,"MLflow, Keras, Scikit-learn, R, GCP",Mid,94393,193885,144139.0
+Automotive,AI Product Manager,"SQL, Scikit-learn, Reinforcement Learning, MLflow, Pandas",Senior,130255,148523,139389.0
+Education,ML Engineer,"NumPy, GCP, SQL, CUDA, PyTorch",Mid,116734,214659,165696.5
+Education,AI Product Manager,"Excel, GCP, C++, NumPy, Hugging Face",Senior,148619,160261,154440.0
+Education,Data Analyst,"MLflow, LangChain, Excel, C++",Entry,95762,123849,109805.5
+Healthcare,Computer Vision Engineer,"C++, CUDA, Keras, Excel",Mid,144929,213298,179113.5
+Healthcare,AI Product Manager,"CUDA, Pandas, MLflow, Azure, Flask",Entry,64077,123461,93769.0
+E-commerce,Data Scientist,"LangChain, Python, Excel, C++, FastAPI",Entry,84270,128757,106513.5
+Retail,Data Analyst,"AWS, Reinforcement Learning, Azure, Python, TensorFlow",Mid,134675,230472,182573.5
+Tech,AI Product Manager,"Reinforcement Learning, Keras, R, MLflow, Power BI, Flask",Mid,60301,147093,103697.0
+Tech,Data Scientist,"Keras, NumPy, GCP",Senior,80142,137381,108761.5
+Automotive,AI Researcher,"AWS, Flask, SQL, Keras, Excel",Entry,139587,157245,148416.0
+Tech,AI Researcher,"TensorFlow, Reinforcement Learning, C++, Power BI, LangChain",Entry,132458,195780,164119.0
+Finance,ML Engineer,"Power BI, Azure, Hugging Face, Python, C++, R",Entry,44138,83858,63998.0
+Automotive,ML Engineer,"TensorFlow, Reinforcement Learning, SQL, NumPy, Python",Entry,85552,135909,110730.5
+Finance,Data Scientist,"Scikit-learn, GCP, NumPy, Flask, Excel, AWS",Entry,78016,138883,108449.5
+Finance,AI Researcher,"AWS, NumPy, LangChain, Scikit-learn, FastAPI",Senior,132214,163110,147662.0
+Retail,ML Engineer,"CUDA, Power BI, LangChain, Scikit-learn",Senior,139424,155189,147306.5
+Retail,AI Researcher,"PyTorch, Power BI, Pandas, Scikit-learn",Mid,77201,136368,106784.5
+Automotive,Data Analyst,"LangChain, Power BI, AWS, TensorFlow",Mid,53641,106882,80261.5
+E-commerce,Data Scientist,"Keras, Python, Power BI, GCP",Senior,54875,88396,71635.5
+E-commerce,Data Scientist,"LangChain, Pandas, Scikit-learn, MLflow, C++",Mid,71896,133164,102530.0
+E-commerce,Computer Vision Engineer,"FastAPI, Excel, Scikit-learn, Pandas, PyTorch, Hugging Face",Entry,54199,121277,87738.0
+Automotive,NLP Engineer,"C++, AWS, NumPy, SQL",Mid,58539,140291,99415.0
+Healthcare,AI Researcher,"TensorFlow, Python, Reinforcement Learning",Mid,81361,133784,107572.5
+Retail,Data Scientist,"Reinforcement Learning, Flask, C++, Azure, Hugging Face, Python",Senior,107193,148881,128037.0
+Education,Data Scientist,"TensorFlow, Scikit-learn, NumPy, C++, Hugging Face",Entry,101110,159072,130091.0
+Retail,Quant Researcher,"SQL, AWS, TensorFlow",Entry,136800,229914,183357.0
+Tech,ML Engineer,"Hugging Face, Pandas, SQL",Mid,124475,186998,155736.5
+Tech,Data Scientist,"NumPy, TensorFlow, Pandas, CUDA",Senior,132410,187652,160031.0
+E-commerce,NLP Engineer,"C++, Pandas, Keras, Excel",Mid,112490,177711,145100.5
+Retail,Quant Researcher,"Scikit-learn, Excel, Flask",Entry,87425,138303,112864.0
+Finance,Quant Researcher,"FastAPI, C++, NumPy, Flask",Entry,67422,166675,117048.5
+Automotive,Data Scientist,"SQL, Pandas, Flask",Senior,60629,128509,94569.0
+Automotive,Data Analyst,"MLflow, Keras, C++, Reinforcement Learning",Mid,141368,183538,162453.0
+E-commerce,AI Researcher,"Hugging Face, Flask, Pandas, SQL, TensorFlow",Entry,125075,152579,138827.0
+Education,Data Scientist,"GCP, LangChain, Scikit-learn, NumPy, Pandas",Mid,140375,183044,161709.5
+Finance,Quant Researcher,"FastAPI, TensorFlow, Hugging Face, SQL, Azure, Reinforcement Learning",Entry,58608,145805,102206.5
+Automotive,ML Engineer,"SQL, R, AWS",Mid,51771,68566,60168.5
+Automotive,Data Analyst,"AWS, C++, Hugging Face, Azure, TensorFlow, MLflow",Senior,87515,163452,125483.5
+Healthcare,NLP Engineer,"TensorFlow, MLflow, CUDA",Entry,140185,236787,188486.0
+Healthcare,AI Product Manager,"Flask, CUDA, Hugging Face, MLflow, FastAPI",Mid,52829,97624,75226.5
+E-commerce,Data Analyst,"FastAPI, GCP, C++",Entry,132513,230452,181482.5
+Automotive,AI Researcher,"TensorFlow, Power BI, Scikit-learn, Excel",Entry,84716,150208,117462.0
+Tech,Data Analyst,"Power BI, GCP, Scikit-learn",Entry,57691,76940,67315.5
+Retail,AI Researcher,"R, Keras, Azure, AWS, NumPy, GCP",Entry,124533,208279,166406.0
+Healthcare,AI Product Manager,"SQL, FastAPI, CUDA, GCP, LangChain, Scikit-learn",Entry,91133,152395,121764.0
+Healthcare,Computer Vision Engineer,"NumPy, R, CUDA, MLflow, Azure, PyTorch",Mid,45671,90178,67924.5
+Finance,ML Engineer,"Power BI, Keras, TensorFlow",Senior,82804,138709,110756.5
+Tech,ML Engineer,"Keras, Power BI, TensorFlow, Excel, SQL, LangChain",Entry,91610,132764,112187.0
+Finance,Quant Researcher,"AWS, GCP, Keras, SQL, Pandas, Python",Entry,68574,108118,88346.0
+Retail,NLP Engineer,"Azure, PyTorch, LangChain",Entry,124562,213852,169207.0
+Education,AI Researcher,"Hugging Face, LangChain, R, Python, SQL, TensorFlow",Mid,86589,178866,132727.5
+Education,Quant Researcher,"SQL, Scikit-learn, GCP",Mid,93501,130789,112145.0
+E-commerce,Data Analyst,"Hugging Face, R, TensorFlow",Entry,57590,85895,71742.5
+Finance,Quant Researcher,"TensorFlow, Hugging Face, CUDA, PyTorch",Entry,142708,157155,149931.5
+Finance,AI Product Manager,"FastAPI, Python, MLflow, R, TensorFlow",Mid,140520,166869,153694.5
+Tech,AI Product Manager,"Excel, Pandas, Power BI, NumPy, Reinforcement Learning, C++",Senior,93505,152567,123036.0
+Healthcare,Data Scientist,"Flask, Python, C++, Azure",Entry,137712,152412,145062.0
+Education,AI Product Manager,"Scikit-learn, MLflow, Keras, Hugging Face",Senior,100873,150041,125457.0
+Finance,Data Scientist,"R, NumPy, Hugging Face, TensorFlow",Senior,86191,119779,102985.0
+E-commerce,Data Scientist,"PyTorch, Azure, Flask, SQL, Power BI, TensorFlow",Entry,107174,166157,136665.5
+E-commerce,AI Product Manager,"GCP, C++, R, Pandas",Senior,133743,163382,148562.5
+Healthcare,NLP Engineer,"NumPy, C++, Python",Entry,44626,114268,79447.0
+Finance,Quant Researcher,"Python, Excel, Scikit-learn, TensorFlow, R",Mid,42058,140636,91347.0
+E-commerce,AI Researcher,"LangChain, GCP, NumPy",Entry,83416,151596,117506.0
+Education,AI Researcher,"Power BI, Pandas, Python, Keras, NumPy, Scikit-learn",Mid,136005,149348,142676.5
+Education,NLP Engineer,"Flask, Pandas, Power BI, Scikit-learn, R",Senior,142696,209766,176231.0
+Finance,AI Researcher,"PyTorch, Hugging Face, GCP, Keras, TensorFlow, AWS",Mid,57791,105397,81594.0
+Finance,AI Researcher,"Azure, LangChain, Flask",Mid,117104,212155,164629.5
+Retail,Data Scientist,"AWS, GCP, PyTorch, Keras, TensorFlow",Entry,81222,98058,89640.0
+Automotive,Data Analyst,"Azure, Keras, R, Scikit-learn, TensorFlow, PyTorch",Senior,136657,216930,176793.5
+Finance,Computer Vision Engineer,"AWS, TensorFlow, R",Mid,117119,152032,134575.5
+Healthcare,NLP Engineer,"NumPy, Excel, GCP, CUDA, AWS",Entry,98470,180907,139688.5
+Tech,AI Researcher,"PyTorch, Keras, R, SQL, Reinforcement Learning, Excel",Entry,120633,178318,149475.5
+Healthcare,Quant Researcher,"SQL, Excel, Flask, Scikit-learn",Senior,95461,193480,144470.5
+Automotive,AI Researcher,"Flask, Keras, TensorFlow, CUDA, C++",Mid,102123,122063,112093.0
+Automotive,ML Engineer,"NumPy, Pandas, SQL, GCP, FastAPI",Mid,111473,178933,145203.0
+Retail,Data Analyst,"SQL, Power BI, Excel, Reinforcement Learning",Entry,128138,226109,177123.5
+Automotive,Computer Vision Engineer,"NumPy, CUDA, TensorFlow, Pandas, Hugging Face, PyTorch",Senior,97139,170282,133710.5
+Tech,Computer Vision Engineer,"R, Excel, NumPy, CUDA, Azure, TensorFlow",Senior,137454,165905,151679.5
+Education,AI Product Manager,"SQL, MLflow, Keras",Mid,42730,121043,81886.5
+Education,NLP Engineer,"Keras, FastAPI, Flask",Senior,121082,204983,163032.5
+Automotive,AI Researcher,"LangChain, SQL, Hugging Face",Mid,94437,128266,111351.5
+Finance,Computer Vision Engineer,"TensorFlow, Excel, NumPy, Reinforcement Learning, MLflow, Power BI",Senior,67907,106672,87289.5
+Automotive,Data Scientist,"Hugging Face, Pandas, Scikit-learn, Flask",Entry,95122,188498,141810.0
+Education,Quant Researcher,"AWS, Scikit-learn, TensorFlow, FastAPI, Power BI, Azure",Senior,141020,194689,167854.5
+E-commerce,Data Scientist,"LangChain, FastAPI, R",Senior,133090,175529,154309.5
+Education,Data Analyst,"TensorFlow, SQL, Reinforcement Learning, AWS, PyTorch, Python",Senior,96867,163829,130348.0
+E-commerce,Data Analyst,"Scikit-learn, Reinforcement Learning, NumPy, MLflow, Flask, Hugging Face",Entry,133145,195186,164165.5
+Education,AI Researcher,"FastAPI, Azure, NumPy, GCP, Flask",Mid,44966,73083,59024.5
+Healthcare,AI Product Manager,"Flask, TensorFlow, Python, R, Azure, SQL",Senior,113803,173152,143477.5
+E-commerce,AI Researcher,"Keras, GCP, Scikit-learn, MLflow, NumPy",Entry,96732,192601,144666.5
+Retail,Data Analyst,"R, NumPy, PyTorch",Senior,137258,223013,180135.5
+Education,Data Scientist,"NumPy, Pandas, LangChain, MLflow, TensorFlow, R",Senior,129628,217643,173635.5
+Education,Data Scientist,"MLflow, LangChain, Power BI, CUDA, SQL, TensorFlow",Senior,98960,171179,135069.5
+Tech,Quant Researcher,"Scikit-learn, R, Power BI",Mid,98270,193839,146054.5
+Education,Data Scientist,"Keras, NumPy, Reinforcement Learning, Scikit-learn, Azure, Pandas",Mid,112886,206291,159588.5
+Tech,NLP Engineer,"LangChain, GCP, NumPy, Python, R",Entry,74842,147593,111217.5
+Healthcare,AI Researcher,"FastAPI, Flask, Power BI, Reinforcement Learning, PyTorch",Entry,132532,204945,168738.5
+Education,Data Analyst,"SQL, MLflow, Keras, TensorFlow, NumPy, Reinforcement Learning",Entry,85034,163334,124184.0
+Healthcare,AI Researcher,"AWS, NumPy, TensorFlow, Hugging Face, CUDA, Power BI",Senior,69810,147152,108481.0
+Automotive,AI Product Manager,"AWS, Flask, C++, GCP, Hugging Face",Senior,123414,145432,134423.0
+Automotive,AI Researcher,"Reinforcement Learning, TensorFlow, Flask, Excel, GCP",Senior,142118,211573,176845.5
+Retail,NLP Engineer,"TensorFlow, Hugging Face, MLflow, GCP, PyTorch",Senior,93048,182709,137878.5
+Retail,Quant Researcher,"FastAPI, Scikit-learn, LangChain",Entry,143586,192237,167911.5
+Automotive,NLP Engineer,"R, FastAPI, TensorFlow",Entry,130633,195258,162945.5
+E-commerce,ML Engineer,"Excel, R, Pandas",Entry,47496,67158,57327.0
+Finance,Quant Researcher,"PyTorch, CUDA, TensorFlow, FastAPI, Keras",Senior,98888,179005,138946.5
+Automotive,Data Analyst,"Reinforcement Learning, Hugging Face, CUDA, PyTorch",Mid,68341,101863,85102.0
+Retail,NLP Engineer,"Reinforcement Learning, TensorFlow, Pandas, Keras, Python, PyTorch",Mid,53719,90956,72337.5
+Healthcare,Data Scientist,"Pandas, Reinforcement Learning, FastAPI, Power BI",Senior,85034,137565,111299.5
+Automotive,ML Engineer,"Reinforcement Learning, TensorFlow, Hugging Face, SQL, C++, LangChain",Senior,78685,174178,126431.5
+Tech,Data Scientist,"R, Scikit-learn, LangChain, Flask",Entry,125195,148007,136601.0
+E-commerce,Data Analyst,"LangChain, C++, Power BI",Entry,59356,113740,86548.0
+E-commerce,ML Engineer,"NumPy, SQL, Flask, Python",Entry,98434,136560,117497.0
+Tech,ML Engineer,"Excel, Scikit-learn, AWS, Flask, LangChain",Mid,114993,167476,141234.5
+Finance,Data Scientist,"Excel, Pandas, SQL, R, Azure",Senior,44859,105193,75026.0
+Healthcare,AI Researcher,"Pandas, GCP, Power BI, Hugging Face, Reinforcement Learning, CUDA",Senior,112082,168256,140169.0
+Education,Data Analyst,"PyTorch, Python, AWS, Reinforcement Learning, FastAPI, CUDA",Senior,74410,152948,113679.0
+Retail,Quant Researcher,"Scikit-learn, PyTorch, Python",Entry,86695,101255,93975.0
+Retail,Data Scientist,"LangChain, Power BI, Python",Mid,133790,219591,176690.5
+Tech,AI Researcher,"NumPy, PyTorch, Excel",Mid,52444,92373,72408.5
+Finance,Quant Researcher,"Scikit-learn, PyTorch, Reinforcement Learning, Flask, FastAPI, MLflow",Mid,123880,187230,155555.0
+Automotive,NLP Engineer,"CUDA, Pandas, Scikit-learn",Mid,146084,231984,189034.0
+Healthcare,Computer Vision Engineer,"NumPy, PyTorch, SQL, TensorFlow",Entry,56481,84513,70497.0
+Retail,NLP Engineer,"Reinforcement Learning, Pandas, Azure, SQL, C++",Senior,57340,68602,62971.0
+Finance,NLP Engineer,"FastAPI, LangChain, Python, AWS, R, TensorFlow",Senior,118381,202353,160367.0
+Education,NLP Engineer,"AWS, Power BI, Pandas, TensorFlow",Mid,119065,138839,128952.0
+Healthcare,AI Product Manager,"Hugging Face, LangChain, Flask, AWS",Entry,137144,230874,184009.0
+Retail,Data Scientist,"PyTorch, C++, Flask, Pandas, NumPy",Mid,55380,126665,91022.5
+Automotive,AI Product Manager,"CUDA, LangChain, NumPy, GCP, Flask, Azure",Entry,97367,187232,142299.5
+Automotive,NLP Engineer,"Excel, Azure, R, FastAPI, PyTorch, Power BI",Mid,61468,116118,88793.0
+Tech,Data Analyst,"TensorFlow, GCP, Power BI, FastAPI, Pandas, R",Entry,115727,146548,131137.5
+Retail,Computer Vision Engineer,"NumPy, Keras, Reinforcement Learning",Mid,87853,140156,114004.5
+Finance,Quant Researcher,"Excel, SQL, AWS, Scikit-learn, GCP",Senior,143861,179759,161810.0
+Automotive,NLP Engineer,"PyTorch, Excel, LangChain, Scikit-learn",Senior,67012,121933,94472.5
+Tech,AI Researcher,"Scikit-learn, CUDA, GCP, SQL, Reinforcement Learning",Entry,41971,77635,59803.0
+Retail,NLP Engineer,"SQL, PyTorch, Keras, Reinforcement Learning, C++, Hugging Face",Senior,139502,184795,162148.5
+Retail,Quant Researcher,"Excel, LangChain, FastAPI, SQL, Azure, Keras",Mid,45567,73023,59295.0
+Retail,NLP Engineer,"C++, Azure, Hugging Face, Keras, PyTorch",Entry,136733,208599,172666.0
+Automotive,Quant Researcher,"SQL, Azure, Reinforcement Learning, C++",Mid,89039,133332,111185.5
+E-commerce,Data Scientist,"Pandas, FastAPI, Azure, Flask, Python, SQL",Mid,115624,135750,125687.0
+Education,AI Researcher,"SQL, NumPy, GCP",Mid,101178,186066,143622.0
+E-commerce,NLP Engineer,"Flask, GCP, C++, Hugging Face, PyTorch",Senior,123425,181886,152655.5
+Education,ML Engineer,"Hugging Face, MLflow, PyTorch",Entry,70478,128940,99709.0
+E-commerce,Quant Researcher,"Reinforcement Learning, C++, TensorFlow",Mid,54468,79575,67021.5
+Retail,ML Engineer,"Azure, LangChain, R",Entry,118961,131569,125265.0
+E-commerce,ML Engineer,"Flask, Excel, Azure, MLflow, Keras, LangChain",Senior,77357,139297,108327.0
+Retail,AI Product Manager,"Scikit-learn, TensorFlow, Power BI, SQL, Hugging Face, Excel",Entry,73723,124812,99267.5
+E-commerce,AI Product Manager,"Excel, GCP, R",Entry,56407,108451,82429.0
+Education,AI Researcher,"Power BI, NumPy, GCP",Senior,66257,85472,75864.5
+Tech,NLP Engineer,"C++, R, LangChain, Keras",Entry,119426,210962,165194.0
+Automotive,AI Researcher,"Hugging Face, AWS, R",Senior,143238,190147,166692.5
+E-commerce,Data Analyst,"CUDA, NumPy, Power BI, Azure, SQL, Keras",Mid,95911,153606,124758.5
+E-commerce,NLP Engineer,"Azure, MLflow, Keras, Scikit-learn",Entry,144692,182426,163559.0
+Finance,AI Product Manager,"GCP, Hugging Face, NumPy, Power BI, Excel, Keras",Mid,65633,128186,96909.5
+Education,AI Researcher,"R, Scikit-learn, Excel, Hugging Face",Mid,96745,117500,107122.5
+Automotive,AI Researcher,"Azure, Pandas, Scikit-learn",Entry,90844,116911,103877.5
+Healthcare,Data Scientist,"Azure, TensorFlow, AWS, NumPy",Senior,127738,213346,170542.0
+E-commerce,Computer Vision Engineer,"NumPy, Flask, MLflow",Entry,40044,122431,81237.5
+Healthcare,AI Researcher,"R, Excel, FastAPI, Pandas, TensorFlow, NumPy",Entry,87576,154227,120901.5
+Automotive,AI Researcher,"CUDA, Hugging Face, Azure",Senior,127240,171690,149465.0
+Education,ML Engineer,"FastAPI, CUDA, NumPy",Entry,79966,166524,123245.0
+Finance,ML Engineer,"PyTorch, TensorFlow, FastAPI, NumPy, Reinforcement Learning",Senior,145861,182592,164226.5
+Retail,Data Scientist,"Python, Pandas, R, Reinforcement Learning",Entry,72218,140897,106557.5
+Healthcare,ML Engineer,"Azure, Hugging Face, C++, Power BI",Mid,44006,88400,66203.0
+Education,Quant Researcher,"SQL, FastAPI, NumPy, TensorFlow, Keras, Reinforcement Learning",Entry,43780,84358,64069.0
+Tech,Quant Researcher,"Scikit-learn, Keras, Pandas",Entry,61249,134740,97994.5
+Education,Data Analyst,"FastAPI, MLflow, Excel, Reinforcement Learning, Hugging Face, Pandas",Entry,149324,195524,172424.0
+E-commerce,Data Scientist,"C++, Scikit-learn, FastAPI, GCP",Entry,143363,168572,155967.5
+Automotive,AI Researcher,"Python, Keras, NumPy, R, Scikit-learn, PyTorch",Senior,93073,108827,100950.0
+Healthcare,Quant Researcher,"Keras, C++, Flask, Python, GCP, NumPy",Entry,144902,243389,194145.5
+Automotive,AI Product Manager,"Keras, TensorFlow, Excel, CUDA, PyTorch",Mid,73201,96873,85037.0
+Tech,AI Product Manager,"TensorFlow, Flask, GCP, Pandas",Entry,53695,121552,87623.5
+Retail,ML Engineer,"AWS, FastAPI, Keras",Mid,42104,140917,91510.5
+E-commerce,ML Engineer,"Reinforcement Learning, Excel, LangChain, TensorFlow, FastAPI, R",Mid,146786,165131,155958.5
+E-commerce,AI Researcher,"Excel, FastAPI, Power BI, R",Senior,52261,62954,57607.5
+Automotive,ML Engineer,"GCP, Hugging Face, MLflow",Entry,124350,175380,149865.0
+Education,Computer Vision Engineer,"Azure, SQL, AWS",Entry,122574,158266,140420.0
+Education,Data Analyst,"Flask, FastAPI, Power BI, Reinforcement Learning, Keras, SQL",Entry,50676,79231,64953.5
+Retail,AI Product Manager,"R, FastAPI, Power BI",Mid,59596,145072,102334.0
+E-commerce,Quant Researcher,"Azure, Scikit-learn, Excel, Flask, GCP, AWS",Mid,52352,106000,79176.0
+Automotive,AI Researcher,"Azure, GCP, Hugging Face, R, Scikit-learn",Senior,44992,67962,56477.0
+Healthcare,AI Product Manager,"C++, AWS, SQL",Mid,76958,104030,90494.0
+Automotive,Data Analyst,"SQL, Scikit-learn, TensorFlow, LangChain, R, Power BI",Mid,113006,141758,127382.0
+Education,AI Product Manager,"C++, LangChain, NumPy, Azure, MLflow",Entry,110023,151959,130991.0
+Finance,Computer Vision Engineer,"Keras, Scikit-learn, Pandas, Python, FastAPI",Senior,139711,223197,181454.0
+Tech,Computer Vision Engineer,"PyTorch, Python, Flask",Mid,101687,193715,147701.0
+E-commerce,Computer Vision Engineer,"AWS, R, FastAPI",Senior,148358,235635,191996.5
+E-commerce,ML Engineer,"AWS, PyTorch, Scikit-learn",Senior,112045,176528,144286.5
+E-commerce,AI Researcher,"Power BI, TensorFlow, Azure, PyTorch, NumPy",Senior,89570,149201,119385.5
+Finance,Data Scientist,"FastAPI, AWS, Python",Entry,47542,119102,83322.0
+Retail,Computer Vision Engineer,"Flask, Pandas, SQL, PyTorch",Mid,71640,85301,78470.5
+Healthcare,AI Researcher,"Pandas, PyTorch, Power BI, FastAPI, TensorFlow",Mid,107629,145979,126804.0
+Education,Quant Researcher,"Power BI, C++, NumPy",Senior,97661,179130,138395.5
+E-commerce,Quant Researcher,"PyTorch, Pandas, TensorFlow, Azure, NumPy",Entry,72703,140316,106509.5
+Finance,Data Scientist,"PyTorch, Excel, Scikit-learn, MLflow",Mid,120028,152472,136250.0
+Education,Data Analyst,"NumPy, Excel, LangChain, PyTorch, AWS, Power BI",Mid,94017,182469,138243.0
+E-commerce,Computer Vision Engineer,"Azure, TensorFlow, Excel",Senior,117882,213004,165443.0
+Education,AI Product Manager,"Excel, MLflow, NumPy",Senior,54113,93140,73626.5
+Automotive,NLP Engineer,"AWS, MLflow, Reinforcement Learning, FastAPI, Python",Entry,115738,195091,155414.5
+Education,AI Product Manager,"Python, MLflow, Azure, Reinforcement Learning",Entry,72794,126656,99725.0
+Automotive,AI Product Manager,"AWS, NumPy, CUDA, Scikit-learn",Entry,97964,155467,126715.5
+Automotive,AI Product Manager,"Azure, R, MLflow, Python, AWS",Entry,65913,127356,96634.5
+Healthcare,Quant Researcher,"GCP, Hugging Face, Python",Mid,88549,108694,98621.5
+Finance,ML Engineer,"Hugging Face, PyTorch, SQL, FastAPI",Mid,134773,213155,173964.0
+Finance,Computer Vision Engineer,"CUDA, MLflow, Flask, Python, Scikit-learn, PyTorch",Mid,54397,133038,93717.5
+E-commerce,Data Scientist,"Keras, LangChain, FastAPI",Senior,106470,120224,113347.0
+Education,AI Researcher,"AWS, LangChain, Python, PyTorch, R",Mid,69114,96062,82588.0
+Healthcare,Data Scientist,"CUDA, Pandas, R, Reinforcement Learning, TensorFlow, Azure",Mid,132907,203452,168179.5
+Finance,Data Analyst,"NumPy, MLflow, Flask, Keras, TensorFlow, FastAPI",Senior,46314,103590,74952.0
+Automotive,ML Engineer,"GCP, Hugging Face, Keras",Entry,149066,207483,178274.5
+Retail,Quant Researcher,"Reinforcement Learning, C++, Scikit-learn",Senior,125945,180189,153067.0
+Retail,Computer Vision Engineer,"AWS, Power BI, TensorFlow, SQL",Mid,119221,152590,135905.5
+Automotive,ML Engineer,"AWS, Azure, Reinforcement Learning, NumPy",Senior,84230,111464,97847.0
+Education,AI Researcher,"PyTorch, Reinforcement Learning, Pandas",Senior,65718,165024,115371.0
+Automotive,Quant Researcher,"Hugging Face, FastAPI, Reinforcement Learning, Flask",Entry,117920,214828,166374.0
+Tech,Data Scientist,"Power BI, Reinforcement Learning, TensorFlow, CUDA",Senior,139463,235020,187241.5
+Education,Quant Researcher,"Reinforcement Learning, TensorFlow, R, SQL, FastAPI",Mid,125497,137583,131540.0
+E-commerce,ML Engineer,"Keras, LangChain, AWS, TensorFlow, Reinforcement Learning, NumPy",Senior,135863,181350,158606.5
+Healthcare,ML Engineer,"NumPy, Excel, Scikit-learn, CUDA, R, TensorFlow",Entry,106509,131532,119020.5
+Tech,NLP Engineer,"C++, TensorFlow, Keras",Entry,106378,122693,114535.5
+Automotive,Computer Vision Engineer,"Excel, Scikit-learn, PyTorch, FastAPI",Mid,124196,209492,166844.0
+Healthcare,Data Analyst,"Hugging Face, PyTorch, AWS, MLflow",Senior,137549,211945,174747.0
+Education,NLP Engineer,"Reinforcement Learning, MLflow, GCP, Azure, Pandas",Senior,86557,115492,101024.5
+Retail,AI Product Manager,"Power BI, Python, Scikit-learn, R, Pandas",Entry,89046,110627,99836.5
+Retail,AI Researcher,"Keras, AWS, SQL, CUDA, Python, GCP",Mid,127351,220767,174059.0
+Retail,ML Engineer,"Excel, Flask, FastAPI",Mid,122699,207906,165302.5
+Healthcare,AI Researcher,"LangChain, MLflow, Azure",Entry,138388,235443,186915.5
+Retail,ML Engineer,"CUDA, Scikit-learn, Power BI, TensorFlow",Mid,117976,189783,153879.5
+Retail,Data Analyst,"C++, Azure, CUDA",Mid,120521,199525,160023.0
+Automotive,Quant Researcher,"NumPy, Python, SQL",Entry,73584,110294,91939.0
+Healthcare,Computer Vision Engineer,"Pandas, Azure, Reinforcement Learning, C++, FastAPI",Senior,110581,138577,124579.0
+E-commerce,AI Product Manager,"C++, R, Python, Scikit-learn, Reinforcement Learning, LangChain",Entry,65517,143228,104372.5
+Retail,AI Product Manager,"TensorFlow, Excel, LangChain",Senior,116334,191378,153856.0
+Automotive,ML Engineer,"SQL, Flask, C++",Mid,104129,180066,142097.5
+E-commerce,NLP Engineer,"Scikit-learn, Python, Excel, C++",Senior,51112,66328,58720.0
+Healthcare,Data Scientist,"MLflow, C++, Power BI, LangChain",Senior,101917,123000,112458.5
+Automotive,AI Product Manager,"SQL, C++, R, Scikit-learn, NumPy",Senior,79029,130633,104831.0
+E-commerce,AI Product Manager,"Excel, Power BI, Hugging Face, LangChain, MLflow",Mid,143756,214831,179293.5
+Tech,Data Scientist,"Reinforcement Learning, FastAPI, AWS",Entry,85533,108720,97126.5
+Automotive,Quant Researcher,"Excel, Power BI, Hugging Face, Flask, NumPy",Entry,113696,156285,134990.5
+Healthcare,Computer Vision Engineer,"R, LangChain, Power BI, C++",Mid,44327,114164,79245.5
+Automotive,Data Analyst,"Hugging Face, Excel, Keras, FastAPI, TensorFlow, GCP",Senior,42174,115778,78976.0
+Education,Data Scientist,"Reinforcement Learning, Pandas, AWS",Entry,83012,128069,105540.5
+Automotive,Quant Researcher,"SQL, GCP, Excel, CUDA, R",Entry,94512,159116,126814.0
+Education,ML Engineer,"Scikit-learn, Excel, Python, Flask, GCP, C++",Entry,56379,96578,76478.5
+Tech,NLP Engineer,"Pandas, GCP, Azure, Reinforcement Learning, TensorFlow, MLflow",Mid,67160,129962,98561.0
+Retail,Computer Vision Engineer,"CUDA, SQL, C++, PyTorch, Hugging Face, AWS",Senior,41141,82048,61594.5
+Automotive,AI Product Manager,"Hugging Face, Power BI, TensorFlow, C++, Python, AWS",Mid,119291,180214,149752.5
+Automotive,NLP Engineer,"LangChain, CUDA, FastAPI, Excel, GCP, Power BI",Senior,68514,83310,75912.0
+Education,AI Researcher,"MLflow, Python, Reinforcement Learning, SQL, Pandas, NumPy",Entry,136136,173242,154689.0
+Tech,ML Engineer,"Scikit-learn, C++, NumPy, FastAPI",Senior,84014,111768,97891.0
+Retail,Computer Vision Engineer,"TensorFlow, C++, Pandas",Entry,95419,156635,126027.0
+E-commerce,Data Analyst,"TensorFlow, PyTorch, C++",Entry,149578,227156,188367.0
+Tech,NLP Engineer,"Hugging Face, SQL, AWS, Scikit-learn, C++, Pandas",Mid,76646,175442,126044.0
+Finance,Data Scientist,"CUDA, Scikit-learn, R, Azure",Senior,59448,101920,80684.0
+Healthcare,NLP Engineer,"LangChain, PyTorch, TensorFlow, GCP",Entry,41904,79881,60892.5
+Automotive,ML Engineer,"MLflow, AWS, SQL, Pandas",Entry,122152,211094,166623.0
+Education,Data Scientist,"Python, Flask, Azure, MLflow, Keras, Power BI",Mid,148075,159793,153934.0
+Education,NLP Engineer,"Power BI, Excel, Scikit-learn, Hugging Face, FastAPI",Senior,138448,172737,155592.5
+Tech,ML Engineer,"Python, Keras, Hugging Face, Flask, TensorFlow",Entry,114961,137232,126096.5
+Automotive,AI Product Manager,"CUDA, TensorFlow, PyTorch, Python, R, NumPy",Entry,120680,197411,159045.5
+Automotive,Data Analyst,"Python, TensorFlow, Power BI",Entry,130193,219722,174957.5
+Tech,Data Analyst,"MLflow, Keras, GCP",Senior,63320,102902,83111.0
+E-commerce,Quant Researcher,"MLflow, Hugging Face, Scikit-learn, C++",Mid,144303,234237,189270.0
+Finance,Computer Vision Engineer,"Pandas, TensorFlow, Hugging Face",Mid,125644,191197,158420.5
+Retail,Computer Vision Engineer,"Power BI, NumPy, TensorFlow, Flask, SQL",Senior,124397,179920,152158.5
+Finance,Data Analyst,"Hugging Face, Scikit-learn, GCP, TensorFlow, NumPy",Senior,100967,158917,129942.0
+Tech,Computer Vision Engineer,"Power BI, Hugging Face, Azure, NumPy, SQL",Mid,86614,168639,127626.5
+Retail,Computer Vision Engineer,"MLflow, TensorFlow, Reinforcement Learning",Entry,91509,117239,104374.0
+E-commerce,AI Product Manager,"Flask, AWS, TensorFlow, NumPy",Mid,105140,164172,134656.0
+Retail,Data Analyst,"Scikit-learn, GCP, LangChain, Python, CUDA, Excel",Entry,117356,209343,163349.5
+Finance,AI Product Manager,"Hugging Face, Excel, Scikit-learn, CUDA, SQL, PyTorch",Senior,140190,184813,162501.5
+Education,Quant Researcher,"Pandas, MLflow, Power BI, Python",Senior,91516,113851,102683.5
+Retail,ML Engineer,"Hugging Face, TensorFlow, C++, Keras, AWS",Senior,42598,130452,86525.0
+Healthcare,Data Analyst,"C++, Excel, Pandas",Entry,43782,76516,60149.0
+Healthcare,ML Engineer,"NumPy, Python, PyTorch",Senior,113253,141139,127196.0
+Healthcare,ML Engineer,"Reinforcement Learning, TensorFlow, Excel, Azure",Senior,103189,201637,152413.0
+Automotive,Data Analyst,"Excel, R, FastAPI",Senior,40447,58415,49431.0
+Healthcare,AI Product Manager,"Excel, R, MLflow, Azure, Flask, TensorFlow",Senior,66165,124209,95187.0
+Automotive,NLP Engineer,"LangChain, SQL, Hugging Face, AWS, CUDA",Senior,55662,72677,64169.5
+Education,NLP Engineer,"Excel, Power BI, Python",Senior,82452,157433,119942.5
+Education,AI Researcher,"MLflow, Pandas, NumPy, GCP, FastAPI, LangChain",Entry,89994,162981,126487.5
+Retail,NLP Engineer,"GCP, Flask, TensorFlow, MLflow",Entry,88502,151208,119855.0
+Retail,NLP Engineer,"Reinforcement Learning, MLflow, Hugging Face, C++, Azure",Senior,104608,194654,149631.0
+Finance,Computer Vision Engineer,"Hugging Face, TensorFlow, MLflow",Senior,59714,136906,98310.0
+Education,Quant Researcher,"FastAPI, Scikit-learn, MLflow",Mid,129435,219563,174499.0
+Education,AI Product Manager,"MLflow, CUDA, GCP, Pandas, Power BI",Mid,98022,116786,107404.0
+Education,Data Analyst,"Python, Azure, CUDA, NumPy, Power BI",Senior,74164,101550,87857.0
+E-commerce,NLP Engineer,"Pandas, MLflow, C++, Reinforcement Learning, SQL, Python",Mid,125699,188499,157099.0
+Healthcare,AI Researcher,"GCP, C++, FastAPI",Senior,81948,127477,104712.5
+Tech,ML Engineer,"NumPy, Python, SQL, CUDA, Hugging Face",Entry,86924,166800,126862.0
+Retail,AI Researcher,"GCP, TensorFlow, Hugging Face",Senior,139991,156099,148045.0
+Tech,AI Researcher,"Excel, LangChain, AWS, CUDA, Hugging Face, Power BI",Entry,121461,158777,140119.0
+Retail,Data Analyst,"Power BI, GCP, NumPy",Senior,41311,111484,76397.5
+Retail,Computer Vision Engineer,"Reinforcement Learning, Keras, TensorFlow, Python, LangChain",Senior,42488,58522,50505.0
+Education,Data Analyst,"Reinforcement Learning, Keras, MLflow, PyTorch, Pandas",Entry,74011,171651,122831.0
+E-commerce,AI Researcher,"Pandas, MLflow, LangChain, Hugging Face, TensorFlow, PyTorch",Senior,91345,189314,140329.5
+Healthcare,ML Engineer,"Hugging Face, Excel, TensorFlow, R, Keras",Mid,114617,173395,144006.0
+Finance,Data Scientist,"Flask, PyTorch, LangChain, Pandas, Azure, FastAPI",Senior,52660,62953,57806.5
+Automotive,Computer Vision Engineer,"GCP, Power BI, AWS, LangChain",Mid,78844,134900,106872.0
+Education,NLP Engineer,"Python, Pandas, C++",Entry,95991,162094,129042.5
+Finance,Computer Vision Engineer,"R, NumPy, PyTorch, Pandas",Senior,119616,205812,162714.0
+Tech,Quant Researcher,"R, Pandas, CUDA",Entry,68863,85315,77089.0
+Education,Data Scientist,"MLflow, FastAPI, GCP",Entry,47522,136959,92240.5
+Tech,NLP Engineer,"NumPy, Flask, Pandas",Mid,72658,145079,108868.5
+Finance,NLP Engineer,"Hugging Face, MLflow, Python, Reinforcement Learning",Mid,72872,168844,120858.0
+E-commerce,Data Analyst,"Power BI, CUDA, Excel",Senior,49176,116584,82880.0
+Finance,NLP Engineer,"Power BI, TensorFlow, NumPy, MLflow",Mid,40845,77525,59185.0
+Education,Quant Researcher,"PyTorch, GCP, Reinforcement Learning, TensorFlow, FastAPI",Mid,105204,144217,124710.5
+Tech,Data Scientist,"AWS, R, FastAPI, Python, MLflow",Mid,108521,197495,153008.0
+Healthcare,AI Product Manager,"R, GCP, Power BI, Python, Pandas",Mid,43865,142219,93042.0
+Automotive,Computer Vision Engineer,"Reinforcement Learning, C++, Pandas, Keras, NumPy",Senior,133579,222158,177868.5
+Tech,ML Engineer,"FastAPI, Keras, C++, LangChain, SQL, AWS",Mid,46712,73011,59861.5
+Automotive,AI Researcher,"Python, Hugging Face, Flask, Excel",Entry,84284,167397,125840.5
+Healthcare,NLP Engineer,"Pandas, Python, C++",Senior,135833,197643,166738.0
+Automotive,Computer Vision Engineer,"MLflow, Scikit-learn, TensorFlow, Azure, SQL, R",Entry,141467,155307,148387.0
+Finance,Computer Vision Engineer,"Azure, R, Pandas, MLflow, TensorFlow, Keras",Mid,123819,202854,163336.5
+Finance,Data Analyst,"Reinforcement Learning, Power BI, C++, AWS",Entry,98582,135739,117160.5
+Healthcare,AI Researcher,"Excel, TensorFlow, Hugging Face, MLflow, SQL",Entry,92626,143007,117816.5
+Healthcare,AI Product Manager,"Hugging Face, LangChain, Azure, AWS, SQL",Senior,108432,195288,151860.0
+E-commerce,AI Product Manager,"C++, Scikit-learn, FastAPI",Entry,121907,204567,163237.0
+Finance,NLP Engineer,"FastAPI, Reinforcement Learning, PyTorch, C++, Keras",Entry,85589,148109,116849.0
+Tech,NLP Engineer,"CUDA, Pandas, AWS, LangChain",Senior,139437,239385,189411.0
+E-commerce,Quant Researcher,"LangChain, AWS, MLflow, SQL, Hugging Face, Power BI",Senior,90279,128707,109493.0
+Tech,Quant Researcher,"Flask, LangChain, C++",Entry,71813,105633,88723.0
+Finance,Computer Vision Engineer,"Azure, Hugging Face, TensorFlow, NumPy, PyTorch",Senior,55539,114892,85215.5
+E-commerce,AI Researcher,"R, Reinforcement Learning, LangChain, Hugging Face, CUDA, Flask",Entry,145430,192975,169202.5
+Education,AI Product Manager,"CUDA, FastAPI, Power BI, Flask, SQL",Senior,47867,139682,93774.5
+Tech,Computer Vision Engineer,"GCP, CUDA, R",Mid,64749,164044,114396.5
+Tech,AI Product Manager,"Flask, Hugging Face, Keras, Excel, Scikit-learn",Mid,72744,151257,112000.5
+E-commerce,Computer Vision Engineer,"CUDA, Excel, Keras, C++, PyTorch, GCP",Mid,102252,156748,129500.0
+Retail,AI Product Manager,"GCP, C++, MLflow, PyTorch, Scikit-learn, FastAPI",Entry,75063,90302,82682.5
+Education,Data Analyst,"Pandas, LangChain, Excel, Power BI, Keras",Entry,49065,72252,60658.5
+Automotive,NLP Engineer,"Power BI, Reinforcement Learning, LangChain, SQL, Excel, Scikit-learn",Entry,138980,186003,162491.5
+Finance,AI Researcher,"TensorFlow, CUDA, Reinforcement Learning, GCP, Excel",Entry,116702,165765,141233.5
+Education,NLP Engineer,"Keras, NumPy, Reinforcement Learning, Azure, GCP, Power BI",Senior,49864,72810,61337.0
+Tech,AI Researcher,"Power BI, Keras, GCP, FastAPI",Mid,105130,146172,125651.0
+Healthcare,Data Analyst,"MLflow, FastAPI, Azure, Keras, Pandas, CUDA",Entry,74633,121776,98204.5
+Healthcare,Quant Researcher,"MLflow, TensorFlow, CUDA, GCP",Senior,56993,155521,106257.0
+Automotive,Computer Vision Engineer,"Python, Pandas, LangChain, PyTorch, Hugging Face",Entry,46611,66817,56714.0
+Finance,Data Scientist,"Reinforcement Learning, Pandas, Flask",Senior,46024,113373,79698.5
+Retail,Computer Vision Engineer,"LangChain, Azure, GCP, Python, R, C++",Senior,41220,94501,67860.5
+Tech,Data Scientist,"AWS, Flask, Reinforcement Learning, LangChain, R",Senior,140240,228848,184544.0
+E-commerce,AI Product Manager,"Pandas, Reinforcement Learning, NumPy, TensorFlow, Keras, CUDA",Mid,136191,223887,180039.0
+Finance,ML Engineer,"Keras, Scikit-learn, FastAPI, Azure, GCP, CUDA",Mid,103253,177379,140316.0
+Retail,NLP Engineer,"GCP, Keras, Flask, LangChain, TensorFlow, Python",Entry,132044,204939,168491.5
+Tech,AI Researcher,"Python, Azure, Power BI, Pandas, C++, FastAPI",Mid,50076,116015,83045.5
+Automotive,Data Scientist,"LangChain, NumPy, Pandas, Azure, Scikit-learn, Hugging Face",Entry,92423,112166,102294.5
+Retail,NLP Engineer,"Scikit-learn, MLflow, AWS",Entry,141773,190766,166269.5
+E-commerce,NLP Engineer,"FastAPI, LangChain, R",Mid,57442,108303,82872.5
+Tech,Quant Researcher,"Flask, Pandas, Reinforcement Learning, Scikit-learn, NumPy",Entry,125288,172272,148780.0
+E-commerce,Quant Researcher,"R, Flask, Power BI",Entry,109244,192898,151071.0
+Automotive,AI Product Manager,"PyTorch, Hugging Face, SQL, MLflow, R, Python",Senior,89405,129344,109374.5
+Tech,Computer Vision Engineer,"GCP, Flask, PyTorch, AWS, Excel, Keras",Mid,125228,201338,163283.0
+E-commerce,AI Product Manager,"FastAPI, Reinforcement Learning, AWS",Mid,119543,164615,142079.0
+Automotive,Computer Vision Engineer,"AWS, Excel, Flask, PyTorch",Senior,69269,155758,112513.5
+Retail,AI Product Manager,"PyTorch, GCP, Excel, Flask",Entry,75472,162820,119146.0
+Retail,Data Scientist,"GCP, Reinforcement Learning, AWS",Senior,120392,155826,138109.0
+Tech,ML Engineer,"Flask, NumPy, Scikit-learn",Entry,83724,177161,130442.5
+Finance,ML Engineer,"MLflow, GCP, Python, R, TensorFlow",Senior,43526,94615,69070.5
+Automotive,Computer Vision Engineer,"Azure, CUDA, LangChain, Hugging Face",Mid,69190,92823,81006.5
+Tech,Computer Vision Engineer,"Keras, Pandas, CUDA",Entry,142140,185091,163615.5
+Finance,Data Scientist,"Reinforcement Learning, Power BI, Hugging Face, CUDA, Pandas",Senior,137496,177845,157670.5
+Automotive,Data Scientist,"AWS, MLflow, Hugging Face, Flask",Mid,102029,128204,115116.5
+Automotive,Computer Vision Engineer,"NumPy, R, Pandas",Entry,124300,220342,172321.0
+Retail,Data Scientist,"TensorFlow, Azure, C++, Scikit-learn, Python, Flask",Entry,149747,212159,180953.0
+E-commerce,Data Scientist,"SQL, MLflow, LangChain",Senior,58550,113209,85879.5
+Healthcare,ML Engineer,"Keras, MLflow, Hugging Face, FastAPI, Azure",Mid,136005,206557,171281.0
+Automotive,Data Analyst,"Excel, Azure, Hugging Face, FastAPI",Entry,149181,225098,187139.5
+Healthcare,Quant Researcher,"AWS, Keras, FastAPI",Entry,133857,182147,158002.0
+Education,AI Researcher,"Power BI, Keras, Pandas, Excel, NumPy, PyTorch",Senior,117573,173851,145712.0
+Healthcare,AI Researcher,"NumPy, Hugging Face, Keras, Azure",Senior,85363,130119,107741.0
+E-commerce,Quant Researcher,"Scikit-learn, Pandas, Python, Keras",Mid,56646,83703,70174.5
+Education,Computer Vision Engineer,"Flask, GCP, FastAPI, Reinforcement Learning",Mid,102732,135345,119038.5
+Finance,AI Researcher,"Hugging Face, PyTorch, Power BI, Pandas, Flask",Senior,45791,105166,75478.5
+Finance,AI Product Manager,"CUDA, NumPy, TensorFlow, Keras",Senior,59099,87832,73465.5
+Finance,Quant Researcher,"Python, R, TensorFlow, AWS, Hugging Face, GCP",Entry,47248,70576,58912.0
+Finance,Computer Vision Engineer,"NumPy, TensorFlow, Reinforcement Learning, Keras",Entry,66493,158190,112341.5
+Retail,Data Analyst,"LangChain, Keras, SQL, NumPy, TensorFlow, Scikit-learn",Entry,114601,211800,163200.5
+Education,Data Scientist,"R, FastAPI, NumPy, PyTorch, Excel",Entry,117083,171872,144477.5
+Finance,ML Engineer,"FastAPI, Azure, Pandas, Keras",Entry,109164,147105,128134.5
+Education,ML Engineer,"AWS, Azure, C++, NumPy",Senior,140820,232170,186495.0
+Tech,AI Product Manager,"GCP, R, Flask, Azure, Pandas, FastAPI",Mid,143360,229787,186573.5
+Education,NLP Engineer,"TensorFlow, GCP, Flask, Excel",Senior,93833,129073,111453.0
+Tech,ML Engineer,"TensorFlow, Flask, AWS, Python",Entry,52854,117986,85420.0
+Healthcare,AI Product Manager,"Reinforcement Learning, C++, Keras",Senior,50279,67460,58869.5
+Automotive,Data Scientist,"SQL, Hugging Face, CUDA, GCP, NumPy, C++",Senior,50207,64822,57514.5
+Finance,Computer Vision Engineer,"Python, TensorFlow, Azure, PyTorch, Power BI, Hugging Face",Entry,49814,62288,56051.0
+E-commerce,AI Product Manager,"GCP, SQL, Flask, C++, Scikit-learn",Senior,111908,130116,121012.0
+Education,AI Researcher,"LangChain, Scikit-learn, Hugging Face",Senior,109390,202587,155988.5
+E-commerce,NLP Engineer,"FastAPI, SQL, GCP, Pandas, CUDA, Reinforcement Learning",Entry,101444,169137,135290.5
+Finance,Data Scientist,"MLflow, Python, AWS, NumPy, Flask, C++",Entry,117133,215594,166363.5
+E-commerce,Data Scientist,"Reinforcement Learning, Keras, MLflow, Flask, Pandas, AWS",Senior,55477,100381,77929.0
+Automotive,AI Product Manager,"C++, Scikit-learn, PyTorch, SQL, Reinforcement Learning, Hugging Face",Entry,92033,164027,128030.0
+Healthcare,AI Researcher,"Azure, CUDA, Excel",Senior,97058,148912,122985.0
+E-commerce,ML Engineer,"Excel, Flask, SQL, R",Senior,70051,83613,76832.0
+Healthcare,ML Engineer,"Keras, NumPy, Flask, Python",Mid,125724,223370,174547.0
+Finance,AI Product Manager,"LangChain, NumPy, CUDA",Senior,131442,152901,142171.5
+Education,Quant Researcher,"R, Excel, SQL, MLflow, PyTorch, CUDA",Senior,79312,97051,88181.5
+Healthcare,Quant Researcher,"GCP, Python, R",Mid,115682,141436,128559.0
+Tech,Data Analyst,"GCP, PyTorch, Keras, Reinforcement Learning, C++",Mid,138711,221786,180248.5
+Retail,NLP Engineer,"FastAPI, Pandas, MLflow, R",Entry,46308,82147,64227.5
+Finance,AI Researcher,"Reinforcement Learning, AWS, Azure",Mid,46859,111642,79250.5
+Retail,ML Engineer,"AWS, Flask, Reinforcement Learning, Scikit-learn, Excel",Senior,135050,200313,167681.5
+Healthcare,ML Engineer,"FastAPI, Pandas, MLflow",Mid,106176,132983,119579.5
+Education,Data Analyst,"FastAPI, Excel, Pandas",Entry,61825,157940,109882.5
+Finance,Quant Researcher,"C++, Pandas, CUDA, Scikit-learn",Mid,134559,195478,165018.5
+Retail,AI Researcher,"Keras, Hugging Face, Power BI, C++, SQL, Python",Mid,79291,125380,102335.5
+Retail,AI Product Manager,"TensorFlow, Pandas, Reinforcement Learning",Entry,48218,71004,59611.0
+E-commerce,AI Product Manager,"Pandas, Reinforcement Learning, TensorFlow",Entry,42270,120885,81577.5
+Retail,Data Analyst,"Reinforcement Learning, Flask, Hugging Face",Mid,106925,155924,131424.5
+E-commerce,AI Product Manager,"AWS, SQL, Python, LangChain, Keras, Azure",Mid,129266,186688,157977.0
+Retail,AI Product Manager,"R, Excel, NumPy",Mid,119647,168743,144195.0
+E-commerce,Data Scientist,"AWS, Power BI, MLflow, C++",Senior,51216,149871,100543.5
+Healthcare,AI Researcher,"Pandas, Azure, Hugging Face, Python",Senior,143939,227202,185570.5
+Finance,Data Analyst,"SQL, FastAPI, Flask, Hugging Face",Entry,99415,192561,145988.0
+Education,ML Engineer,"Hugging Face, Azure, C++, Reinforcement Learning",Mid,92763,144582,118672.5
+Retail,Data Scientist,"Scikit-learn, C++, GCP, FastAPI",Senior,87741,187018,137379.5
+Healthcare,Data Scientist,"C++, SQL, Reinforcement Learning, PyTorch",Entry,70119,104669,87394.0
+Education,Data Scientist,"AWS, SQL, Reinforcement Learning, Keras, Flask, C++",Mid,96233,154946,125589.5
+Healthcare,Data Scientist,"SQL, R, MLflow, Flask, Reinforcement Learning, Python",Mid,84163,157649,120906.0
+Automotive,AI Product Manager,"GCP, Azure, AWS, SQL, MLflow, CUDA",Mid,108145,192990,150567.5
+E-commerce,Computer Vision Engineer,"Keras, GCP, CUDA, AWS, PyTorch",Mid,108715,193682,151198.5
+E-commerce,AI Product Manager,"Python, AWS, PyTorch, NumPy",Senior,147144,199817,173480.5
+Automotive,AI Product Manager,"PyTorch, GCP, Scikit-learn, LangChain, Reinforcement Learning, Keras",Entry,145610,225001,185305.5
+Healthcare,Computer Vision Engineer,"Azure, Hugging Face, Excel, Scikit-learn",Mid,60515,146870,103692.5
+Tech,Data Analyst,"C++, CUDA, Scikit-learn, Keras",Entry,120811,193549,157180.0
+Retail,Quant Researcher,"FastAPI, Scikit-learn, AWS, NumPy",Mid,61543,126761,94152.0
+Healthcare,ML Engineer,"Reinforcement Learning, Flask, NumPy, Keras",Entry,147220,158056,152638.0
+Retail,Data Analyst,"Hugging Face, Excel, SQL, LangChain",Mid,63354,160413,111883.5
+Tech,Quant Researcher,"PyTorch, LangChain, FastAPI",Senior,131169,174872,153020.5
+Healthcare,ML Engineer,"Scikit-learn, NumPy, Power BI, Azure, FastAPI, Reinforcement Learning",Senior,41566,134888,88227.0
+E-commerce,Quant Researcher,"Keras, GCP, PyTorch",Senior,118883,210460,164671.5
+Tech,ML Engineer,"Scikit-learn, MLflow, Python, R, Pandas, FastAPI",Senior,95354,126587,110970.5
+Healthcare,Computer Vision Engineer,"AWS, GCP, CUDA, MLflow",Senior,142291,215970,179130.5
+Education,Computer Vision Engineer,"Scikit-learn, Excel, Power BI, Python",Entry,40629,72042,56335.5
+Tech,Data Scientist,"LangChain, Pandas, Reinforcement Learning, R, FastAPI",Mid,54969,146111,100540.0
+Education,Quant Researcher,"PyTorch, Power BI, Pandas, Hugging Face",Mid,108252,151627,129939.5
+Education,AI Researcher,"Hugging Face, SQL, LangChain, FastAPI, Flask",Senior,70656,152148,111402.0
+E-commerce,ML Engineer,"FastAPI, C++, MLflow",Senior,73293,127143,100218.0
+Retail,AI Researcher,"R, C++, Keras, Excel, Azure",Mid,58659,98311,78485.0
+E-commerce,NLP Engineer,"PyTorch, SQL, Python",Entry,124301,140446,132373.5
+Retail,AI Product Manager,"TensorFlow, GCP, CUDA, R",Entry,113791,138812,126301.5
+Tech,Data Analyst,"SQL, CUDA, LangChain, Scikit-learn, Reinforcement Learning",Mid,145000,223134,184067.0
+Education,AI Product Manager,"AWS, Power BI, FastAPI",Entry,90927,115940,103433.5
+Tech,NLP Engineer,"Reinforcement Learning, SQL, C++, Pandas",Entry,81624,95183,88403.5
+Finance,Computer Vision Engineer,"Reinforcement Learning, PyTorch, GCP, R, Excel",Senior,99722,119999,109860.5
+Healthcare,Data Analyst,"Pandas, Excel, FastAPI, Reinforcement Learning, LangChain",Entry,102547,147531,125039.0
+E-commerce,Quant Researcher,"Azure, Excel, Power BI, C++, NumPy",Mid,124126,178761,151443.5
+Healthcare,Computer Vision Engineer,"PyTorch, AWS, LangChain, Pandas, GCP",Mid,100455,199953,150204.0
+Healthcare,ML Engineer,"SQL, Azure, MLflow, LangChain",Mid,142229,217303,179766.0
+Automotive,NLP Engineer,"AWS, NumPy, CUDA, Azure, SQL, Hugging Face",Mid,99303,165542,132422.5
+Automotive,NLP Engineer,"Keras, PyTorch, Azure, C++, Python, LangChain",Mid,127730,194274,161002.0
+Tech,Computer Vision Engineer,"LangChain, Scikit-learn, Hugging Face",Mid,68119,160582,114350.5
+Education,Computer Vision Engineer,"PyTorch, CUDA, Keras",Entry,72082,92167,82124.5
+Retail,Computer Vision Engineer,"Hugging Face, GCP, R, Scikit-learn",Mid,124909,151333,138121.0
+Retail,Quant Researcher,"Power BI, LangChain, FastAPI, Flask, SQL, Scikit-learn",Mid,102584,198324,150454.0
+Automotive,AI Product Manager,"NumPy, Reinforcement Learning, GCP, Azure, LangChain, Scikit-learn",Entry,51986,73985,62985.5
+Tech,AI Researcher,"Azure, Flask, PyTorch, Excel, Pandas",Mid,132003,197338,164670.5
+Healthcare,Data Analyst,"TensorFlow, Power BI, MLflow, Flask, CUDA, Reinforcement Learning",Entry,44162,104297,74229.5
+Healthcare,Data Analyst,"PyTorch, NumPy, SQL, FastAPI",Senior,62381,112625,87503.0
+Healthcare,Computer Vision Engineer,"TensorFlow, Pandas, Excel, LangChain, MLflow",Entry,144304,184146,164225.0
+Finance,AI Researcher,"Hugging Face, FastAPI, AWS, Scikit-learn, Keras",Mid,55918,137614,96766.0
+Education,NLP Engineer,"SQL, Pandas, AWS, Power BI, Scikit-learn",Entry,59275,147698,103486.5
+Retail,Data Analyst,"TensorFlow, AWS, Flask",Mid,51956,109837,80896.5
+Automotive,NLP Engineer,"Hugging Face, FastAPI, TensorFlow, GCP",Mid,61087,81523,71305.0
+Tech,ML Engineer,"TensorFlow, Keras, R",Mid,132865,203559,168212.0
+Finance,NLP Engineer,"CUDA, Azure, Python, Scikit-learn, Power BI",Senior,146176,197876,172026.0
+Retail,Quant Researcher,"Azure, TensorFlow, AWS, Flask, Reinforcement Learning, LangChain",Mid,92934,116186,104560.0
+Education,Data Scientist,"Python, Power BI, Flask",Senior,116015,126987,121501.0
+Retail,AI Researcher,"Scikit-learn, AWS, Python, MLflow",Senior,141959,220411,181185.0
+Automotive,NLP Engineer,"LangChain, R, C++",Senior,139741,206786,173263.5
+E-commerce,Computer Vision Engineer,"Azure, C++, TensorFlow, Hugging Face, Python, PyTorch",Senior,149199,230455,189827.0
+E-commerce,Data Analyst,"CUDA, SQL, Keras, Azure, LangChain, Reinforcement Learning",Entry,115250,161664,138457.0
+Education,Quant Researcher,"LangChain, Keras, Python, FastAPI, R, C++",Senior,45887,128800,87343.5
+Tech,AI Product Manager,"Python, Power BI, GCP",Entry,59665,114017,86841.0
+E-commerce,ML Engineer,"TensorFlow, Power BI, Scikit-learn, Python, GCP, SQL",Mid,109287,149769,129528.0
+Automotive,AI Researcher,"GCP, MLflow, TensorFlow",Mid,116431,187700,152065.5
+Education,Computer Vision Engineer,"Flask, Scikit-learn, NumPy",Mid,126575,163610,145092.5
+Finance,AI Researcher,"NumPy, Reinforcement Learning, AWS, Power BI, PyTorch, SQL",Mid,41897,72820,57358.5
+Tech,Data Scientist,"Reinforcement Learning, GCP, TensorFlow, Pandas",Mid,40844,100312,70578.0
+Finance,Data Scientist,"PyTorch, NumPy, MLflow",Entry,100222,147306,123764.0
+Healthcare,Data Analyst,"Reinforcement Learning, Python, PyTorch, Keras",Mid,140982,222224,181603.0
+Automotive,NLP Engineer,"PyTorch, NumPy, Power BI",Mid,78788,132832,105810.0
+Tech,AI Researcher,"Flask, Keras, GCP, Power BI",Entry,114070,148337,131203.5
+Healthcare,Data Scientist,"Scikit-learn, GCP, MLflow",Mid,76395,94209,85302.0
+Retail,Quant Researcher,"Scikit-learn, CUDA, Python",Entry,90605,115084,102844.5
+Tech,Computer Vision Engineer,"PyTorch, Excel, TensorFlow, Scikit-learn, Power BI",Mid,47724,147228,97476.0
+Education,NLP Engineer,"Reinforcement Learning, MLflow, Scikit-learn, Flask, Python, FastAPI",Mid,143188,230467,186827.5
+E-commerce,AI Researcher,"LangChain, Hugging Face, Scikit-learn, Flask, Reinforcement Learning, Excel",Mid,96395,136894,116644.5
+Education,ML Engineer,"Keras, R, Power BI, LangChain",Entry,98076,190690,144383.0
+Retail,Data Analyst,"Hugging Face, SQL, LangChain, Reinforcement Learning",Entry,134169,175155,154662.0
+Finance,ML Engineer,"PyTorch, Python, Azure, C++, GCP",Entry,132041,213587,172814.0
+E-commerce,Computer Vision Engineer,"TensorFlow, C++, AWS, CUDA",Entry,60346,76165,68255.5
+Finance,Data Scientist,"Flask, NumPy, C++, Keras, Power BI",Entry,129117,207452,168284.5
+Healthcare,AI Researcher,"Scikit-learn, Azure, MLflow, LangChain, TensorFlow",Mid,119535,171930,145732.5
+Automotive,NLP Engineer,"Excel, C++, MLflow, Pandas",Senior,79319,134930,107124.5
+Healthcare,Data Analyst,"GCP, MLflow, Reinforcement Learning, SQL, Azure, Scikit-learn",Senior,120828,200601,160714.5
+Education,ML Engineer,"R, C++, FastAPI, Excel",Mid,70609,83950,77279.5
+Finance,Quant Researcher,"Python, Hugging Face, R",Mid,88910,103296,96103.0
+Tech,NLP Engineer,"TensorFlow, Python, AWS, Power BI, NumPy",Entry,90926,181068,135997.0
+E-commerce,AI Product Manager,"Python, PyTorch, GCP, Keras, Azure, Flask",Mid,64447,150120,107283.5
+Education,AI Product Manager,"GCP, SQL, Power BI, CUDA, AWS",Mid,121010,149594,135302.0
+Automotive,ML Engineer,"GCP, TensorFlow, MLflow",Mid,117833,141489,129661.0
+Retail,AI Researcher,"SQL, Pandas, Excel",Entry,51913,102370,77141.5
+E-commerce,Computer Vision Engineer,"FastAPI, SQL, Pandas, TensorFlow, MLflow",Mid,74357,107271,90814.0
+Automotive,Quant Researcher,"PyTorch, Flask, Reinforcement Learning, Power BI",Entry,57249,146172,101710.5
+Finance,Computer Vision Engineer,"Flask, AWS, Hugging Face",Entry,145971,240361,193166.0
+Retail,AI Product Manager,"Hugging Face, Azure, CUDA, NumPy",Senior,58633,95916,77274.5
+Retail,Computer Vision Engineer,"FastAPI, Keras, Hugging Face, Azure, NumPy",Senior,146101,170747,158424.0
+Retail,Computer Vision Engineer,"TensorFlow, NumPy, CUDA, Python, AWS, Pandas",Entry,108220,173637,140928.5
+E-commerce,Quant Researcher,"Scikit-learn, Reinforcement Learning, Pandas, Azure, R, GCP",Entry,131341,220958,176149.5
+Healthcare,Data Analyst,"LangChain, Scikit-learn, Azure, Python, Pandas",Mid,94305,136651,115478.0
+Tech,Data Analyst,"GCP, Python, PyTorch, Excel, Power BI",Mid,118072,133131,125601.5
+Tech,Computer Vision Engineer,"R, LangChain, FastAPI, Reinforcement Learning, Pandas, GCP",Mid,49623,89723,69673.0
+Healthcare,AI Researcher,"CUDA, MLflow, C++, Python, Power BI, NumPy",Entry,89682,171002,130342.0
+Healthcare,AI Product Manager,"FastAPI, C++, R, TensorFlow, Reinforcement Learning",Mid,124069,218603,171336.0
+Tech,Data Scientist,"TensorFlow, SQL, AWS, PyTorch, LangChain",Mid,77044,89787,83415.5
+Healthcare,Data Analyst,"LangChain, MLflow, Azure, Pandas",Entry,57934,125813,91873.5
+Retail,AI Researcher,"C++, R, CUDA, Pandas, Azure",Entry,40829,57416,49122.5
+Automotive,Data Scientist,"Keras, PyTorch, Flask",Entry,104387,170859,137623.0
+Automotive,Quant Researcher,"Keras, SQL, PyTorch, Python, Pandas, Azure",Mid,129320,228375,178847.5
+Finance,ML Engineer,"AWS, Scikit-learn, Azure, Python, TensorFlow, LangChain",Mid,137419,167806,152612.5
+Automotive,Computer Vision Engineer,"Flask, R, Excel",Mid,147739,162992,155365.5
+Retail,AI Researcher,"TensorFlow, NumPy, FastAPI",Entry,62811,122081,92446.0
+Retail,Data Scientist,"Reinforcement Learning, GCP, TensorFlow",Senior,136329,162722,149525.5
+E-commerce,Data Scientist,"Azure, Excel, Power BI, SQL",Senior,103453,183004,143228.5
+Finance,AI Product Manager,"PyTorch, TensorFlow, SQL, LangChain, CUDA",Mid,72972,126528,99750.0
+E-commerce,NLP Engineer,"Flask, Azure, R",Senior,82976,173654,128315.0
+E-commerce,Data Analyst,"Power BI, GCP, Hugging Face",Entry,131943,173682,152812.5
+Tech,AI Product Manager,"Excel, Hugging Face, R",Entry,82505,101984,92244.5
+Education,Quant Researcher,"NumPy, Power BI, LangChain, C++, Keras, SQL",Mid,68140,81958,75049.0
+Retail,AI Product Manager,"SQL, LangChain, AWS, NumPy, Azure",Senior,96190,108045,102117.5
+Healthcare,Computer Vision Engineer,"Python, C++, NumPy, Reinforcement Learning, GCP",Mid,99962,156102,128032.0
+Tech,Data Analyst,"Python, Reinforcement Learning, CUDA",Senior,83481,108793,96137.0
+E-commerce,ML Engineer,"TensorFlow, Azure, LangChain, Flask, Excel",Mid,64006,146071,105038.5
+Finance,ML Engineer,"Azure, SQL, Reinforcement Learning, PyTorch, Hugging Face",Mid,139090,189499,164294.5
+Education,NLP Engineer,"Flask, CUDA, FastAPI, Pandas, Excel",Mid,128590,227043,177816.5
+Finance,Quant Researcher,"C++, GCP, LangChain, PyTorch, FastAPI",Senior,134084,221937,178010.5
+Tech,AI Researcher,"C++, PyTorch, Power BI",Entry,115909,139125,127517.0
+Healthcare,AI Researcher,"Python, Reinforcement Learning, CUDA, Flask, Excel",Senior,149070,195129,172099.5
+Tech,Quant Researcher,"R, C++, Hugging Face, Scikit-learn, Python, LangChain",Senior,97778,137738,117758.0
+E-commerce,NLP Engineer,"FastAPI, NumPy, LangChain, Scikit-learn, Power BI",Senior,110485,197629,154057.0
+Healthcare,Data Analyst,"Scikit-learn, Hugging Face, LangChain",Entry,145486,222351,183918.5
+Automotive,Data Analyst,"AWS, PyTorch, C++, FastAPI",Senior,73608,161245,117426.5
+Finance,AI Researcher,"Python, Scikit-learn, Pandas",Mid,126809,151152,138980.5
+Automotive,Computer Vision Engineer,"C++, Pandas, NumPy, R",Entry,64760,118946,91853.0
+Retail,Data Scientist,"FastAPI, Scikit-learn, CUDA",Entry,52280,123227,87753.5
+Healthcare,Data Analyst,"Reinforcement Learning, C++, GCP, AWS, FastAPI",Senior,68612,166635,117623.5
+Retail,AI Product Manager,"R, Hugging Face, Flask, NumPy, Keras, C++",Entry,138615,197243,167929.0
+E-commerce,AI Product Manager,"MLflow, TensorFlow, Power BI, CUDA, NumPy, PyTorch",Entry,121197,202610,161903.5
+Tech,AI Product Manager,"PyTorch, Scikit-learn, C++",Mid,134410,177448,155929.0
+Healthcare,Quant Researcher,"Power BI, Hugging Face, NumPy, R, PyTorch, Keras",Entry,80993,138061,109527.0
+Education,NLP Engineer,"Power BI, Hugging Face, Keras",Mid,77685,142876,110280.5
+Retail,AI Product Manager,"Flask, GCP, MLflow, Pandas",Mid,125294,146737,136015.5
+Healthcare,Data Analyst,"Pandas, Power BI, MLflow, Python, AWS",Senior,127211,147416,137313.5
+Healthcare,ML Engineer,"TensorFlow, LangChain, AWS",Senior,122827,192222,157524.5
+Healthcare,Data Scientist,"CUDA, Hugging Face, Python",Entry,76718,113040,94879.0
+E-commerce,Data Scientist,"R, Python, LangChain, FastAPI",Entry,69019,161590,115304.5
+Automotive,AI Product Manager,"Keras, Excel, GCP",Entry,118645,155704,137174.5
+Automotive,Quant Researcher,"Reinforcement Learning, Excel, NumPy, PyTorch, Pandas, SQL",Entry,92698,140658,116678.0
+Healthcare,Data Analyst,"Pandas, Power BI, SQL",Senior,136382,182715,159548.5
+Retail,Computer Vision Engineer,"R, Hugging Face, Flask",Mid,149696,227014,188355.0
+Education,ML Engineer,"Power BI, CUDA, AWS",Entry,71669,113847,92758.0
+Healthcare,Data Analyst,"Flask, TensorFlow, C++",Senior,119078,145795,132436.5
+Healthcare,Data Scientist,"Scikit-learn, Python, Hugging Face, Pandas, Keras, MLflow",Senior,126591,151914,139252.5
+Tech,Quant Researcher,"LangChain, SQL, PyTorch, Excel",Mid,121727,184486,153106.5
+Finance,NLP Engineer,"Python, MLflow, PyTorch, FastAPI",Senior,90376,118923,104649.5
+Retail,Computer Vision Engineer,"Scikit-learn, Flask, PyTorch, SQL",Senior,132851,157092,144971.5
+Tech,AI Researcher,"Keras, Pandas, AWS, SQL",Mid,134738,212228,173483.0
+Healthcare,AI Researcher,"NumPy, Scikit-learn, SQL, LangChain, C++",Senior,107785,120214,113999.5
+Tech,Data Analyst,"MLflow, Keras, CUDA, FastAPI, Flask",Mid,125072,185338,155205.0
+E-commerce,Data Analyst,"Pandas, R, AWS, TensorFlow, NumPy, Reinforcement Learning",Mid,117423,185384,151403.5
+Healthcare,Data Scientist,"LangChain, Power BI, Azure, C++, Scikit-learn, TensorFlow",Entry,82983,154304,118643.5
+Education,ML Engineer,"Power BI, LangChain, Python, Reinforcement Learning, TensorFlow, PyTorch",Senior,44946,127238,86092.0
+Tech,Data Analyst,"GCP, Keras, Flask",Senior,138174,196751,167462.5
+Tech,NLP Engineer,"SQL, Flask, Azure, LangChain",Entry,141056,174505,157780.5
+Retail,NLP Engineer,"SQL, Python, C++, MLflow, CUDA",Mid,56727,128729,92728.0
+E-commerce,AI Researcher,"TensorFlow, PyTorch, LangChain",Mid,118148,188104,153126.0
+Education,AI Researcher,"C++, TensorFlow, AWS",Entry,139066,166070,152568.0
+Automotive,Data Scientist,"FastAPI, Excel, Pandas",Mid,108653,184973,146813.0
+Healthcare,Computer Vision Engineer,"FastAPI, PyTorch, Excel, SQL",Entry,89361,142061,115711.0
+Healthcare,ML Engineer,"GCP, PyTorch, Power BI, TensorFlow",Entry,63877,154660,109268.5
+Healthcare,Data Scientist,"PyTorch, GCP, Reinforcement Learning, Excel, C++",Senior,126539,221782,174160.5
+Finance,Data Scientist,"FastAPI, SQL, GCP, AWS",Senior,148786,200150,174468.0
+Finance,ML Engineer,"TensorFlow, Scikit-learn, Flask, NumPy, SQL, LangChain",Entry,119811,192662,156236.5
+Retail,Quant Researcher,"NumPy, GCP, Flask, TensorFlow",Entry,81526,98544,90035.0
+Healthcare,AI Product Manager,"TensorFlow, PyTorch, Pandas, Excel, Scikit-learn, MLflow",Senior,121033,138940,129986.5
+Education,Data Analyst,"Flask, Keras, GCP, Python, R, C++",Mid,72934,95192,84063.0
+Tech,Quant Researcher,"Pandas, FastAPI, PyTorch, CUDA, Azure",Mid,44039,63263,53651.0
+Healthcare,AI Product Manager,"Keras, Azure, Excel, MLflow, FastAPI, Hugging Face",Entry,46970,125252,86111.0
+Tech,Computer Vision Engineer,"TensorFlow, SQL, NumPy, Flask, Scikit-learn, Hugging Face",Entry,118416,199499,158957.5
+E-commerce,AI Product Manager,"Reinforcement Learning, Pandas, AWS, PyTorch, Azure, C++",Entry,65640,83693,74666.5
+Education,Computer Vision Engineer,"Hugging Face, FastAPI, GCP, Pandas, SQL",Mid,81177,94986,88081.5
+Tech,Computer Vision Engineer,"NumPy, Python, Excel",Mid,103151,196428,149789.5
+Automotive,Computer Vision Engineer,"Hugging Face, LangChain, Azure, C++",Entry,117069,178784,147926.5
+Education,Data Analyst,"CUDA, Hugging Face, GCP, FastAPI",Entry,113673,155142,134407.5
+E-commerce,NLP Engineer,"MLflow, Python, Excel, NumPy, LangChain, Power BI",Senior,138749,165833,152291.0
+Finance,Quant Researcher,"Python, GCP, Power BI, MLflow",Entry,100978,164897,132937.5
+Automotive,Data Scientist,"GCP, AWS, Keras, Azure",Senior,108286,185587,146936.5
+Finance,AI Researcher,"GCP, Excel, PyTorch",Entry,56159,125898,91028.5
+Retail,Data Scientist,"NumPy, LangChain, FastAPI",Entry,77346,131068,104207.0
+Finance,Computer Vision Engineer,"CUDA, Azure, MLflow, NumPy",Mid,50711,112317,81514.0
+E-commerce,AI Product Manager,"PyTorch, Reinforcement Learning, Excel",Entry,105715,122718,114216.5
+Retail,Data Scientist,"GCP, Excel, Scikit-learn, Azure",Mid,65347,115073,90210.0
+Education,NLP Engineer,"GCP, PyTorch, NumPy, FastAPI, Excel, Pandas",Senior,119430,197885,158657.5
+Healthcare,Data Scientist,"Python, Reinforcement Learning, Hugging Face",Mid,148872,221944,185408.0
+E-commerce,Quant Researcher,"Azure, Flask, TensorFlow",Mid,59784,116141,87962.5
+Healthcare,AI Product Manager,"LangChain, CUDA, TensorFlow, Reinforcement Learning, Excel, Scikit-learn",Senior,100903,151186,126044.5
+Education,Computer Vision Engineer,"Azure, Power BI, Flask",Mid,101903,111989,106946.0
+Retail,ML Engineer,"Azure, Reinforcement Learning, Flask, Scikit-learn",Entry,147468,228501,187984.5
+Finance,Computer Vision Engineer,"Excel, Power BI, GCP, AWS, CUDA, C++",Senior,127777,214097,170937.0
+Finance,AI Researcher,"LangChain, Power BI, Azure",Senior,75757,96179,85968.0
+Tech,AI Researcher,"Flask, Scikit-learn, FastAPI, CUDA, Azure",Mid,114948,190372,152660.0
+Healthcare,Data Analyst,"Flask, SQL, Azure",Entry,77386,96514,86950.0
+Finance,Data Analyst,"Reinforcement Learning, Excel, Azure, Pandas, GCP, MLflow",Senior,69451,119444,94447.5
+Retail,Data Scientist,"R, PyTorch, FastAPI, Pandas, Reinforcement Learning, Scikit-learn",Senior,104456,117390,110923.0
+Retail,AI Researcher,"FastAPI, NumPy, PyTorch, Hugging Face, Flask",Senior,148709,198017,173363.0
+Tech,AI Product Manager,"Hugging Face, NumPy, Flask",Mid,103079,119522,111300.5
+Finance,Data Scientist,"Flask, FastAPI, Scikit-learn, AWS, Reinforcement Learning, MLflow",Entry,113860,151781,132820.5
+E-commerce,Data Analyst,"R, Reinforcement Learning, MLflow, C++, Scikit-learn",Senior,74945,103128,89036.5
+Healthcare,ML Engineer,"C++, Flask, NumPy, LangChain, SQL",Senior,92486,179935,136210.5
+Healthcare,Data Scientist,"Power BI, Python, GCP, MLflow",Entry,106180,184308,145244.0
+Automotive,AI Researcher,"Flask, Power BI, AWS, NumPy, CUDA, Azure",Mid,132233,160821,146527.0
+Education,ML Engineer,"Power BI, CUDA, PyTorch, SQL, Excel, GCP",Senior,91241,125804,108522.5
+Finance,Computer Vision Engineer,"C++, Hugging Face, TensorFlow",Senior,110000,185537,147768.5
+Education,ML Engineer,"Python, Excel, FastAPI, PyTorch, LangChain, GCP",Mid,52748,92984,72866.0
+Tech,ML Engineer,"R, LangChain, Hugging Face",Entry,96779,134713,115746.0
+Automotive,AI Product Manager,"MLflow, Excel, Scikit-learn, Reinforcement Learning, Python",Mid,104125,191894,148009.5
+E-commerce,Data Scientist,"GCP, AWS, Pandas, Flask, Python",Senior,69252,109380,89316.0
+Education,Quant Researcher,"NumPy, C++, SQL",Entry,111030,208765,159897.5
+Education,AI Product Manager,"NumPy, C++, MLflow",Senior,41699,59726,50712.5
+E-commerce,Data Scientist,"Python, Excel, Hugging Face, CUDA, Flask",Entry,106640,124170,115405.0
+Automotive,Computer Vision Engineer,"Scikit-learn, C++, Power BI",Entry,100995,196234,148614.5
+Retail,Data Analyst,"Excel, Flask, C++, Scikit-learn",Mid,45889,122997,84443.0
+Finance,Data Analyst,"NumPy, MLflow, PyTorch, Power BI, Scikit-learn, C++",Entry,143526,170125,156825.5
+Retail,NLP Engineer,"Reinforcement Learning, MLflow, SQL, NumPy",Mid,50742,114775,82758.5
+Education,NLP Engineer,"CUDA, Keras, Hugging Face, Reinforcement Learning",Senior,92504,103546,98025.0
+Tech,NLP Engineer,"Power BI, LangChain, AWS, Hugging Face, Flask",Senior,140645,172949,156797.0
+Tech,Computer Vision Engineer,"CUDA, C++, Power BI, FastAPI",Senior,67314,88216,77765.0
+Education,Data Scientist,"Power BI, Reinforcement Learning, R, TensorFlow, GCP, Python",Mid,116027,190410,153218.5
+Education,ML Engineer,"TensorFlow, Hugging Face, LangChain",Mid,55995,137734,96864.5
+Finance,ML Engineer,"Scikit-learn, MLflow, FastAPI",Entry,79142,150174,114658.0
+E-commerce,Data Analyst,"Power BI, CUDA, Pandas",Entry,49729,93113,71421.0
+Education,ML Engineer,"Reinforcement Learning, PyTorch, Scikit-learn",Mid,133127,147369,140248.0
+Healthcare,AI Researcher,"AWS, Scikit-learn, Keras, PyTorch, LangChain",Entry,64534,127901,96217.5
+Healthcare,Data Analyst,"Scikit-learn, PyTorch, CUDA",Mid,100195,144148,122171.5
+Finance,Data Analyst,"Flask, FastAPI, CUDA, AWS",Entry,65884,114586,90235.0
+Education,Data Scientist,"R, PyTorch, SQL, NumPy, CUDA",Mid,110008,207656,158832.0
+Retail,AI Product Manager,"Pandas, Power BI, SQL, Reinforcement Learning, LangChain",Entry,141080,176268,158674.0
+Healthcare,NLP Engineer,"Azure, AWS, Keras, Flask, SQL",Mid,98451,116247,107349.0
+E-commerce,AI Product Manager,"R, C++, Keras, Hugging Face",Entry,92936,189944,141440.0
+Automotive,AI Product Manager,"CUDA, Azure, Power BI, LangChain",Senior,95352,123255,109303.5
+E-commerce,Quant Researcher,"GCP, CUDA, PyTorch, FastAPI, TensorFlow, Excel",Mid,58077,99999,79038.0
+Finance,Data Analyst,"GCP, Pandas, R",Mid,124312,151418,137865.0
+Healthcare,NLP Engineer,"Power BI, Pandas, Flask",Senior,93786,129779,111782.5
+Tech,Computer Vision Engineer,"TensorFlow, Hugging Face, Pandas, Flask, Reinforcement Learning, Keras",Mid,110572,124509,117540.5
+Finance,Data Analyst,"Power BI, NumPy, R, FastAPI, Keras",Entry,51641,93894,72767.5
+Tech,NLP Engineer,"AWS, Excel, Keras, Hugging Face, Azure, Reinforcement Learning",Senior,51700,88420,70060.0
+Automotive,ML Engineer,"Python, Hugging Face, Keras, LangChain",Entry,116899,150888,133893.5
+Automotive,Data Analyst,"Excel, Hugging Face, GCP",Mid,81196,159549,120372.5
+Healthcare,Quant Researcher,"NumPy, Reinforcement Learning, Python, Hugging Face, PyTorch, GCP",Entry,59030,80182,69606.0
+Education,Quant Researcher,"NumPy, Python, MLflow, Flask, GCP",Entry,64001,154291,109146.0
+Healthcare,Quant Researcher,"Excel, Keras, GCP, Scikit-learn, Hugging Face, Pandas",Mid,107796,134517,121156.5
+Tech,Data Scientist,"PyTorch, Hugging Face, Excel",Entry,71884,105313,88598.5
+Tech,Data Scientist,"Reinforcement Learning, LangChain, Pandas, TensorFlow, MLflow, FastAPI",Senior,147074,174771,160922.5
+Tech,AI Product Manager,"CUDA, SQL, Azure, Excel, Pandas",Mid,92572,114371,103471.5
+Education,AI Product Manager,"R, Azure, TensorFlow",Mid,102870,113156,108013.0
+Tech,NLP Engineer,"AWS, R, Pandas, Power BI, SQL, Scikit-learn",Mid,120347,143612,131979.5
+E-commerce,Data Scientist,"Hugging Face, R, TensorFlow, MLflow, NumPy",Senior,75231,145702,110466.5
+Healthcare,Data Scientist,"Power BI, Scikit-learn, Excel",Senior,58470,121970,90220.0
+Automotive,NLP Engineer,"Hugging Face, Azure, Keras",Entry,106459,135097,120778.0
+Tech,ML Engineer,"LangChain, PyTorch, Power BI, Pandas, Scikit-learn, R",Mid,122945,203527,163236.0
+Education,Data Analyst,"Hugging Face, Excel, Pandas, Keras, Reinforcement Learning, AWS",Mid,124091,191684,157887.5
+Automotive,Computer Vision Engineer,"PyTorch, Excel, Pandas, MLflow, Hugging Face",Senior,137315,197039,167177.0
+Healthcare,AI Researcher,"LangChain, SQL, Pandas, R, Reinforcement Learning, Python",Entry,106512,143521,125016.5
+Retail,NLP Engineer,"Reinforcement Learning, TensorFlow, NumPy",Mid,98138,173798,135968.0
+Finance,Computer Vision Engineer,"Flask, LangChain, PyTorch, MLflow, SQL",Entry,135742,157917,146829.5
+E-commerce,ML Engineer,"FastAPI, NumPy, C++",Senior,83533,101505,92519.0
+Healthcare,Computer Vision Engineer,"Reinforcement Learning, LangChain, CUDA, Hugging Face",Entry,121547,203993,162770.0
+Retail,Data Analyst,"TensorFlow, Python, SQL",Entry,120806,164790,142798.0
+Tech,Computer Vision Engineer,"AWS, Keras, GCP, SQL",Mid,98170,187910,143040.0
+Education,Data Analyst,"Python, SQL, PyTorch",Senior,69719,121288,95503.5
+Education,Quant Researcher,"Hugging Face, Flask, Scikit-learn, GCP",Mid,149745,219560,184652.5
+Healthcare,AI Product Manager,"FastAPI, TensorFlow, Python, GCP",Entry,121766,167056,144411.0
+Automotive,Quant Researcher,"Hugging Face, C++, NumPy, R",Senior,134147,151699,142923.0
+Finance,AI Researcher,"LangChain, Python, Excel, AWS, Power BI, Hugging Face",Mid,120540,186828,153684.0
+Finance,AI Researcher,"Power BI, Excel, Azure, Keras, C++",Entry,109782,188846,149314.0
+Finance,NLP Engineer,"Python, MLflow, PyTorch, C++, GCP, Hugging Face",Senior,122408,206048,164228.0
+Healthcare,Quant Researcher,"Scikit-learn, AWS, Python, CUDA",Mid,58854,124327,91590.5
+Automotive,Quant Researcher,"Flask, LangChain, AWS, Reinforcement Learning",Entry,88941,139505,114223.0
+Retail,Data Analyst,"Azure, Pandas, Excel, Reinforcement Learning, LangChain",Entry,72495,145673,109084.0
+Retail,Computer Vision Engineer,"GCP, C++, Azure, TensorFlow, CUDA, R",Senior,82814,179347,131080.5
+Finance,ML Engineer,"CUDA, Azure, FastAPI, Flask",Mid,116933,134438,125685.5
+Finance,AI Product Manager,"Pandas, Python, PyTorch, R, Flask",Senior,98712,188424,143568.0
+E-commerce,Data Analyst,"Python, Power BI, Hugging Face, AWS",Mid,60237,131972,96104.5
+Automotive,Data Scientist,"AWS, SQL, CUDA, GCP, TensorFlow, C++",Mid,107898,200535,154216.5
+Automotive,Computer Vision Engineer,"Reinforcement Learning, R, Azure, CUDA, TensorFlow",Entry,139581,152762,146171.5
+Healthcare,AI Product Manager,"C++, Keras, Flask, Pandas, PyTorch, Excel",Senior,75241,170085,122663.0
+Education,Quant Researcher,"Keras, Reinforcement Learning, Scikit-learn",Mid,137255,202108,169681.5
+Finance,Data Scientist,"Reinforcement Learning, Excel, C++, CUDA, Keras",Mid,85959,155778,120868.5
+Retail,Quant Researcher,"Scikit-learn, Azure, Hugging Face",Mid,127608,200088,163848.0
+Education,Computer Vision Engineer,"TensorFlow, NumPy, CUDA, Power BI",Senior,108442,183191,145816.5
+Education,Data Scientist,"PyTorch, Power BI, Scikit-learn, Flask, NumPy, Keras",Mid,130051,206373,168212.0
+Tech,Data Analyst,"Azure, SQL, NumPy",Mid,97481,117918,107699.5
+Retail,ML Engineer,"Python, LangChain, SQL, AWS, GCP, Power BI",Entry,94087,155660,124873.5
+Tech,ML Engineer,"SQL, MLflow, PyTorch, Power BI",Entry,70792,91387,81089.5
+Tech,NLP Engineer,"Reinforcement Learning, NumPy, Python, Pandas",Mid,68291,154121,111206.0
+Automotive,Data Analyst,"PyTorch, Power BI, Keras",Entry,137372,221784,179578.0
+Automotive,AI Researcher,"Reinforcement Learning, AWS, FastAPI, C++, Azure, LangChain",Entry,83107,169161,126134.0
+Retail,AI Researcher,"FastAPI, Power BI, CUDA",Mid,88435,184953,136694.0
+Tech,AI Product Manager,"FastAPI, CUDA, C++, PyTorch",Senior,136510,188862,162686.0
+Automotive,Data Analyst,"Pandas, TensorFlow, AWS",Senior,143200,155406,149303.0
+Retail,Computer Vision Engineer,"AWS, Excel, TensorFlow, Scikit-learn, Hugging Face",Entry,82823,182473,132648.0
+Automotive,NLP Engineer,"NumPy, PyTorch, AWS, Hugging Face",Senior,109348,119746,114547.0
+Retail,ML Engineer,"Keras, R, Reinforcement Learning, PyTorch",Entry,65370,116822,91096.0
+Retail,Data Analyst,"PyTorch, C++, R, Keras, Reinforcement Learning, Hugging Face",Senior,131317,223043,177180.0
+Automotive,Quant Researcher,"GCP, FastAPI, Keras, R, CUDA, Hugging Face",Senior,87751,118275,103013.0
+Finance,Data Scientist,"MLflow, Reinforcement Learning, LangChain, CUDA, Python",Entry,119481,186317,152899.0
+E-commerce,AI Researcher,"Pandas, Excel, R, AWS",Senior,94861,166400,130630.5
+Finance,ML Engineer,"Flask, Azure, SQL, Hugging Face, Keras, C++",Senior,114821,195654,155237.5
+E-commerce,Quant Researcher,"TensorFlow, C++, Excel, FastAPI, Pandas",Entry,137105,162867,149986.0
+Healthcare,Computer Vision Engineer,"CUDA, Pandas, Scikit-learn, LangChain, Azure, FastAPI",Mid,73444,83704,78574.0
+Retail,ML Engineer,"CUDA, SQL, Python, Reinforcement Learning",Mid,76464,92375,84419.5
+E-commerce,AI Product Manager,"Azure, MLflow, FastAPI, Hugging Face, LangChain",Entry,129651,170616,150133.5
+Retail,NLP Engineer,"SQL, Reinforcement Learning, LangChain, R",Senior,145357,162928,154142.5
+Education,Data Scientist,"PyTorch, NumPy, C++, AWS, Scikit-learn, CUDA",Senior,130772,144979,137875.5
+E-commerce,Data Analyst,"Excel, Power BI, C++, CUDA, Flask",Senior,71169,107210,89189.5
+Automotive,Data Analyst,"FastAPI, SQL, GCP",Mid,108790,120569,114679.5
+Retail,ML Engineer,"AWS, LangChain, Hugging Face, Pandas",Entry,87504,161685,124594.5
+Finance,Data Analyst,"PyTorch, TensorFlow, Azure, Excel, GCP",Mid,83696,154585,119140.5
+Automotive,AI Researcher,"Python, Hugging Face, GCP, AWS",Senior,45038,106353,75695.5
+Tech,AI Researcher,"LangChain, Power BI, Scikit-learn, SQL, Keras",Senior,52265,124743,88504.0
+Automotive,Data Analyst,"AWS, TensorFlow, CUDA, Reinforcement Learning, FastAPI",Mid,147433,197450,172441.5
+Education,Quant Researcher,"Scikit-learn, SQL, Python, Hugging Face",Entry,129069,209902,169485.5
+Automotive,NLP Engineer,"CUDA, LangChain, Python, Azure",Entry,53182,143456,98319.0
+Tech,AI Product Manager,"Azure, Pandas, C++, CUDA",Entry,78877,155191,117034.0
+Tech,AI Product Manager,"Reinforcement Learning, FastAPI, SQL, Excel, Keras, NumPy",Mid,79490,119269,99379.5
+Education,Computer Vision Engineer,"TensorFlow, Scikit-learn, NumPy, C++, FastAPI",Senior,46931,121518,84224.5
+Education,AI Researcher,"Keras, Reinforcement Learning, GCP, CUDA",Senior,62605,95713,79159.0
+Automotive,Data Analyst,"Pandas, Reinforcement Learning, GCP, Hugging Face",Entry,138097,199176,168636.5
+E-commerce,Data Analyst,"Flask, R, LangChain, NumPy, Reinforcement Learning, MLflow",Entry,99857,141489,120673.0
+Retail,Data Analyst,"R, Python, Keras",Senior,107295,174101,140698.0
+Tech,NLP Engineer,"AWS, SQL, Reinforcement Learning, TensorFlow",Entry,123053,222983,173018.0
+Finance,AI Researcher,"MLflow, Power BI, CUDA, R",Mid,93939,149687,121813.0
+Education,NLP Engineer,"AWS, Azure, R",Entry,127132,172973,150052.5
+E-commerce,AI Researcher,"R, AWS, Pandas",Mid,68948,95321,82134.5
+Healthcare,ML Engineer,"Pandas, C++, FastAPI, Excel",Entry,117098,171168,144133.0
+Healthcare,ML Engineer,"Power BI, AWS, Python, MLflow, Excel, Reinforcement Learning",Entry,68093,162110,115101.5
+Tech,AI Researcher,"PyTorch, Scikit-learn, Azure, LangChain",Mid,149051,234508,191779.5
+Finance,NLP Engineer,"Scikit-learn, Reinforcement Learning, Azure, Power BI, TensorFlow",Mid,68849,114222,91535.5
+E-commerce,ML Engineer,"Scikit-learn, FastAPI, PyTorch, Hugging Face, GCP, LangChain",Entry,149671,239816,194743.5
+Finance,ML Engineer,"CUDA, Excel, Flask, Hugging Face, MLflow, Python",Mid,70538,169148,119843.0
+Healthcare,NLP Engineer,"AWS, GCP, Python, MLflow, Scikit-learn, Power BI",Entry,46559,58913,52736.0
+Education,Data Analyst,"Excel, PyTorch, Python, TensorFlow, Hugging Face",Mid,56010,132808,94409.0
+Healthcare,AI Researcher,"Hugging Face, Flask, Excel, CUDA, Pandas",Mid,97069,179529,138299.0
+Retail,Data Scientist,"Keras, CUDA, C++, Python, SQL, Scikit-learn",Entry,50988,141937,96462.5
+E-commerce,AI Researcher,"MLflow, PyTorch, GCP, Python",Entry,127429,145986,136707.5
+Retail,NLP Engineer,"C++, SQL, NumPy, R, Keras",Senior,114412,158034,136223.0
+Automotive,NLP Engineer,"C++, SQL, AWS, Azure, R",Entry,77143,134656,105899.5
+Retail,Computer Vision Engineer,"Reinforcement Learning, PyTorch, Pandas, Scikit-learn",Senior,41541,62798,52169.5
+E-commerce,Data Scientist,"Hugging Face, TensorFlow, FastAPI, Excel, Pandas",Senior,53775,65900,59837.5
+Retail,Data Scientist,"AWS, Excel, PyTorch, R, Pandas",Senior,56922,108481,82701.5
+Healthcare,AI Product Manager,"Excel, Flask, CUDA",Entry,73378,85805,79591.5
+E-commerce,NLP Engineer,"Keras, Hugging Face, Flask, NumPy",Senior,138785,238009,188397.0
+E-commerce,NLP Engineer,"Excel, FastAPI, Keras, PyTorch, Azure, Flask",Entry,76728,116756,96742.0
+Finance,Data Analyst,"SQL, Scikit-learn, FastAPI, GCP",Entry,76471,130897,103684.0
+E-commerce,NLP Engineer,"FastAPI, CUDA, C++, Flask, MLflow, Python",Entry,110388,189599,149993.5
+E-commerce,Data Scientist,"Azure, SQL, Keras, C++, LangChain, TensorFlow",Entry,89874,154358,122116.0
+Education,Quant Researcher,"SQL, CUDA, GCP",Mid,58207,79736,68971.5
+Automotive,Quant Researcher,"Azure, Keras, TensorFlow",Entry,71100,143266,107183.0
+E-commerce,Quant Researcher,"R, Power BI, Python, Azure, TensorFlow, Reinforcement Learning",Entry,137029,236175,186602.0
+Education,Data Scientist,"TensorFlow, Pandas, Power BI, AWS, Keras, Reinforcement Learning",Senior,113059,195940,154499.5
+Healthcare,Data Analyst,"CUDA, Excel, FastAPI, MLflow",Mid,77836,97801,87818.5
+Finance,Quant Researcher,"GCP, Flask, Scikit-learn, Keras, LangChain",Mid,134973,214730,174851.5
+Education,Data Analyst,"C++, Pandas, Azure, Keras",Mid,52949,102386,77667.5
+Healthcare,Data Analyst,"SQL, Excel, LangChain, MLflow, Scikit-learn, Python",Senior,119299,146767,133033.0
+Tech,NLP Engineer,"NumPy, Hugging Face, R, CUDA, Pandas, Reinforcement Learning",Entry,83982,166278,125130.0
+Automotive,ML Engineer,"Python, R, Hugging Face, Scikit-learn, NumPy",Entry,48725,96277,72501.0
+Finance,Quant Researcher,"Excel, R, GCP",Mid,149725,238111,193918.0
+Healthcare,NLP Engineer,"LangChain, FastAPI, C++",Senior,125120,171165,148142.5
+Tech,Data Scientist,"PyTorch, Python, Excel",Entry,92960,134856,113908.0
+Education,AI Researcher,"C++, R, NumPy, PyTorch, GCP, Hugging Face",Mid,84627,107657,96142.0
+Education,Computer Vision Engineer,"Pandas, Azure, Hugging Face, Power BI",Senior,113567,141815,127691.0
+E-commerce,Data Scientist,"NumPy, Hugging Face, C++, Power BI, LangChain",Mid,40402,80152,60277.0
+E-commerce,Data Scientist,"C++, Python, R",Senior,130661,211849,171255.0
+Automotive,Quant Researcher,"FastAPI, Power BI, CUDA, Keras, Hugging Face",Entry,49531,66613,58072.0
+Education,Quant Researcher,"Azure, FastAPI, Excel, Keras, C++",Mid,130480,180145,155312.5
+Finance,Data Scientist,"PyTorch, AWS, Keras, Excel, SQL",Mid,74440,100994,87717.0
+Tech,Quant Researcher,"Hugging Face, LangChain, Python, FastAPI, CUDA",Senior,125311,197070,161190.5
+Education,AI Researcher,"GCP, Flask, Hugging Face, AWS",Entry,69924,129065,99494.5
+E-commerce,ML Engineer,"FastAPI, Reinforcement Learning, MLflow",Mid,143317,202861,173089.0
+Automotive,AI Researcher,"Reinforcement Learning, Keras, PyTorch, Pandas, C++, Hugging Face",Mid,107946,202170,155058.0
+Finance,Data Scientist,"C++, LangChain, Azure, Keras",Mid,104516,120254,112385.0
+Tech,ML Engineer,"Power BI, CUDA, TensorFlow",Entry,100209,149987,125098.0
+Education,Data Analyst,"TensorFlow, Excel, Azure, GCP",Entry,125179,161443,143311.0
+Education,AI Researcher,"Hugging Face, LangChain, Excel, NumPy, Power BI",Senior,74296,157397,115846.5
+Automotive,ML Engineer,"Reinforcement Learning, Flask, Power BI, TensorFlow",Senior,98345,185074,141709.5
+Tech,Quant Researcher,"CUDA, Hugging Face, GCP, Python, AWS",Entry,109031,158268,133649.5
+Education,Computer Vision Engineer,"Scikit-learn, Keras, NumPy, Reinforcement Learning",Senior,117323,142634,129978.5
+Tech,Data Analyst,"Pandas, PyTorch, CUDA, Power BI, Flask",Mid,63685,117966,90825.5
+Tech,Data Analyst,"LangChain, Reinforcement Learning, CUDA, Pandas, Excel",Senior,85582,159454,122518.0
+E-commerce,AI Product Manager,"Python, Power BI, MLflow, Hugging Face, FastAPI",Senior,140375,162701,151538.0
+Finance,AI Product Manager,"FastAPI, Keras, Flask, AWS, GCP",Mid,72541,113000,92770.5
+E-commerce,AI Product Manager,"R, SQL, Pandas, Python",Entry,62419,81701,72060.0
+E-commerce,NLP Engineer,"Flask, GCP, Keras, LangChain, PyTorch",Senior,83082,168419,125750.5
+Finance,ML Engineer,"C++, PyTorch, MLflow, Scikit-learn, TensorFlow",Mid,97924,129750,113837.0
+Automotive,AI Researcher,"Keras, Excel, R",Senior,126658,206526,166592.0
+Automotive,Data Analyst,"TensorFlow, Excel, LangChain",Mid,46246,137067,91656.5
+Finance,Data Analyst,"Reinforcement Learning, LangChain, MLflow, Hugging Face, NumPy, Python",Entry,138115,160417,149266.0
+Healthcare,Data Scientist,"GCP, Power BI, Hugging Face, SQL",Entry,44089,122930,83509.5
+Tech,ML Engineer,"AWS, Azure, Python, R, Scikit-learn, GCP",Senior,75187,168220,121703.5
+Finance,AI Product Manager,"NumPy, R, FastAPI, SQL",Mid,75937,160307,118122.0
+Tech,Data Scientist,"AWS, Azure, C++, LangChain, Python, Flask",Entry,101664,150656,126160.0
+Finance,Computer Vision Engineer,"C++, Python, Keras, Scikit-learn",Entry,129971,201877,165924.0
+Finance,Quant Researcher,"Python, C++, Azure, MLflow, Excel, CUDA",Entry,77772,150810,114291.0
+Automotive,Computer Vision Engineer,"CUDA, TensorFlow, Scikit-learn, PyTorch",Mid,43959,65908,54933.5
+Tech,NLP Engineer,"Azure, C++, Keras",Senior,149301,234157,191729.0
+Education,AI Researcher,"Scikit-learn, Azure, FastAPI, C++",Mid,63305,152463,107884.0
+Finance,NLP Engineer,"Flask, FastAPI, Power BI",Senior,90382,110126,100254.0
+Automotive,AI Product Manager,"R, Flask, Excel, C++, CUDA, Scikit-learn",Mid,47848,137195,92521.5
+Education,Data Analyst,"Hugging Face, Excel, Scikit-learn, R, MLflow",Entry,134994,180108,157551.0
+Education,Quant Researcher,"AWS, Python, Scikit-learn",Senior,62388,82539,72463.5
+Finance,Quant Researcher,"Flask, TensorFlow, Power BI",Senior,55835,97374,76604.5
