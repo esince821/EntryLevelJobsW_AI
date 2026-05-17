@@ -64,7 +64,7 @@ The main columns used in the analysis are:
 
 ---
 
-### Dataset 1: AI Jobs Market (2025–2026)
+### Dataset: AI Jobs Market (2025–2026)
 
 This dataset focuses on the **AI job market**, including salary trends, demand, and job requirements.
 
